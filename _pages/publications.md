@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## PUBLICATIONS IN EDITED VOLUMES
+## PUBLICATIONS IN EDITED VOLUMES xx
 
 
 {% for post in site.teaching reversed %}
