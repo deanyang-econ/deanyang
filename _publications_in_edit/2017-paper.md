@@ -1,14 +1,23 @@
 ---
 title: "Revue d’économie et développement, Vol. 25, 2017"
-collection: publications_in_edit
+collection: publications
 type: "in edit"
-permalink: /publications_in_edit/2017-paper
-venue: "france"
-date: 2017
+permalink: /publications/2017-paper
+venue: "University 1, Department"
+date: 2014-01-01
 location: "City, Country"
 ---
 
-[link](https://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2018/01/yang-2017-migration-policies-for-development.pdf "Des politiques migratoires pour promouvoir le développement (Migration Policies for Development)"), Revue d’économie et développement, Vol. 25, 2017, pp. 75-95. [In French.] A pre-publication English version is [link](https://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2018/01/yang-2017-migration-policies-for-development.pdf "HERE")
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
 
 <!-- ---
 title: "Revue d’économie et développement, Vol. 25, 2017"
