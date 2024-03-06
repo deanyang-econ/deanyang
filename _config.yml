@@ -251,6 +251,18 @@ defaults:
       author_profile: true
       share: true
       comments: true
+
+  # _publications-in-edited-volumes
+  - scope:
+      path: ""
+      type: _publications-in-edited-volumes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
+      
   # _portfolio
   - scope:
       path: ""
