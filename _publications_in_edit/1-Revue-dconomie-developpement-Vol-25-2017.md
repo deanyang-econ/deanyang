@@ -2,7 +2,7 @@
 title: "Revue d’économie et développement, Vol. 25, 2017"
 collection: publications
 type: "in_edit"
-permalink: /publications_in_edit/1-Revue d’économie et développement, Vol. 25, 2017
+permalink: /publications_in_edit/1-Revue-dconomie-developpement-Vol-25-2017
 # venue: "University 1, Department"
 date: 2017
 # location: "City, Country"

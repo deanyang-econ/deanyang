@@ -2,7 +2,7 @@
 title: "International Migration and Remittances,"
 collection: publications
 type: "in_edit"
-permalink: /publications_in_edit/2-International Migration and Remittances,
+permalink: /publications_in_edit/2-International-Migration-and-Remittances
 # venue: "University 1, Department"
 date: 2017
 # location: "City, Country"
