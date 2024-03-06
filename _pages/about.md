@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Dean"
+title: "Dean Yang"
 author_profile: true
 redirect_from: 
   - /about/

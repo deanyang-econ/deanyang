@@ -14,9 +14,3 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-## PUBLICATIONS IN EDITED VOLUMES
-
-{% for post in site.publications_in_edit reversed %}
-  {% include archive-single.html %}
-{% endfor %}
