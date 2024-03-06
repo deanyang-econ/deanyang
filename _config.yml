@@ -233,10 +233,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _publications_in_edit
   - scope:
       path: ""
-      type: teaching
+      type: publications_in_edit
     values:
       layout: single
       author_profile: true
@@ -252,15 +252,6 @@ defaults:
       share: true
       comments: true
 
-  # _publications-in-edited-volumes
-  - scope:
-      path: ""
-      type: _publications-in-edited-volumes
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
 
       
   # _portfolio
