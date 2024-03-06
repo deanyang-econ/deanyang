@@ -1,23 +1,14 @@
 ---
-title: "Teaching experience 1883232"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+title: "Revue d’économie et développement, Vol. 25, 2017"
+collection: publications_in_edit
+type: "in edit"
+permalink: /publications_in_edit/2017-paper
+venue: "france"
+date: 2017
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[link](https://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2018/01/yang-2017-migration-policies-for-development.pdf "Des politiques migratoires pour promouvoir le développement (Migration Policies for Development)"), Revue d’économie et développement, Vol. 25, 2017, pp. 75-95. [In French.] A pre-publication English version is [link](https://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2018/01/yang-2017-migration-policies-for-development.pdf "HERE")
 
 <!-- ---
 title: "Revue d’économie et développement, Vol. 25, 2017"
