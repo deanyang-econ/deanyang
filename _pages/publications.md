@@ -17,6 +17,6 @@ author_profile: true
 
 ## PUBLICATIONS IN EDITED VOLUMES
 
-{% for post in site.teaching reversed %}
+{% for post in site.publications_in_edit reversed %}
   {% include archive-single.html %}
 {% endfor %}
