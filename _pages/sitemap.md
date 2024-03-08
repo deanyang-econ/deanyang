@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Sitemap"
-permalink: /sitemap/
+title: "Dean Yang"
+permalink: https://deanyang-econ.github.io/deanyang/
 author_profile: true
 ---
 

@@ -1,11 +1,25 @@
 # main links links
 devlab-nav:
   - title: "Devlab"
-    url: /devlab/
+    url: /about/
 
-  - title: "Devlab 2"
-    url: /devlab_page_2/
+  - title: "Devlab"
+    url: /publications/
 
-  - title: "Devlab 3"
-    url: /devlab_page_3/    
+ 
+  - title: "Working papers"
+    url: /Working_papers/    
     
+  # - title: "Portfolio"
+  #   url: /portfolio/
+  - title: "Devlab"
+    url: /devlab/    
+   
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  # - title: "Guide"
+  #   url: /markdown/

@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Working papers"
+permalink: /working-papers/
 author_profile: true
 ---
 
@@ -12,11 +12,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-## PUBLICATIONS IN EDITED VOLUMES
-
-{% for post in site.publications_in_edit reversed %}
   {% include archive-single.html %}
 {% endfor %}

@@ -14,7 +14,7 @@ name                     : &name "Prof Dean Yang"
 description              : &description "personal description"
 url                      : https://deanyang-econ.github.io/deanyang # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/drdee23/deanyang"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -199,7 +199,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  publications_in_edit:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -233,15 +233,18 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+
+  # _publications_in_edit
   - scope:
       path: ""
-      type: teaching
+      type: publications_in_edit
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
+
+      
   # _publications
   - scope:
       path: ""
@@ -251,6 +254,9 @@ defaults:
       author_profile: true
       share: true
       comments: true
+
+
+      
   # _portfolio
   - scope:
       path: ""
