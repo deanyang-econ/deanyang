@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "DevLab"
-permalink: /deanyang/devlab/
+permalink: /devlab/
 author_profile: true
 ---
 
