@@ -1,5 +1,5 @@
 ---
-permalink: /deanyang/devlab_page_2/
+permalink: /devlab_page_2/
 title: "DevLab"
 
 ---
