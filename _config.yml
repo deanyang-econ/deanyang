@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Prof Dean Yang "
+title                    : "Dean Yang "
 title_separator          : "-"
 name                     : &name "Prof Dean Yang"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "deanyang-econ.github.io/deanyang/"
 author:
   # Biographic information
   avatar           : "https://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2014/12/yang_formal-1.jpg"
-  name             : "Prof Dean Yang"
+  name             : "Dean Yang"
   pronouns         : # example: "she/her"  
   bio              : "Dean Yang is a Professor in the Department of Economics and 
                       the Ford School of Public Policy at the University of Michigan."
