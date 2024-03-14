@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Dean Yang is a Professor in the Department of Economics and 
                       the Ford School of Public Policy at the University of Michigan."
-  location         : "USA"
-  employer         : "University of Michigan"
+  # location         : "USA"
+  # employer         : "University of Michigan"
   uri              : # URL
   email            : "deanyang@umich.edu" 
 
