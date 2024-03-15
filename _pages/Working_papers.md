@@ -12,7 +12,7 @@ title: "Working papers"
 
 
 <!-- /////////////// -->
-* [Media, Politics, and Conflict: Evidence from Television in India](http://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2022/10/khanna-murathanoglu-theoharides-yang-2022-abundance-from-abroad.pdf) (with Paul Brimble).
+* [Media, Politics, and Conflict: Evidence from Television in India](http://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2023/12/brimble-yang-2023-media-politics-conflict.pdf) (with Paul Brimble).
 
 
 <!-- /////////////// -->

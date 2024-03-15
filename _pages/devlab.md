@@ -2,7 +2,7 @@
 layout: archive
 title: "DevLab"
 permalink: /devlab/
-author_profile: true
+
 ---
 
 <!-- ////////////// -->
@@ -40,13 +40,6 @@ author_profile: true
 
 
 
-### Some sample Devlab home content
+DevLab is the group of Michigan Ph.D. and undergraduate students working with or under the supervision of Dean Yang. DevLab members meet weekly to share their work and give feedback to one another. Current research projects under DevLab span a range of topic areas in development economics, including religion, health, international migration, remittances, colonialism, education, and labor markets. 
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
-
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+<img src='/images/DevLabPic.jpg'>

@@ -1,9 +1,27 @@
 ---
-permalink: /devlab_page_2/
-title: "DevLab"
-
+permalink: /devlab_schedule/
+title: "Schedule"
 ---
 
+<style>
+ .row {
+     display: flex;
+     flex-wrap: wrap;
+ }
+
+ .col-md-4 {
+     flex: 1;
+     padding: 10px;
+     box-sizing: border-box;
+     /* border: 1px solid #ccc; */
+ }
+
+ @media (max-width: 768px) {
+     .col-md-4 {
+         flex: 0 0 100%;
+     }
+ }
+ </style>
 <!-- =============================Dev Lab header Below========================== -->
 
 <div class="masthead">
@@ -28,17 +46,9 @@ title: "DevLab"
   </div>
 </div>
 
-
 <!-- =============================Dev Lab Content Below========================== -->
 
-
-### Some sample Devlab 2 content
-
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
-
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+<br><br><br>
+<!-- ## [DevLab Schedule](https://docs.google.com/spreadsheets/d/1HOyqC_CDeIn53g3T7QMLI-wD6xLXZI1h6tHvCIonjgM/edit?pli=1#gid=2128004824)  -->
+<strong>DevLab Schedule</strong>
+<a class="btn" href="https://docs.google.com/spreadsheets/d/1HOyqC_CDeIn53g3T7QMLI-wD6xLXZI1h6tHvCIonjgM/edit?pli=1#gid=2128004824" target="_blank">Open</a>
