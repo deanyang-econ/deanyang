@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Dean Yang is a Professor in the Department of Economics and the Ford School of Public Policy at the University of Michigan. His research agenda spans a range of applied microeconomic topics, including international migration, microfinance, health, disasters, trade, religion, and political economy. Methodologically, much of his work involves randomized controlled trials in field settings, while other work involves unearthing and analyzing novel data sources. His past and current field research locations include El Salvador, Guatemala, Indonesia, Malawi, Mozambique, and the Philippines, as well as migrant populations of Filipinos in Italy and the UAE, Indians in Qatar, and Salvadorans and Kenyans in the U.S. He teaches courses in development economics at the Ph.D., master, and undergraduate levels. A native of the Philippines, he received his undergraduate and Ph.D. degrees in economics from Harvard University.
+I am a development economist at the University of Michigan. My positions here are Professor in the (Department of Economics)[https://lsa.umich.edu/econ], Professor at the (Ford School of Public Policy)[https://fordschool.umich.edu/], and Research Professor at the (Population Studies Center)[https://psc.isr.umich.edu/] (Institute for Social Research).
 
+Listen to Eduardo Montero and me on the (AEA Research Highlights Podcast (November 15, 2022))[https://www.aeaweb.org/research/religious-festivals-development-mexico] on (“Religious Festivals and Economic Development”)[https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20211094] (with Eduardo Montero), *American Economic Review*, October 2022. This (NBER Digest article)[https://www.nber.org/digest-202108/religious-festivals-agriculture-and-economic-progress-mexico] (August 2021) provides a nontechnical summary.
 
+Listen to my interview on the (AEA Research Highlights Podcast (April 28, 2021))[https://www.aeaweb.org/research/dean-yang-africa-green-revolution] on (“Subsidies and the African Green Revolution”)[https://www.aeaweb.org/articles?id=10.1257/app.20190396&&from=f] (with Michael Carter and Rachid Laajaj), *American Economic Journal: Applied Economics*, April 2021. This (VoxDev article)[https://voxdev.org/topic/agriculture/temporary-agricultural-input-subsidies-have-lasting-impacts-mozambique-experiment] (October 2019) provides a nontechnical summary.
 
+Check out my research group, (DevLab)[https://deanyang-econ.github.io/deanyang/devlab/].
+
+Learn more about [Development Economics @ Michigan](https://devecon.umich.edu).
