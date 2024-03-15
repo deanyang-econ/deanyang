@@ -42,4 +42,4 @@ permalink: /devlab/
 
 DevLab is the group of Michigan Ph.D. and undergraduate students working with or under the supervision of Dean Yang. DevLab members meet weekly to share their work and give feedback to one another. Current research projects under DevLab span a range of topic areas in development economics, including religion, health, international migration, remittances, colonialism, education, and labor markets. 
 <br><br><br><br>
-<img src='/images/DevLabPic.jpg'>
+<img src='/deanyang/images/devlabpic.jpg'>
