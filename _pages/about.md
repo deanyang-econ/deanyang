@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a development economist at the University of Michigan. My positions here are Professor in the [Department of Economics](https://lsa.umich.edu/econ), Professor at the [Ford School of Public Policy](https://fordschool.umich.edu/), and Research Professor at the [PopulationStudies Center](https://psc.isr.umich.edu/) (Institute for Social Research).
+I am a development economist at the University of Michigan. My positions here are Professor in the [Department of Economics](https://lsa.umich.edu/econ), Professor at the [Ford School of Public Policy](https://fordschool.umich.edu/), and Research Professor at the [Population Studies Center](https://psc.isr.umich.edu/) (Institute for Social Research).
 
 Listen to Eduardo Montero and me on the [AEA Research Highlights Podcast](https://www.aeaweb.org/research/religious-festivals-development-mexico) on [“Religious Festivals and Economic Development”](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20211094) (with Eduardo Montero), *American Economic Review*, October 2022. This [NBER Digest article](https://www.nber.org/digest-202108/religious-festivals-agriculture-and-economic-progress-mexico) provides a nontechnical summary.
 
