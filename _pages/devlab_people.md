@@ -603,7 +603,7 @@ Department of Economics, LSA
 
 <div class="col-md-4">
 <a href="#">
-<img src='https://devecon.umich.edu/wp-content/uploads/2023/11/Ann-PhotoDevEcon-e1700208769929.jpg'>
+<img src='https://devecon.umich.edu/wp-content/uploads/2023/05/YvetteZDevLab-e1683171618872.jpg'>
 
 <strong>Yvette Zhang</strong><br>
 </a>
