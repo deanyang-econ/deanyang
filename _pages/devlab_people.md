@@ -574,7 +574,7 @@ Department of Economics, LSA
 
 <div class="row">
 <div class="col-md-4">
-<a href="/_pages/about.md">
+<a href="/">
 <img src='https://devecon.umich.edu/wp-content/uploads/2021/08/dean-yang-e1629830010249.jpg'>
 
 <strong>Dean Yang</strong><br>
