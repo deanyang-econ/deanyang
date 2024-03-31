@@ -75,7 +75,7 @@ Department of Economics, LSA
 <img src='https://devecon.umich.edu/wp-content/uploads/2022/07/RohanDevEconPic-scaled-e1659123003737.jpg'>
 
 <strong> Rohan Bhargava</strong><br>
-Program Manager, Development Economics @ Michigan, Undergraduate Student
+Undergraduate Student
 
 Department of Economics, LSA
 
