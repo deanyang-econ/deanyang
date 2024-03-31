@@ -56,7 +56,7 @@ title: "People"
 <strong> Eesha Acharya</strong><br>
 </a>
 
-Undergraduate Student
+Undergraduate Student<br>
 
 Department of Economics, LSA
 
@@ -68,7 +68,7 @@ Department of Economics, LSA
 <strong> Robert Beckemeyer </strong><br>
 </a>
 
-Undergraduate Student
+Undergraduate Student<br>
 
 Department of Economics, LSA
 
@@ -81,7 +81,7 @@ Department of Economics, LSA
 <strong> Rohan Bhargava</strong><br>
 </a>
 
-Program Manager, Development Economics @ Michigan, Undergraduate Student
+Program Manager, Development Economics @ Michigan, Undergraduate Student<br>
 
 Department of Economics, LSA
 
@@ -99,7 +99,7 @@ Department of Economics, LSA
 <strong> Brian Daza</strong><br>
 </a>
 
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
 
@@ -111,7 +111,7 @@ Department of Economics, LSA
 <strong> Joaquin Endara</strong><br>
 </a>
 
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
 
@@ -124,7 +124,7 @@ Department of Economics, LSA
 <strong> Alexander Fertig</strong><br>
 </a>
 
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
 Ford School of Public Policy
@@ -141,7 +141,7 @@ Ford School of Public Policy
 <strong> John Ahlin</strong><br>
 </a>
 
-Undergraduate Student
+Undergraduate Student<br>
 
 Department of Economics, LSA
 Department of Mathematics, LSA
@@ -167,7 +167,7 @@ Population Studies Center, Institute for Social Research
 <strong>Jiaxin Guo</strong><br>
 </a>
 
-Undergraduate Student
+Undergraduate Student<br>
 
 Department of Economics, LSA
 
@@ -185,7 +185,7 @@ Department of Economics, LSA
 <strong> Maximilian Huppertz</strong><br>
 </a>
 
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
 
@@ -197,9 +197,10 @@ Department of Economics, LSA
 <strong> Zara Jacob</strong><br>
 </a>
 
-Undergraduate Student
+Undergraduate Student<br>
 
 Department of Economics, LSA
+
 </div>
 
 <div class="col-md-4">
@@ -209,14 +210,13 @@ Department of Economics, LSA
 <strong> Imryoung Jeong</strong><br>
 </a>
 
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
 
 </div>
 
 </div>
-
 
 <!-- ////////////////////// -->
 <!-- ////////////////////// -->
@@ -231,7 +231,7 @@ Department of Economics, LSA
 <strong>Heesung Kim</strong><br>
 </a>
 
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
 
@@ -243,7 +243,7 @@ Department of Economics, LSA
 <strong> Seongyoon Kim</strong><br>
 </a>
 
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
 
@@ -256,7 +256,7 @@ Department of Economics, LSA
 <strong>Aladdin Ko</strong><br>
 </a>
 
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
 
@@ -274,7 +274,7 @@ Department of Economics, LSA
 <strong>Andrei Arminio Laskievic</strong><br>
 </a>
 
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
 
@@ -286,9 +286,10 @@ Department of Economics, LSA
 <strong>Ruoran Li</strong><br>
 </a>
 
-Undergraduate Student
+Undergraduate Student<br>
 
 Department of Economics, LSA
+
 </div>
 
 <div class="col-md-4">
@@ -297,9 +298,10 @@ Department of Economics, LSA
 
 <strong>Jinghao Liu</strong><br>
 </a>
-Undergraduate Student
+Undergraduate Student<br>
 
 Department of Economics, LSA
+
 </div>
 
 </div>
@@ -312,8 +314,7 @@ Department of Economics, LSA
 <strong>Thomas Lloyd</strong><br>
 </a>
 
-
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
 
@@ -325,7 +326,7 @@ Department of Economics, LSA
 <strong>Laston Manja </strong><br>
 </a>
 
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
 
@@ -338,8 +339,7 @@ Department of Economics, LSA
 <strong>Nicholas Martens</strong><br>
 </a>
 
-
-Undergraduate Student
+Undergraduate Student<br>
 
 PPE and Economics Major, LSA
 
@@ -357,8 +357,7 @@ PPE and Economics Major, LSA
 <strong>Magdalena Martin Kommer</strong><br>
 </a>
 
-
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
 
@@ -370,20 +369,20 @@ Department of Economics, LSA
 <strong>Russell Morton</strong><br>
 </a>
 
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
+
 </div>
 
 <div class="col-md-4">
-<a href="https://lsa.umich.edu/econ/people/phd-students/emir-murathanoglu.html">
+<a href="https://lsa.umich.edu/econ/people/phd-student<br>s/emir-murathanoglu.html">
 <img src='https://devecon.umich.edu/wp-content/uploads/2022/02/Emir-Murathanoglu-e1644421354164.jpeg'>
 
 <strong>Emir Murathanoglu</strong><br>
 </a>
 
-
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
 
@@ -417,9 +416,10 @@ Population Studies Center, Institute for Social Research
 Aneesha Parvathaneni</strong><br>
 </a>
 
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
+
 </div>
 
 <div class="col-md-4">
@@ -429,8 +429,7 @@ Department of Economics, LSA
 <strong>Nyah Phillips</strong><br>
 </a>
 
-
-Undergraduate Student
+Undergraduate Student<br>
 
 Department of Economics, LSA
 
@@ -448,8 +447,7 @@ Department of Economics, LSA
 <strong>Hadin Sayed</strong><br>
 </a>
 
-
-Undergraduate Student
+Undergraduate Student<br>
 
 Department of Economics, LSA
 
@@ -461,9 +459,10 @@ Department of Economics, LSA
 <strong>Yu Shi</strong><br>
 </a>
 
-Undergraduate Student
+Undergraduate Student<br>
 
 Department of Economics, LSA
+
 </div>
 
 <div class="col-md-4">
@@ -473,9 +472,10 @@ Department of Economics, LSA
 <strong>Ryan Sim</strong><br>
 </a>
 
-Undergraduate Student
+Undergraduate Student<br>
 
 Department of Economics, LSA
+
 </div>
 
 </div>
@@ -488,8 +488,7 @@ Department of Economics, LSA
 <strong>Nathan Sunday</strong><br>
 </a>
 
-
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
 
@@ -501,8 +500,7 @@ Department of Economics, LSA
 <strong>Daniel Velásquez-Cabrera</strong><br>
 </a>
 
-
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
 
@@ -516,7 +514,7 @@ Department of Economics, LSA
 Laura Wang</strong><br>
 </a>
 
-Undergraduate Student
+Undergraduate Student<br>
 
 Department of Economics, LSA
 Department of Mathematics, LSA
@@ -535,9 +533,7 @@ Department of Mathematics, LSA
 <strong>Yuqing Wang</strong><br>
 </a>
 
-
-
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
 
@@ -549,9 +545,10 @@ Department of Economics, LSA
 <strong>Elior Waskow</strong><br>
 </a>
 
-Undergraduate Student
+Undergraduate Student<br>
 
 Philosophy, Politics, and Economics Major, LSA
+
 </div>
 
 <div class="col-md-4">
@@ -561,8 +558,7 @@ Philosophy, Politics, and Economics Major, LSA
 <strong>Ann Yang</strong><br>
 </a>
 
-
-Undergraduate Student
+Undergraduate Student<br>
 
 Department of Economics, LSA
 
@@ -570,20 +566,19 @@ Department of Economics, LSA
 
 </div>
 
-<!-- /////////////////////////row 1 -->
+<!-- /////////////////////////row 13 -->
 
 <div class="row">
 <div class="col-md-4">
-<a href="/">
+<a href="/deanyang/">
 <img src='https://devecon.umich.edu/wp-content/uploads/2021/08/dean-yang-e1629830010249.jpg'>
 
 <strong>Dean Yang</strong><br>
 </a>
 
-
 Professor
 
-Department of Economics, LSA
+Department of Economics, LSA<br>
 Ford School of Public Policy
 Population Studies Center, Institute for Social Research
 
@@ -595,10 +590,10 @@ Population Studies Center, Institute for Social Research
 <strong>Triana Yentzen</strong><br>
 </a>
 
-
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, LSA
+
 </div>
 
 <div class="col-md-4">
@@ -608,11 +603,30 @@ Department of Economics, LSA
 <strong>Yvette Zhang</strong><br>
 </a>
 
-
-Undergraduate Student
+Undergraduate Student<br>
 
 Department of Economics, LSA
 
 </div>
 
+</div>
+
+<!-- /////////////////////////row 14 -->
+
+<div class="row">
+<div class="col-md-4">
+<a href="#">
+<img  src='/deanyang/files/profiles/Edgar Zhu.JPG'>
+
+<strong>Edgar Zhu,</strong><br>
+</a>
+
+Undergraduate Student<br>
+ Economics Department, LSA
+
+</div>
+<div class="col-md-4">
+</div>
+<div class="col-md-4">
+</div>
 </div>
