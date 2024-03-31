@@ -32,7 +32,7 @@ author_profile: true
 
 28 . [Financial Education for Female Foreign Domestic Workers in Singapore](/deanyang/files/barua-shastry-yang-2020-financial-education-domestic-workers-singapore.pdf), _Economics of Education Review_, Vol. 78, October 2020. (With Rashmi Barua and Kartini Shastry.)
 
-27 . [Financial Education and Financial Access in Transnational Households: Field Experimental Evidence from the Philippines](/deanyang/files/abarcar-barua-yang-financial-educ-financial-access.pdf), _Economic Development and Cultural Change, Vol. 69, No. 1, October 2020. (With Paolo Abarcar and Rashmi Barua.)
+27 . [Financial Education and Financial Access in Transnational Households: Field Experimental Evidence from the Philippines](/deanyang/files/abarcar-barua-yang-financial-educ-financial-access.pdf), _Economic Development and Cultural Change_, Vol. 69, No. 1, October 2020. (With Paolo Abarcar and Rashmi Barua.)
 
 26 . [Facilitating Worker Mobility: A Randomized Information Intervention among Migrant Workers in Singapore](/deanyang/files/shrestha-yang-2019-facilitating-worker-mobility.pdf), _Economic Development and Cultural Change_, Vol. 68, No. 1, October 2019, pp. 63-91. (With Slesh Shrestha.)
 
@@ -48,7 +48,7 @@ author_profile: true
 
 20 . [Directed Giving: Evidence from an Inter-Household Transfer Experiment in Mozambique](/deanyang/files/batista-silverman-yang-directed-giving.pdf), _Journal of Economic Behavior and Organization_, Vol. 118, October 2015, pp. 2-21. Lead Article. (With Catia Batista and Dan Silverman.)
 
-19 . Evidence on Policies to Increase the Development Impacts of International Migration, World Bank Research Observer_, Vol. 30, No. 2, August 2015, pp. 155-192. (With David McKenzie.)
+19 . [Evidence on Policies to Increase the Development Impacts of International Migration](http://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2015/01/mckenzie-yang-evidence-international-migration.pdf), _World Bank Research Observer_, Vol. 30, No. 2, August 2015, pp. 155-192. (With David McKenzie.)
 
 18 . [Savings in Transnational Households: A Field Experiment Among Migrants from El Salvador](/deanyang/files/aamy-savings-in-transnational-households.pdf), _Review of Economics and Statistics_, Vol. 97, No. 2, May 2015, pp. 332-351.  (With Nava Ashraf, Diego Aycinena, and Claudia Martinez A.)
 
@@ -74,7 +74,7 @@ author_profile: true
 
 7 . [Insurance, Credit, and Technology Adoption: Field Experimental Evidence from Malawi](/deanyang/files/gine-yang-malawi.pdf), _Journal of Development Economics_, Vol. 89, 2009, p. 1-11. Lead Article. (With Xavier Giné.)
 
-6 . [Coping with Disaster: The Impact of Hurricanes on International Financial Flows, 1970-2002](/deanyang/files/yang_copedist.pdf), _B. E. Journal of Economic Analysis & Policy: Vol. 8, No. 1 (Advances), Article 13, 2008.
+6 . [Coping with Disaster: The Impact of Hurricanes on International Financial Flows, 1970-2002](/deanyang/files/yang_copedist.pdf), _B. E. Journal of Economic Analysis & Policy_: Vol. 8, No. 1 (Advances), Article 13, 2008.
 
 5 . [International Migration, Remittances, and Household Investment: Evidence from Philippine Migrants’ Exchange Rate Shocks](/deanyang/files/yang_migshock-1.pdf), _Economic Journal_, Vol. 118, April 2008, pp. 591-630.
 
@@ -82,7 +82,7 @@ author_profile: true
 
 3 . [Can Enforcement Backfire? Crime Displacement in the Context of Customs Reform in the Philippines](/deanyang/files/yangchoi_insurance.pdf), _Review of Economics and Statistics_, Vol. 90, No. 1, February 2008, pp. 1-14. Lead Article. (Click [here](/deanyang/files/yang_displacement_theory_appendix.pdf) for the Theory Appendix.)
 
-2 . Are Remittances Insurance? Evidence from Rainfall Shocks in the Philippines, World Bank Economic Review_, Vol. 21 (2), May 2007, pp. 219-248. (With HwaJung Choi.)
+2 . [Are Remittances Insurance? Evidence from Rainfall Shocks in the Philippines](http://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2014/12/yang_displacement.pdf), _World Bank Economic Review_, Vol. 21 (2), May 2007, pp. 219-248. (With HwaJung Choi.)
 
 1 . [Why Do Migrants Return to Poor Countries? Evidence from Philippine Migrants’ Responses to Exchange Rate Shocks](/deanyang/files/yang_returnmig.pdf), _Review of Economics and Statistics_, Vol. 88, No. 4, November 2006, pp. 715-735. (Click [here](http://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2014/12/returnmig_theory.pdf) for the Theory Appendix.)
 
