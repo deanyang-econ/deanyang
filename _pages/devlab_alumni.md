@@ -50,7 +50,7 @@ title: "Alumni"
 <!-- /////////////////////////row 1 -->
 <div class="row">
 
-<!-- ////////////////// -->
+<!-- ///////////profile/////// -->
 <div class="col-md-4">
 
 <img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Allen-James-2-scaled-e1631034518583.jpg'>
@@ -58,13 +58,13 @@ title: "Alumni"
 <a href="https://www.jamesalleniv.com/" target="_blank"><strong>James Allen</strong></a><br>
 Associate Research Fellow
 
-International Food Policy Research Institute (IFPRI)
+International Food Policy Research Institute (IFPRI)<br>
 
 <strong>Ph.D. Graduation Year: </strong>2023
 
 </div>
 
-<!-- ////////////////// -->
+<!-- /////////profile///////// -->
 <div class="col-md-4">
 
 <img src='https://devecon.umich.edu/wp-content/uploads/2023/09/MoustafaPicDevEcon-2-e1696042175474.jpg'>
@@ -72,12 +72,13 @@ International Food Policy Research Institute (IFPRI)
 <strong>Moustafa El-Kashlan</strong><br>
 Ph.D. Student
 
-Department of Economics, University of Chicago
+Department of Economics,
+<br>University of Chicago<br>
 <strong>BA Graduation Year: </strong>2019
 
 </div>
 
-<!-- ////////////////// -->
+<!-- //////////profile//////// -->
 
 <div class="col-md-4">
 
@@ -86,20 +87,9 @@ Department of Economics, University of Chicago
 <a href="https://mcwayrm.github.io/" target="_blank"><strong>Ryan McWay</strong></a><br>
 Ph.D. Student
 
-Department of Applied Economics, University of Minnesota
+Department of Applied Economics,<br>
+University of Minnesota<br>
 <strong>Predoc Years: </strong>2020-2022
-
-</div>
-<!-- ////////////////// -->
-<div class="col-md-4">
-
-<img src='https://devecon.umich.edu/wp-content/uploads/2023/06/JaredStoloveDevEcon-scaled-e1686080761725.jpg'><br>
-<a href="https://www.linkedin.com/in/jared-stolove-4477b427/" target="_blank"><strong>Jared Stolove</strong></a><br>
-Ph.D. Student
-
-Department of Economics, Yale University<br>
-
-<strong>BA Graduation Year: </strong>2020
 
 </div>
 
@@ -110,4 +100,33 @@ Department of Economics, Yale University<br>
 
 <div class="row">
 
+<!-- ///////////profile/////// -->
+<div class="col-md-4">
+
+<img src='https://devecon.umich.edu/wp-content/uploads/2023/06/JaredStoloveDevEcon-scaled-e1686080761725.jpg'><br>
+<a href="https://www.linkedin.com/in/jared-stolove-4477b427/" target="_blank"><strong>Jared Stolove</strong></a><br>
+Ph.D. Student
+
+Department of Economics, <br>Yale University<br>
+
+<strong>BA Graduation Year: </strong>2020
+
 </div>
+
+<!-- /////////profile///////// -->
+<div class="col-md-4">
+
+
+</div>
+
+<!-- //////////profile//////// -->
+
+<div class="col-md-4">
+
+
+</div>
+
+<!-- /////////profile end///////// -->
+</div>
+
+<!-- /////////////////////////row 2 -->
