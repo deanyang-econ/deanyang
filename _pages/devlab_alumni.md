@@ -56,7 +56,7 @@ title: "Alumni"
 <img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Allen-James-2-scaled-e1631034518583.jpg'>
 
 <a href="https://www.jamesalleniv.com/" target="_blank"><strong>James Allen</strong></a><br>
-Associate Research Fellow
+Associate Research Fellow<br>
 
 International Food Policy Research Institute (IFPRI)<br>
 
@@ -70,7 +70,7 @@ International Food Policy Research Institute (IFPRI)<br>
 <img src='https://devecon.umich.edu/wp-content/uploads/2023/09/MoustafaPicDevEcon-2-e1696042175474.jpg'>
 
 <strong>Moustafa El-Kashlan</strong><br>
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics,
 <br>University of Chicago<br>
@@ -85,7 +85,7 @@ Department of Economics,
 <img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Ryan-McWay-2-e1632013751645.jpg'>
 
 <a href="https://mcwayrm.github.io/" target="_blank"><strong>Ryan McWay</strong></a><br>
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Applied Economics,<br>
 University of Minnesota<br>
@@ -105,7 +105,7 @@ University of Minnesota<br>
 
 <img src='https://devecon.umich.edu/wp-content/uploads/2023/06/JaredStoloveDevEcon-scaled-e1686080761725.jpg'><br>
 <a href="https://www.linkedin.com/in/jared-stolove-4477b427/" target="_blank"><strong>Jared Stolove</strong></a><br>
-Ph.D. Student
+Ph.D. Student<br>
 
 Department of Economics, <br>Yale University<br>
 
