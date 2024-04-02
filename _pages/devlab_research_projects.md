@@ -30,16 +30,16 @@ title: "Research Projects"
 
 
 <!-- =============================Dev Lab Content Below========================== -->
-* [Health and Development in Mozambique](https://fordschool.umich.edu/mozambique-research). What are the barriers to improving public health outcomes in the context of HIV and COVID-19? Funders: USAID; NIH.
+* [Health and Development in Mozambique](https://fordschool.umich.edu/mozambique-research). What are the barriers to improving public health outcomes in the context of HIV and COVID-19? _Funders: USAID, NIH_.
  
 
-* <ins>War Production and Indian Development</ins>. How did British demand for war materiel during World War II affect long-run industrialization in India? Funder: Michigan Institute for Teaching and Research in Economics (MITRE), Department of Economics. 
+* <ins>War Mobilization and Indian Development</ins>. How did British demand for war materiel during World War II affect long-run industrialization in India? _Funder: Michigan Institute for Teaching and Research in Economics (MITRE), Department of Economics_. 
  
 
-* <ins>Religious Taboos and Obligations</ins>. What economic factors affect peoples’ decisions to join religious groups? Funder: MITRE.
+* <ins>Religious Taboos and Obligations</ins>. What economic factors affect peoples’ decisions to join religious groups? _Funder: MITRE_.
  
 
-* <ins>The Green Revolution and Global Population</ins>. How did the technological gains from the Green Revolution affect the size and distribution of population on our planet? Funders: MITRE; Population Studies Center (via NIH NICHD center grant). 
+* <ins>The Green Revolution and Global Population</ins>. How did the technological gains from the Green Revolution affect the size and distribution of population on our planet? _Funders: MITRE, Population Studies Center (via NIH NICHD center grant)_. 
  
 
-* <ins>Virtual Jobs</ins>. What are the barriers facing new college graduates in Sub-Saharan Africa who seek to participate in the global remote (virtual) job market? Funder: J-PAL Jobs and Opportunity Initiative.
+* <ins>Virtual Jobs</ins>. What are the barriers facing new college graduates in Sub-Saharan Africa who seek to participate in the global remote (virtual) job market? _Funder: J-PAL Jobs and Opportunity Initiative_.
