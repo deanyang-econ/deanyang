@@ -154,7 +154,7 @@ Department of Mathematics, LSA
 <strong>Yara Gomes </strong><br>
 </a>
 
-Research Associate
+Predoctoral Scholar
 
 Population Studies Center, Institute for Social Research
 
@@ -403,7 +403,7 @@ Department of Economics, LSA
 <strong>Rita Neves</strong><br>
 </a>
 
-Research Associate
+Predoctoral Scholar
 
 Population Studies Center, Institute for Social Research
 
@@ -429,7 +429,7 @@ Department of Economics, LSA
 <strong>Nyah Phillips</strong><br>
 </a>
 
-Predoctoral Associate<br>
+Predoctoral Scholar<br>
 
 Department of Economics, LSA
 
