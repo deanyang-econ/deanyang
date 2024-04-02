@@ -540,19 +540,6 @@ Department of Economics, LSA
 </div>
 <div class="col-md-4">
 <a href="#">
-<img src='https://devecon.umich.edu/wp-content/uploads/2022/07/EliorWaskow-scaled-e1658125960823.jpg'>
-
-<strong>Elior Waskow</strong><br>
-</a>
-
-Undergraduate Student<br>
-
-Philosophy, Politics, and Economics Major, LSA
-
-</div>
-
-<div class="col-md-4">
-<a href="#">
 <img src='https://devecon.umich.edu/wp-content/uploads/2023/11/Ann-PhotoDevEcon-e1700208769929.jpg'>
 
 <strong>Ann Yang</strong><br>
