@@ -39,7 +39,7 @@ title: "Research Projects"
 * <ins>Religious Taboos and Obligations</ins>. What economic factors affect peoples’ decisions to join religious groups? _Funder: MITRE_.
  
 
-* <ins>The Green Revolution and Global Population</ins>. How did the technological gains from the Green Revolution affect the size and distribution of population on our planet? _Funders: MITRE, Population Studies Center (via NIH NICHD center grant)_. 
+* <ins>The Green Revolution and Global Population</ins>. How did the technological gains from the Green Revolution affect the size and distribution of population on our planet? _Funders: Population Institute, MITRE, Population Studies Center (via NIH NICHD center grant)_. 
  
 
 * <ins>Virtual Jobs</ins>. What are the barriers facing new college graduates in Sub-Saharan Africa who seek to participate in the global remote (virtual) job market? _Funder: J-PAL Jobs and Opportunity Initiative_.
