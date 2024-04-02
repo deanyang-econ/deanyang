@@ -622,7 +622,7 @@ Department of Economics, LSA
 </a>
 
 Undergraduate Student<br>
- Economics Department, LSA
+ Department of Economics, LSA
 
 </div>
 <div class="col-md-4">
