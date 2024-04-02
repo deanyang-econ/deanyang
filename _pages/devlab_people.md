@@ -81,7 +81,7 @@ Department of Economics, LSA
 <strong> Rohan Bhargava</strong><br>
 </a>
 
-Program Manager, Development Economics @ Michigan, Undergraduate Student<br>
+Undergraduate Student<br>
 
 Department of Economics, LSA
 
@@ -429,7 +429,7 @@ Department of Economics, LSA
 <strong>Nyah Phillips</strong><br>
 </a>
 
-Undergraduate Student<br>
+Predoctoral Associate<br>
 
 Department of Economics, LSA
 
