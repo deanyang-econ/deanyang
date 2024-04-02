@@ -98,7 +98,7 @@ author_profile: true
 {% endfor %} -->
 
 
-* [_Des politiques migratoires pour promouvoir le développement (Migration Policies for Development)_](https://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2018/01/yang-2017-migration-policies-for-development.pdf), _Revue d’économie et développement, Vol. 25, 2017, pp. 75-95. [_In French._] A pre-publication English version is [here](https://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2018/01/yang-2017-migration-policies-for-development-English-pre-pub.pdf).
+* [_Des politiques migratoires pour promouvoir le développement (Migration Policies for Development)_](https://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2018/01/yang-2017-migration-policies-for-development.pdf), _Revue d’économie et développement_, Vol. 25, 2017, pp. 75-95. [_In French._] A pre-publication English version is [here](https://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2018/01/yang-2017-migration-policies-for-development-English-pre-pub.pdf).
 
 * “International Migration and Remittances,” in James D. Wright, ed., _International Encyclopedia of the Social & Behavioral Sciences_, 2nd edition, Vol. 12, Oxford: Elsevier, 2015, pp. 519–524.  Pre-publication version is [here](http://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2015/04/yang-international-migration-and-remittances-iesbs-2013-1101.pdf).
 
@@ -106,7 +106,7 @@ author_profile: true
 
 * “Use of Biometric Technology in Developing Countries,” in Robert Cull, Asli Demirgüç-Kunt, and Jonathan Morduch, eds., [_Banking the World: Empirical Foundations of Financial Inclusion_](http://mitpress.mit.edu/books/banking-world-0), MIT Press, 2012. (with Xavier Giné, Jessica Goldberg, Shalini Sankaranarayanan, and Peter Sheerin)
 
-* “Competing for Jobs or Creating Jobs? The Impact of Immigration on Native-Born Unemployment in Venezuela, 1980-2003,” in Francisco Rodriguez and Ricardo Hausmann, eds., [_Venezuela: Anatomy of a Collapse_](http://frrodriguez.web.wesleyan.edu/docs/Books/Venezuela_Anatomy_of_a_Collapse.pdf), _Pennsylvania State University Press, 2014. (with Dan Levy)
+* “Competing for Jobs or Creating Jobs? The Impact of Immigration on Native-Born Unemployment in Venezuela, 1980-2003,” in Francisco Rodriguez and Ricardo Hausmann, eds., [_Venezuela: Anatomy of a Collapse_](http://frrodriguez.web.wesleyan.edu/docs/Books/Venezuela_Anatomy_of_a_Collapse.pdf), Pennsylvania State University Press, 2014. (with Dan Levy)
 
 * “Experimental Approaches in Migration Studies,” in Carlos Vargas-Silva, ed., [_Handbook of Research Methods in Migration_](http://www.e-elgar.com/bookentry_main.lasso?id=14062), Edward Elgar, 2012. (With David McKenzie.) Working paper version is [here](http://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2014/12/mckenzie-yang-experimental-approaches.pdf).
 
