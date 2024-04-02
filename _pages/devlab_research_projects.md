@@ -33,7 +33,7 @@ title: "Research Projects"
 * [Health and Development in Mozambique](https://fordschool.umich.edu/mozambique-research). What are the barriers to improving public health outcomes in the context of HIV and COVID-19? _Funders: USAID, NIH_.
  
 
-* <ins>War Mobilization and Indian Development</ins>. How did British demand for war materiel during World War II affect long-run industrialization in India? _Funder: Michigan Institute for Teaching and Research in Economics (MITRE), Department of Economics_. 
+* [War Mobilization and Economic Development](https://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2024/02/parvathaneni-yang-2024-war-mobilization-india.pdf). How did British demand for war materiel during World War II affect long-run industrialization in India? _Funder: Michigan Institute for Teaching and Research in Economics (MITRE), Department of Economics_. 
  
 
 * <ins>Religious Taboos and Obligations</ins>. What economic factors affect peoples’ decisions to join religious groups? _Funder: MITRE_.
