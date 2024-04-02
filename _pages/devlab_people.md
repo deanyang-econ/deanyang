@@ -570,20 +570,6 @@ Department of Economics, LSA
 
 <div class="row">
 <div class="col-md-4">
-<a href="/deanyang/">
-<img src='https://devecon.umich.edu/wp-content/uploads/2021/08/dean-yang-e1629830010249.jpg'>
-
-<strong>Dean Yang</strong><br>
-</a>
-
-Professor
-
-Department of Economics, LSA<br>
-Ford School of Public Policy
-Population Studies Center, Institute for Social Research
-
-</div>
-<div class="col-md-4">
 <a href="http://tyentzen.com/">
 <img src='https://devecon.umich.edu/wp-content/uploads/2022/09/TrianaYentzen-scaled-e1663537416574.jpg'>
 
@@ -609,11 +595,6 @@ Department of Economics, LSA
 
 </div>
 
-</div>
-
-<!-- /////////////////////////row 14 -->
-
-<div class="row">
 <div class="col-md-4">
 <a href="#">
 <img  src='/deanyang/files/profiles/Edgar Zhu.JPG'>
@@ -625,8 +606,5 @@ Undergraduate Student<br>
  Department of Economics, LSA
 
 </div>
-<div class="col-md-4">
-</div>
-<div class="col-md-4">
-</div>
+
 </div>
