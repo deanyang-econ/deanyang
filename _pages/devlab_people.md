@@ -57,7 +57,7 @@ title: "People"
 <!-- /////////////////////////row 1 -->
 <!-- /////////////////////////Item -->
 
-div class="container">
+<div class="container">
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -74,7 +74,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-/div>
+</div>
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -91,6 +91,7 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
+
 
 <div class="item">
 <div class="image-container">
@@ -111,6 +112,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
+
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -129,6 +131,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
+
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -145,6 +148,7 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
+
 
 <div class="item">
 <div class="image-container">
@@ -166,6 +170,7 @@ Ford School of Public Policy
 <!-- /////////////////////////row 3 -->
 <!-- /////////////////////////Item -->
 
+
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -183,7 +188,7 @@ Department of Mathematics, LSA
 
 <!-- /////////////////////////Item -->
 
-/div>
+</div>
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -200,6 +205,7 @@ Population Studies Center, Institute for Social Research
 
 </div>
 <!-- /////////////////////////Item -->
+
 
 <div class="item">
 <div class="image-container">
@@ -220,6 +226,7 @@ Department of Economics, LSA
 <!-- /////////////////////////row 4 -->
 <!-- /////////////////////////Item -->
 
+
 <div class="item">
 <div class="image-container">
 <a href="https://maxhuppertz.github.io/">
@@ -236,7 +243,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-/div>
+</div>
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -253,6 +260,7 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
+
 
 <div class="item">
 <div class="image-container">
@@ -273,6 +281,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
+
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -289,7 +298,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-/div>
+</div>
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -306,6 +315,7 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
+
 
 <div class="item">
 <div class="image-container">
@@ -325,6 +335,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
+
 <div class="item">
 <div class="image-container">
 <a href="https://alaskievic.github.io/">
@@ -341,7 +352,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-/div>
+</div>
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -358,6 +369,7 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
+
 
 <div class="item">
 <div class="image-container">
@@ -377,6 +389,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
+
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -393,7 +406,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-/div>
+</div>
 <div class="item">
 <div class="image-container">
 <a href="https://laston-manja.github.io/">
@@ -410,6 +423,7 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
+
 
 <div class="item">
 <div class="image-container">
@@ -430,6 +444,7 @@ PPE and Economics Major, LSA
 
 <!-- /////////////////////////Item -->
 
+
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -446,7 +461,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-/div>
+</div>
 <div class="item">
 <div class="image-container">
 <a href="https://sites.lsa.umich.edu/rpmorton/">
@@ -463,6 +478,7 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
+
 
 <div class="item">
 <div class="image-container">
@@ -482,6 +498,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
+
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -498,7 +515,7 @@ Population Studies Center, Institute for Social Research
 
 <!-- /////////////////////////Item -->
 
-/div>
+</div>
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -515,6 +532,7 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
+
 
 <div class="item">
 <div class="image-container">
@@ -535,6 +553,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
+
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -551,7 +570,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-/div>
+</div>
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -568,6 +587,7 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
+
 
 <div class="item">
 <div class="image-container">
@@ -588,6 +608,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
+
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -604,7 +625,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-/div>
+</div>
 <div class="item">
 <div class="image-container">
 <a href="https://dvelasquezc.github.io/">
@@ -621,6 +642,7 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
+
 
 <div class="item">
 <div class="image-container">
@@ -641,6 +663,7 @@ Department of Mathematics, LSA
 
 <!-- /////////////////////////Item -->
 
+
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -657,7 +680,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-/div>
+</div>
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -676,6 +699,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
+
 <div class="item">
 <div class="image-container">
 <a href="http://tyentzen.com/">
@@ -693,6 +717,7 @@ Department of Economics, LSA
 </div>
 <!-- /////////////////////////Item -->
 
+
 <div class="item">
 <div class="image-container">
 <a href="#">
@@ -708,6 +733,7 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
+
 
 <div class="item">
 <div class="image-container">
