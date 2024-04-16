@@ -4,24 +4,30 @@ title: "Alumni"
 ---
 
 <style>
- .row {
-     display: flex;
-     flex-wrap: wrap;
- }
+  .container {
+    display: flex; /* Use flexbox */
+    flex-wrap: wrap; /* Allow items to wrap onto multiple lines */
+    justify-content: space-between; /* Distribute items evenly */
+  }
+  
+  .item {
+    width: calc(33.33% - 10px); /* Calculate width for 3 items with margin */
+    margin: 5px; /* Add some margin for spacing */
+    padding:5px;
+    box-sizing: border-box; /* Include padding and border in the width */
+  }
 
- .col-md-4 {
-     flex: 1;
-     padding: 10px;
-     box-sizing: border-box;
-     /* border: 1px solid #ccc; */
- }
+    .image-container {
+    height: 280px; /* Set the desired height */
+    overflow: hidden; /* Hide any overflowing content */
+  }
 
- @media (max-width: 768px) {
-     .col-md-4 {
-         flex: 0 0 100%;
-     }
- }
- </style>
+  .image-container img {
+    height: 100%; /* Set image height to 100% of parent container's height */
+    width: auto; /* Let the width adjust automatically to maintain aspect ratio */
+    display: block; /* Remove any extra space below image */
+  }
+</style>
 <!-- =============================Dev Lab header Below========================== -->
 
 <div class="masthead">
@@ -46,40 +52,34 @@ title: "Alumni"
   </div>
 </div>
 
+
 <!-- =============================Dev Lab Content Below========================== -->
-<!-- /////////////////////////row 1 -->
-<div class="row">
+<!-- /////////////////////////container start-->
+<!-- /////////////////////////container start-->
+<!-- /////////////////////////container start-->
+<!-- /////////////////////////container start-->
+<div class="container">
+<!-- /////////////////////////Item start -->
+<div class="item">
 
-<!-- ///////////profile/////// -->
-<div class="col-md-4">
+<a href="#">
 
-<img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Allen-James-2-scaled-e1631034518583.jpg'>
-
-<a href="https://www.jamesalleniv.com/" target="_blank"><strong>James Allen</strong></a><br>
-Associate Research Fellow<br>
-
-International Food Policy Research Institute (IFPRI)<br>
-
-<strong>Ph.D. Graduation Year: </strong>2023
-
-</div>
-
-<!-- /////////profile///////// -->
-<div class="col-md-4">
-
-<img src='https://devecon.umich.edu/wp-content/uploads/2023/09/MoustafaPicDevEcon-2-e1696042175474.jpg'>
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/09/MoustafaPicDevEcon-2-e1696042175474.jpg'></div>
 
 <strong>Moustafa El-Kashlan</strong><br>
+</a>
+
 Ph.D. Student<br>
+
 
 Department of Economics,
 <br>University of Chicago<br>
 <strong>BA Graduation Year: </strong>2019
 
 </div>
+<!-- /////////////////////////Item end -->
 
-<!-- /////////////////////////Item -->
-
+<!-- /////////////////////////Item start -->
 <div class="item">
 
 <a href="#">
@@ -96,9 +96,8 @@ Department of Marketing, <br>Wharton School of Business, University of Pennsylva
 <strong>BA Graduation Year: </strong>2024
 
 </div>
-
-<!-- /////////////////////////Item -->
-
+<!-- /////////////////////////Item end -->
+<!-- /////////////////////////Item start -->
 <div class="item">
 
 <a href="#">
@@ -115,14 +114,20 @@ Department of Economics, <br>University of Toronto<br>
 <strong>BA Graduation Year: </strong>2024
 
 </div>
+<!-- /////////////////////////Item end -->
 
-<!-- //////////profile//////// -->
+<!-- /////////////////////////Item start -->
+<div class="item">
 
-<div class="col-md-4">
+<a href="#">
 
-<img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Ryan-McWay-2-e1632013751645.jpg'>
+<div class="image-container">
+<img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Ryan-McWay-2-e1632013751645.jpg'></div>
 
-<a href="https://mcwayrm.github.io/" target="_blank"><strong>Ryan McWay</strong></a><br>
+<strong>Ryan McWay</strong><br>
+</a>
+
+
 Ph.D. Student<br>
 
 Department of Applied Economics,<br>
@@ -130,21 +135,15 @@ University of Minnesota<br>
 <strong>Predoc Years: </strong>2020-2022
 
 </div>
+<!-- /////////////////////////Item end -->
 
-<!-- ////////////////// -->
-</div>
-
-<!-- /////////////////////////row 2 -->
-
-<div class="row">
-
-<!-- /////////////////////////Item -->
-
+<!-- /////////////////////////Item start -->
 <div class="item">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/YuShiDevEcon-scaled-e1674932042501.jpg'></div>
+<div class="image-container">
+<img src='https://devecon.umich.edu/wp-content/uploads/2023/01/YuShiDevEcon-scaled-e1674932042501.jpg'></div>
 
 <strong>Yu Shi</strong><br>
 </a>
@@ -156,13 +155,19 @@ Department of Economics, <br>Yale University<br>
 <strong>BA Graduation Year: </strong>2024
 
 </div>
+<!-- /////////////////////////Item end -->
 
+<!-- /////////////////////////Item start -->
+<div class="item">
 
-<!-- ///////////profile/////// -->
-<div class="col-md-4">
+<a tagey="_blank" href="https://www.linkedin.com/in/jared-stolove-4477b427/" >
 
-<img src='https://devecon.umich.edu/wp-content/uploads/2023/06/JaredStoloveDevEcon-scaled-e1686080761725.jpg'><br>
-<a href="https://www.linkedin.com/in/jared-stolove-4477b427/" target="_blank"><strong>Jared Stolove</strong></a><br>
+<div class="image-container">
+<img src='https://devecon.umich.edu/wp-content/uploads/2023/06/JaredStoloveDevEcon-scaled-e1686080761725.jpg'></div>
+
+<strong>Jared Stolove</strong><br>
+</a>
+
 Ph.D. Student<br>
 
 Department of Economics, <br>Yale University<br>
@@ -170,37 +175,13 @@ Department of Economics, <br>Yale University<br>
 <strong>BA Graduation Year: </strong>2020
 
 </div>
-<!-- /////////////////////////Item -->
+<!-- /////////////////////////Item end -->
 
-<div class="item">
 
-<a href="#">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/YvetteZDevLab-e1683171618872.jpg'></div>
-
-<strong>Yvette Zhang</strong><br>
-</a>
-
-Department of Economics, <br>Yale University<br>
-
-<strong>BA Graduation Year: </strong>2024
-
+<!-- /////////////////////////container End-->
+<!-- /////////////////////////container End-->
 </div>
-
-<!-- /////////profile///////// -->
-<div class="col-md-4">
-
-
-</div>
-
-<!-- //////////profile//////// -->
-
-<div class="col-md-4">
+<!-- /////////////////////////container End-->
+<!-- /////////////////////////container End-->
 
 
-</div>
-
-<!-- /////////profile end///////// -->
-</div>
-
-<!-- /////////////////////////row 2 -->
