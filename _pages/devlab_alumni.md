@@ -61,6 +61,26 @@ title: "Alumni"
 <!-- /////////////////////////container start-->
 
 <!-- /////////////////////////Item start -->
+
+<!-- /////////////////////////Item -->
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/RobertBeckemeyerDevEcon-e1683910845272.jpg'></div>
+
+<strong> Robert Beckemeyer </strong><br>
+</a>
+
+Postdoctoral Scholar <br>
+
+<br>Federal Reserve Bank of Kansas City<br>
+<strong>BA Graduation Year: </strong>2024
+
+</div>
+
+<!-- /////////////////////////Item -->
+
 <div class="item">
 
 <a href="#">
