@@ -100,6 +100,24 @@ University of Minnesota<br>
 
 <div class="row">
 
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/YuShiDevEcon-scaled-e1674932042501.jpg'></div>
+
+<strong>Yu Shi</strong><br>
+</a>
+
+Undergraduate Student<br>
+
+Department of Economics, LSA
+
+</div>
+
+
 <!-- ///////////profile/////// -->
 <div class="col-md-4">
 
