@@ -56,9 +56,10 @@ title: "Alumni"
 <!-- =============================Dev Lab Content Below========================== -->
 <!-- /////////////////////////container start-->
 <!-- /////////////////////////container start-->
-<!-- /////////////////////////container start-->
-<!-- /////////////////////////container start-->
 <div class="container">
+<!-- /////////////////////////container start-->
+<!-- /////////////////////////container start-->
+
 <!-- /////////////////////////Item start -->
 <div class="item">
 
