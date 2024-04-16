@@ -181,6 +181,8 @@ Department of Economics, <br>Yale University<br>
 <strong>Yvette Zhang</strong><br>
 </a>
 
+Ph.D. Student<br>
+
 Department of Economics, <br>Yale University<br>
 
 <strong>BA Graduation Year: </strong>2024
