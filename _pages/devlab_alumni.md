@@ -176,8 +176,22 @@ Department of Economics, <br>Yale University<br>
 
 </div>
 <!-- /////////////////////////Item end -->
+<!-- /////////////////////////Item start -->
+<div class="item">
 
+<a href="#">
 
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/YvetteZDevLab-e1683171618872.jpg'></div>
+
+<strong>Yvette Zhang</strong><br>
+</a>
+
+Ph.D. Student<br>
+
+Department of Economics, <br>Yale University<br>
+
+<strong>BA Graduation Year: </strong>2024
+<!-- /////////////////////////Item end -->
 <!-- /////////////////////////container End-->
 <!-- /////////////////////////container End-->
 </div>
