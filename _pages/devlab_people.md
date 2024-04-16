@@ -321,40 +321,7 @@ Ph.D. Student<br>
 
 Department of Economics, LSA
 
-<!-- /////////////////////////Item -->
-
 </div>
-<div class="item">
-
-<a href="#">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/RuroranLiDevLab-e1683172076641.jpeg'></div>
-
-<strong>Ruoran Li</strong><br>
-</a>
-
-Undergraduate Student<br>
-
-Department of Economics, LSA
-
-</div>
-<!-- /////////////////////////Item -->
-
-<div class="item">
-
-<a href="#">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/JinghaoLiuDevEcon-e1683911309229.jpg'></div>
-
-<strong>Jinghao Liu</strong><br>
-</a>
-
-Undergraduate Student<br>
-
-Department of Economics, LSA
-
-</div>
-
 <!-- /////////////////////////Item -->
 
 <div class="item">
@@ -518,22 +485,6 @@ Undergraduate Student<br>
 
 Department of Economics, LSA
 
-<!-- /////////////////////////Item -->
-
-</div>
-<div class="item">
-
-<a href="#">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/YuShiDevEcon-scaled-e1674932042501.jpg'></div>
-
-<strong>Yu Shi</strong><br>
-</a>
-
-Undergraduate Student<br>
-
-Department of Economics, LSA
-
 </div>
 <!-- /////////////////////////Item -->
 
@@ -648,22 +599,6 @@ Department of Economics, LSA
 </a>
 
 Ph.D. Student<br>
-
-Department of Economics, LSA
-
-</div>
-<!-- /////////////////////////Item -->
-
-<div class="item">
-
-<a href="#">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/YvetteZDevLab-e1683171618872.jpg'></div>
-
-<strong>Yvette Zhang</strong><br>
-</a>
-
-Undergraduate Student<br>
 
 Department of Economics, LSA
 
