@@ -78,6 +78,44 @@ Department of Economics,
 
 </div>
 
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/RuroranLiDevLab-e1683172076641.jpeg'></div>
+
+<strong>Ruoran Li</strong><br>
+</a>
+
+Ph.D. Student<br>
+
+Department of Marketing, <br>Wharton School of Business, University of Pennsylvania<br>
+
+<strong>BA Graduation Year: </strong>2024
+
+</div>
+
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/JinghaoLiuDevEcon-e1683911309229.jpg'></div>
+
+<strong>Jinghao Liu</strong><br>
+</a>
+
+Masters Student<br>
+
+Department of Economics, <br>University of Toronto<br>
+
+<strong>BA Graduation Year: </strong>2024
+
+</div>
+
 <!-- //////////profile//////// -->
 
 <div class="col-md-4">
@@ -111,9 +149,11 @@ University of Minnesota<br>
 <strong>Yu Shi</strong><br>
 </a>
 
-Undergraduate Student<br>
+Ph.D. Student<br>
 
-Department of Economics, LSA
+Department of Economics, <br>Yale University<br>
+
+<strong>BA Graduation Year: </strong>2024
 
 </div>
 
@@ -128,6 +168,22 @@ Ph.D. Student<br>
 Department of Economics, <br>Yale University<br>
 
 <strong>BA Graduation Year: </strong>2020
+
+</div>
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/YvetteZDevLab-e1683171618872.jpg'></div>
+
+<strong>Yvette Zhang</strong><br>
+</a>
+
+Department of Economics, <br>Yale University<br>
+
+<strong>BA Graduation Year: </strong>2024
 
 </div>
 
