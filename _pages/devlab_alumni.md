@@ -181,7 +181,7 @@ Department of Economics, <br>Yale University<br>
 <!-- /////////////////////////Item start -->
 <div class="item">
 
-<a tagey="_blank" href="https://www.linkedin.com/in/jared-stolove-4477b427/" >
+<a target="_blank" href="https://www.linkedin.com/in/jared-stolove-4477b427/" >
 
 <div class="image-container">
 <img src='https://devecon.umich.edu/wp-content/uploads/2023/06/JaredStoloveDevEcon-scaled-e1686080761725.jpg'></div>
@@ -197,6 +197,26 @@ Department of Economics, <br>Yale University<br>
 
 </div>
 <!-- /////////////////////////Item end -->
+
+<!-- /////////////////////////Item start -->
+<div class="item">
+
+<a target="_blank" href="https://www.jamesalleniv.com/">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Allen-James-2-scaled-e1631034518583.jpg'></div>
+
+<strong>James Allen</strong><br>
+</a>
+
+Associate Research Fellow<br>
+
+
+International Food Policy Research Institute (IFPRI)<br>
+
+<strong>Ph.D. Graduation Year: </strong>2023
+</div>
+<!-- /////////////////////////Item end -->
+
 <!-- /////////////////////////Item start -->
 <div class="item">
 
@@ -212,7 +232,10 @@ Ph.D. Student<br>
 Department of Economics, <br>Yale University<br>
 
 <strong>BA Graduation Year: </strong>2024
+</div>
 <!-- /////////////////////////Item end -->
+
+
 <!-- /////////////////////////container End-->
 <!-- /////////////////////////container End-->
 </div>
