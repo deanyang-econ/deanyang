@@ -72,8 +72,7 @@ title: "Alumni"
 <strong> Robert Beckemeyer </strong><br>
 </a>
 
-Postdoctoral Scholar <br>
-
+Predoctoral Scholar <br>
 <br>Federal Reserve Bank of Kansas City<br>
 <strong>BA Graduation Year: </strong>2024
 
