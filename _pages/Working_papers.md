@@ -20,11 +20,8 @@ title: "Working papers"
 
 
 <!-- /////////////// -->
-* [Picture This: Social Distance and the Mistreatment of Migrant Workers ](/deanyang/files/workingpapers/bblsty-2022-MistreatmentMigrantWorkers.pdf) (with Toman Barsbai, Vojta Bartoš, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson).
+* [Picture This: Social Distance and the Mistreatment of Migrant Workers ](/deanyang/files/workingpapers/bblsty-2022-MistreatmentMigrantWorkers.pdf) (with Toman Barsbai, Vojta Bartoš, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson). Revise and resubmit, _Journal of Political Economy: Microeconomics_. 
 
-
-<!-- /////////////// -->
-* [Information and Immigrant Settlement](/deanyang/files/workingpapers/barsbai-licuanan-steinmayr-tiongson-yang-2021-information-networks.pdf) (with Toman Barsbai, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson). Revise and resubmit, Journal of Development Economics.
 
 
 <!-- /////////////// -->

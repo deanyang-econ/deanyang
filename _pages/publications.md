@@ -12,6 +12,8 @@ author_profile: true
 
 {% include base_path %}
 
+38 . [Information and Immigrant Settlement](/deanyang/files/workingpapers/barsbai-licuanan-steinmayr-tiongson-yang-2021-information-networks.pdf),  _Journal of Development Economics_, forthcoming. (With Toman Barsbai, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson.)
+
 37 . [Correcting Misperceptions About Support for Social Distancing to Combat COVID-19](/deanyang/files/allen-mahumane-riddell-rosenblat-yang-yu-2023-correcting-SD-norms-accepted-at-EDCC.pdf), _Economic Development and Cultural Change_, forthcoming. (With James Allen, Arlete Mahumane, James Riddell, Tanya Rosenblat, and Hang Yu.) [REPLICATION DATA](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TMARZT).
 
 36 . [Loss Aversion or Lack of Trust: Why Does Loss Framing Work to Encourage Preventative Health Behaviors?](/deanyang/files/w29828.pdf), _Journal of Behavioral and Experimental Economics_, forthcoming. (With Emily Beam, Yusufcan Masatlioglu, and Tara Watson.)
