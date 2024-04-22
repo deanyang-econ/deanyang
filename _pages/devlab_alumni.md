@@ -304,10 +304,6 @@ Department of Economics, <br>Yale University<br>
 <strong>BA Graduation Year: </strong>2020
 
 </div>
-<!-- /////////////////////////Item end -->
-
-
-
 <!-- /////////////////////////Item start -->
 <div class="item">
 
