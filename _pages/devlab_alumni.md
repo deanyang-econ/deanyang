@@ -91,7 +91,7 @@ International Food Policy Research Institute (IFPRI)<br>
 <strong> Robert Beckemeyer </strong><br>
 </a>
 
-Postdoctoral Scholar <br>
+Predoctoral Scholar <br>
 
 Federal Reserve Bank of Kansas City<br>
 <strong>BA Graduation Year: </strong>2024
