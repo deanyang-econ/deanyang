@@ -209,6 +209,8 @@ Assistant Professor<br>
 
 Simon School of Business, University of Rochester<br>
 
+<strong>Ph.D. Graduation Year: </strong>2024
+
 </div>
 <!-- /////////////////////////Item -->
 
@@ -224,6 +226,8 @@ Simon School of Business, University of Rochester<br>
 Assistant Professor<br>
 
 Department of Economics, Oberlin College<br>
+
+<strong>Ph.D. Graduation Year: </strong>2024
 
 </div>
 
