@@ -97,8 +97,23 @@ Postdoctoral Scholar <br>
 <strong>BA Graduation Year: </strong>2024
 
 </div>
-<!-- /////////////////////////Item end -->
+<!-- /////////////////////////Item -->
 
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/07/RohanDevEconPic-scaled-e1659123003737.jpg'></div>
+
+<strong> Rohan Bhargava</strong><br>
+</a>
+
+Predoctoral Scholar<br>
+
+Federal Reserve Bank of New York<br>
+<strong>BA Graduation Year: </strong>2024
+
+</div>
 <!-- /////////////////////////Item start -->
 
 <div class="item">
@@ -173,7 +188,25 @@ Department of Economics, <br>University of Toronto<br>
 <strong>BA Graduation Year: </strong>2024
 
 </div>
-<!-- /////////////////////////Item end -->
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="https://www.linkedin.com/in/nicholas-l-martens">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/NickMartensDevEcon-e1674836569380.jpg'></div>
+
+<strong>Nicholas Martens</strong><br>
+</a>
+
+Predoctoral Scholar<br>
+
+Booth School of Business, University of Chicago<br>
+
+<strong>BA Graduation Year: </strong>2024
+
+</div>
+
 
 <!-- /////////////////////////Item start -->
 <div class="item">

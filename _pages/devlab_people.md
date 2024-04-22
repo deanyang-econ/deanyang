@@ -78,17 +78,18 @@ Department of Economics, LSA
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/07/RohanDevEconPic-scaled-e1659123003737.jpg'></div>
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2024/03/JohnAhlinDevEcon-e1710788431686.jpg'></div>
 
-<strong> Rohan Bhargava</strong><br>
+<strong> John Ahlin</strong><br>
 </a>
 
 Undergraduate Student<br>
 
 Department of Economics, LSA
+Department of Mathematics, LSA
+
 
 </div>
-
 <!-- /////////////////////////Item -->
 
 <div class="item">
@@ -139,27 +140,7 @@ Department of Economics, LSA
 Ford School of Public Policy
 
 </div>
-
-<!-- /////////////////////////row 3 -->
 <!-- /////////////////////////Item -->
-
-<div class="item">
-
-<a href="#">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2024/03/JohnAhlinDevEcon-e1710788431686.jpg'></div>
-
-<strong> John Ahlin</strong><br>
-</a>
-
-Undergraduate Student<br>
-
-Department of Economics, LSA
-Department of Mathematics, LSA
-
-<!-- /////////////////////////Item -->
-
-</div>
 <div class="item">
 
 <a href="#">
@@ -322,23 +303,6 @@ Department of Economics, LSA
 
 <div class="item">
 
-<a href="https://www.linkedin.com/in/nicholas-l-martens">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/NickMartensDevEcon-e1674836569380.jpg'></div>
-
-<strong>Nicholas Martens</strong><br>
-</a>
-
-Undergraduate Student<br>
-
-PPE and Economics Major, LSA
-
-</div>
-
-<!-- /////////////////////////Item -->
-
-<div class="item">
-
 <a href="#">
 
 <div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/MARTIN.Magdalena_2022-headshot-2-e1675062347957.jpg'></div>
@@ -418,24 +382,6 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
-
-<div class="item">
-
-<a href="#">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/11/Ryan-SimDevEcon-e1700209790677.png'></div>
-
-<strong>Ryan Sim</strong><br>
-</a>
-
-Undergraduate Student<br>
-
-Department of Economics, LSA
-
-</div>
-
-<!-- /////////////////////////Item -->
-
 <div class="item">
 
 <a href="#">
