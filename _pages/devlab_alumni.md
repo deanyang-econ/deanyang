@@ -93,7 +93,7 @@ International Food Policy Research Institute (IFPRI)<br>
 
 Postdoctoral Scholar <br>
 
-<br>Federal Reserve Bank of Kansas City<br>
+Federal Reserve Bank of Kansas City<br>
 <strong>BA Graduation Year: </strong>2024
 
 </div>
