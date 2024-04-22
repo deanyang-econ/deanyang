@@ -71,22 +71,6 @@ Undergraduate Student<br>
 
 Department of Economics, LSA
 
-<!-- /////////////////////////Item -->
-
-</div>
-<div class="item">
-
-<a href="#">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/RobertBeckemeyerDevEcon-e1683910845272.jpg'></div>
-
-<strong> Robert Beckemeyer </strong><br>
-</a>
-
-Undergraduate Student<br>
-
-Department of Economics, LSA
-
 </div>
 <!-- /////////////////////////Item -->
 
@@ -204,26 +188,6 @@ Population Studies Center, Institute for Social Research
 Undergraduate Student<br>
 
 Department of Economics, LSA
-
-</div>
-
-<!-- /////////////////////////row 4 -->
-<!-- /////////////////////////Item -->
-
-<div class="item">
-
-<a href="https://maxhuppertz.github.io/">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Huppertz.png'></div>
-
-<strong> Maximilian Huppertz</strong><br>
-</a>
-
-Ph.D. Student<br>
-
-Department of Economics, LSA
-
-<!-- /////////////////////////Item -->
 
 </div>
 <div class="item">
@@ -386,40 +350,7 @@ Ph.D. Student<br>
 
 Department of Economics, LSA
 
-<!-- /////////////////////////Item -->
-
 </div>
-<div class="item">
-
-<a href="https://sites.lsa.umich.edu/rpmorton/">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Russell-Morton-e1631037256887.jpg'></div>
-
-<strong>Russell Morton</strong><br>
-</a>
-
-Ph.D. Student<br>
-
-Department of Economics, LSA
-
-</div>
-<!-- /////////////////////////Item -->
-
-<div class="item">
-
-<a href="https://lsa.umich.edu/econ/people/phd-student<br>s/emir-murathanoglu.html">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/02/Emir-Murathanoglu-e1644421354164.jpeg'></div>
-
-<strong>Emir Murathanoglu</strong><br>
-</a>
-
-Ph.D. Student<br>
-
-Department of Economics, LSA
-
-</div>
-
 <!-- /////////////////////////Item -->
 
 <div class="item">
