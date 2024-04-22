@@ -118,9 +118,27 @@ Department of Economics,
 <strong>BA Graduation Year: </strong>2019
 
 </div>
-<!-- /////////////////////////Item end -->
 
-<!-- /////////////////////////Item start -->
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="https://maxhuppertz.github.io/">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Huppertz.png'></div>
+
+<strong> Maximilian Huppertz</strong><br>
+</a>
+
+Economist<br>
+
+Bank of England<br>
+
+<strong>Ph.D. Graduation Year: </strong>2024
+
+</div>
+
+<!-- /////////////////////////Item -->
 <div class="item">
 
 <a href="#">
@@ -176,9 +194,42 @@ University of Minnesota<br>
 <strong>Predoc Years: </strong>2020-2022
 
 </div>
+
+<!-- /////////////////////////Item -->
+<div class="item">
+
+<a href="https://sites.lsa.umich.edu/rpmorton/">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Russell-Morton-e1631037256887.jpg'></div>
+
+<strong>Russell Morton</strong><br>
+</a>
+
+Assistant Professor<br>
+
+Simon School of Business, University of Rochester<br>
+
+</div>
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="https://lsa.umich.edu/econ/people/phd-student<br>s/emir-murathanoglu.html">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/02/Emir-Murathanoglu-e1644421354164.jpeg'></div>
+
+<strong>Emir Murathanoglu</strong><br>
+</a>
+
+Assistant Professor<br>
+
+Department of Economics, Oberlin College<br>
+
+</div>
+
+
 <!-- /////////////////////////Item end -->
 
-<!-- /////////////////////////Item start -->
 <div class="item">
 
 <a href="#">
