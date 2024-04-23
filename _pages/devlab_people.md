@@ -382,6 +382,22 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img  src='/deanyang/files/profiles/Arushi Sharma_photo.JPG'></div>
+
+<strong>Arushi Sharma,</strong><br>
+</a>
+
+MAE Student,<br>
+ Department of Economics, LSA
+
+</div>
+
+<!-- /////////////////////////Item -->
 <div class="item">
 
 <a href="#">
@@ -495,6 +511,25 @@ Undergraduate Student<br>
 Department of Economics, LSA
 
 </div>
+
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img  src='/deanyang/files/profiles/Edgar Zhu.JPG'></div>
+
+<strong>Edgar Zhu,</strong><br>
+</a>
+
+Undergraduate Student<br>
+Department of Economics, LSA
+
+</div>
+
+
+
 <!-- /////////container Div end///////// -->
 <div class="item">
 <div>
