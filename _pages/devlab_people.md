@@ -88,7 +88,6 @@ Undergraduate Student<br>
 Department of Economics, LSA
 Department of Mathematics, LSA
 
-
 </div>
 <!-- /////////////////////////Item -->
 
@@ -393,7 +392,7 @@ Department of Economics, LSA
 </a>
 
 MAE Student,<br>
- Department of Economics, LSA
+Department of Economics, LSA
 
 </div>
 
@@ -527,8 +526,6 @@ Undergraduate Student<br>
 Department of Economics, LSA
 
 </div>
-
-
 
 <!-- /////////container Div end///////// -->
 <div class="item">
