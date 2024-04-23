@@ -91,14 +91,29 @@ International Food Policy Research Institute (IFPRI)<br>
 <strong> Robert Beckemeyer </strong><br>
 </a>
 
-Postdoctoral Scholar <br>
+Predoctoral Scholar <br>
 
-<br>Federal Reserve Bank of Kansas City<br>
+Federal Reserve Bank of Kansas City<br>
 <strong>BA Graduation Year: </strong>2024
 
 </div>
-<!-- /////////////////////////Item end -->
+<!-- /////////////////////////Item -->
 
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/07/RohanDevEconPic-scaled-e1659123003737.jpg'></div>
+
+<strong> Rohan Bhargava</strong><br>
+</a>
+
+Predoctoral Scholar<br>
+
+Federal Reserve Bank of New York<br>
+<strong>BA Graduation Year: </strong>2024
+
+</div>
 <!-- /////////////////////////Item start -->
 
 <div class="item">
@@ -118,9 +133,27 @@ Department of Economics,
 <strong>BA Graduation Year: </strong>2019
 
 </div>
-<!-- /////////////////////////Item end -->
 
-<!-- /////////////////////////Item start -->
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="https://maxhuppertz.github.io/">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Huppertz.png'></div>
+
+<strong> Maximilian Huppertz</strong><br>
+</a>
+
+Economist<br>
+
+Bank of England<br>
+
+<strong>Ph.D. Graduation Year: </strong>2024
+
+</div>
+
+<!-- /////////////////////////Item -->
 <div class="item">
 
 <a href="#">
@@ -155,7 +188,25 @@ Department of Economics, <br>University of Toronto<br>
 <strong>BA Graduation Year: </strong>2024
 
 </div>
-<!-- /////////////////////////Item end -->
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="https://www.linkedin.com/in/nicholas-l-martens">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/NickMartensDevEcon-e1674836569380.jpg'></div>
+
+<strong>Nicholas Martens</strong><br>
+</a>
+
+Predoctoral Scholar<br>
+
+Booth School of Business, University of Chicago<br>
+
+<strong>BA Graduation Year: </strong>2024
+
+</div>
+
 
 <!-- /////////////////////////Item start -->
 <div class="item">
@@ -176,9 +227,46 @@ University of Minnesota<br>
 <strong>Predoc Years: </strong>2020-2022
 
 </div>
+
+<!-- /////////////////////////Item -->
+<div class="item">
+
+<a href="https://sites.lsa.umich.edu/rpmorton/">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Russell-Morton-e1631037256887.jpg'></div>
+
+<strong>Russell Morton</strong><br>
+</a>
+
+Assistant Professor<br>
+
+Simon School of Business, University of Rochester<br>
+
+<strong>Ph.D. Graduation Year: </strong>2024
+
+</div>
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="https://lsa.umich.edu/econ/people/phd-student<br>s/emir-murathanoglu.html">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/02/Emir-Murathanoglu-e1644421354164.jpeg'></div>
+
+<strong>Emir Murathanoglu</strong><br>
+</a>
+
+Assistant Professor<br>
+
+Department of Economics, Oberlin College<br>
+
+<strong>Ph.D. Graduation Year: </strong>2024
+
+</div>
+
+
 <!-- /////////////////////////Item end -->
 
-<!-- /////////////////////////Item start -->
 <div class="item">
 
 <a href="#">
@@ -216,10 +304,6 @@ Department of Economics, <br>Yale University<br>
 <strong>BA Graduation Year: </strong>2020
 
 </div>
-<!-- /////////////////////////Item end -->
-
-
-
 <!-- /////////////////////////Item start -->
 <div class="item">
 
