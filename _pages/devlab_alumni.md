@@ -145,7 +145,7 @@ Department of Economics,
 <strong> Maximilian Huppertz</strong><br>
 </a>
 
-Economist<br>
+Research Economist<br>
 
 Bank of England<br>
 
