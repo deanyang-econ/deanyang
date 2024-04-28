@@ -82,9 +82,9 @@ author_profile: true
 
 4 . [Integrity for Hire: An Analysis of a Widespread Customs Reform](/deanyang/files/yang_psi.pdf), _Journal of Law and Economics_, Vol. 51, No. 1, 2008, pp. 25-57. (Click [here](http://sites.lsa.umich.edu/deanyang/publications/data-on-national-and-bureaucratic-leadership-1980-2000/) for the leadership data used in paper.)
 
-3 . [Can Enforcement Backfire? Crime Displacement in the Context of Customs Reform in the Philippines](/deanyang/files/yangchoi_insurance.pdf), _Review of Economics and Statistics_, Vol. 90, No. 1, February 2008, pp. 1-14. Lead Article. (Click [here](/deanyang/files/yang_displacement_theory_appendix.pdf) for the Theory Appendix.)
+3 . [Can Enforcement Backfire? Crime Displacement in the Context of Customs Reform in the Philippines](/deanyang/files/yang_displacement.pdf), _Review of Economics and Statistics_, Vol. 90, No. 1, February 2008, pp. 1-14. Lead Article. (Click [here](/deanyang/files/yang_displacement_theory_appendix.pdf) for the Theory Appendix.)
 
-2 . [Are Remittances Insurance? Evidence from Rainfall Shocks in the Philippines](http://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2014/12/yang_displacement.pdf), _World Bank Economic Review_, Vol. 21 (2), May 2007, pp. 219-248. (With HwaJung Choi.)
+2 . [Are Remittances Insurance? Evidence from Rainfall Shocks in the Philippines](/deanyang/files/yangchoi_insurance.pdf), _World Bank Economic Review_, Vol. 21 (2), May 2007, pp. 219-248. (With HwaJung Choi.)
 
 1 . [Why Do Migrants Return to Poor Countries? Evidence from Philippine Migrants’ Responses to Exchange Rate Shocks](/deanyang/files/yang_returnmig.pdf), _Review of Economics and Statistics_, Vol. 88, No. 4, November 2006, pp. 715-735. (Click [here](http://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2014/12/returnmig_theory.pdf) for the Theory Appendix.)
 
