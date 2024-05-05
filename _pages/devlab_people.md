@@ -286,22 +286,6 @@ Department of Economics, LSA
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/07/RitaNeves-e1658300099108.jpeg'></div>
-
-<strong>Rita Neves</strong><br>
-</a>
-
-Predoctoral Scholar
-
-Population Studies Center, Institute for Social Research
-
-<!-- /////////////////////////Item -->
-
-</div>
-<div class="item">
-
-<a href="#">
-
 <div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/02/AneeshaDevEcon-e1677182168478.jpeg'></div>
 
 <strong>
@@ -328,22 +312,6 @@ Predoctoral Scholar<br>
 
 Department of Economics, LSA
 
-</div>
-
-<!-- /////////////////////////Item -->
-
-<div class="item">
-
-<a href="#">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/HadinSayedDevEcon-e1674931048814.png'></div>
-
-<strong>Hadin Sayed</strong><br>
-</a>
-
-Undergraduate Student<br>
-
-Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->

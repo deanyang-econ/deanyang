@@ -263,8 +263,43 @@ Department of Economics, Oberlin College<br>
 <strong>Ph.D. Graduation Year: </strong>2024
 
 </div>
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/07/RitaNeves-e1658300099108.jpeg'></div>
+
+<strong>Rita Neves</strong><br>
+</a>
+
+Ph.D. Student<br>
+
+Department of Economics, <br>Nova University, Lisbon<br>
+
+<strong>Predoc Years: </strong>2022-24
 
 
+</div>
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/HadinSayedDevEcon-e1674931048814.png'></div>
+
+<strong>Hadin Sayed</strong><br>
+</a>
+
+Predoctoral Scholar<br>
+
+University of Notre Dame<br>
+
+<strong>BA Graduation Year: </strong>2024
+
+</div>
 <!-- /////////////////////////Item end -->
 
 <div class="item">
