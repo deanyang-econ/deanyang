@@ -188,23 +188,6 @@ Department of Economics, LSA
 
 <div class="item">
 
-<a href="https://sites.google.com/view/imryoung/home">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/02/ImryoungDevEcon-e1677183661437.jpg'></div>
-
-<strong> Imryoung Jeong</strong><br>
-</a>
-
-Ph.D. Student<br>
-
-Department of Economics, LSA
-
-</div>
-
-<!-- /////////////////////////Item -->
-
-<div class="item">
-
 <a href="#">
 
 <div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/07/HeesungKim-e1658124620972.jpg'></div>
@@ -242,23 +225,6 @@ Department of Economics, LSA
 <div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/Screen-Shot-2023-05-12-at-7.03.45-PM-e1683936698830.png'></div>
 
 <strong>Aladdin Ko</strong><br>
-</a>
-
-Ph.D. Student<br>
-
-Department of Economics, LSA
-
-</div>
-
-<!-- /////////////////////////Item -->
-
-<div class="item">
-
-<a href="https://alaskievic.github.io/">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/AndreiDevEcon-e1674835356911.jpg'></div>
-
-<strong>Andrei Arminio Laskievic</strong><br>
 </a>
 
 Ph.D. Student<br>
