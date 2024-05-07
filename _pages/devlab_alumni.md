@@ -174,14 +174,14 @@ Bank of England<br>
 
 <div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/RuroranLiDevLab-e1683172076641.jpeg'></div>
 
-<strong>Ruoran Li</strong><br>
+<strong>Raelynn (Ruoran) Li</strong><br>
 </a>
 
 Ph.D. Student<br>
 
 Department of Marketing, <br>Wharton School of Business, University of Pennsylvania<br>
 
-<strong>BA Graduation Year: </strong>2024
+<strong>BS Graduation Year: </strong>2024
 
 </div>
 <!-- /////////////////////////Item end -->
