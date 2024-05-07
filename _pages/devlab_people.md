@@ -107,7 +107,7 @@ Department of Mathematics, LSA
 
 <div class="item">
 
-<a href="https://briandaza.github.io/">
+<a targert="_blank" href="https://briandaza.github.io/">
 
 <div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/02/briandaza-scaled-e1677185278604.jpg'></div>
 
