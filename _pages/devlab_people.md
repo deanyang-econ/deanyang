@@ -107,7 +107,7 @@ Department of Mathematics, LSA
 
 <div class="item">
 
-<a targert="_blank" href="https://briandaza.github.io/">
+<a   target="_blank" href="https://briandaza.github.io/">
 
 <div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/02/briandaza-scaled-e1677185278604.jpg'></div>
 
@@ -140,7 +140,7 @@ Department of Economics, LSA
 
 <div class="item">
 
-<a href="https://alexanderfertig.com/">
+<a  target="_blank" href="https://alexanderfertig.com/">
 
 <div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Alexander-Fertig_Headshot_old-e1631110128981.jpg'></div>
 
@@ -266,7 +266,7 @@ Department of Economics, LSA
 </div>
 <div class="item">
 
-<a href="https://laston-manja.github.io/">
+<a  target="_blank" href="https://laston-manja.github.io/">
 
 <div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/LastonManjaDevEcon-scaled-e1683938798775.jpg'></div>
 
@@ -363,7 +363,7 @@ Department of Economics, LSA
 </div>
 <div class="item">
 
-<a href="https://dvelasquezc.github.io/">
+<a  target="_blank" href="https://dvelasquezc.github.io/">
 
 <div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Daniel_Vasquez-2-e1632778136973.jpeg'></div>
 
