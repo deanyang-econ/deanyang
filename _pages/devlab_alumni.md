@@ -5,27 +5,41 @@ title: "Alumni"
 
 <style>
   .container {
-    display: flex; /* Use flexbox */
-    flex-wrap: wrap; /* Allow items to wrap onto multiple lines */
-    justify-content: space-between; /* Distribute items evenly */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
   }
   
   .item {
-    width: calc(33.33% - 10px); /* Calculate width for 3 items with margin */
-    margin: 5px; /* Add some margin for spacing */
-    padding:5px;
-    box-sizing: border-box; /* Include padding and border in the width */
+    width: calc(33.33% - 10px); /* Adjust width for 3 items per row with margin */
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
   }
 
-    .image-container {
-    height: 280px; /* Set the desired height */
-    overflow: hidden; /* Hide any overflowing content */
+  .image-container {
+    height: 300px; /* Maintain the same height for all screen sizes */
+    overflow: hidden;
   }
 
   .image-container img {
-    height: 100%; /* Set image height to 100% of parent container's height */
-    width: auto; /* Let the width adjust automatically to maintain aspect ratio */
-    display: block; /* Remove any extra space below image */
+    height: 100%;
+    width: 100%; /* Ensure image fills its container */
+    object-fit: cover; /* Maintain aspect ratio and fill container */
+    display: block;
+  }
+
+  /* Media queries for responsive layout */
+  @media (max-width: 992px) {
+    .item {
+      width: calc(50% - 10px); /* Adjust width for 2 items per row with margin */
+    }
+  }
+
+  @media (max-width: 768px) {
+    .item {
+      width: calc(100% - 10px); /* Full width for single item per row */
+    }
   }
 </style>
 <!-- =============================Dev Lab header Below========================== -->
