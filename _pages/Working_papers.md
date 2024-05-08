@@ -19,9 +19,6 @@ title: "Working papers"
 * [Abundance from Abroad: Migrant Income and Long-Run Economic Development](/deanyang/files/workingpapers/khanna-murathanoglu-theoharides-yang-2022-abundance-from-abroad.pdf) (with Gaurav Khanna, Emir Murathanoglu, and Caroline Theoharides).
 
 
-<!-- /////////////// -->
-* [Picture This: Social Distance and the Mistreatment of Migrant Workers ](/deanyang/files/workingpapers/bblsty-2022-MistreatmentMigrantWorkers.pdf) (with Toman Barsbai, Vojta Bartoš, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson). Revise and resubmit, _Journal of Political Economy: Microeconomics_. 
-
 
 
 <!-- /////////////// -->
