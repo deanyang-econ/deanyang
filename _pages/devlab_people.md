@@ -345,7 +345,7 @@ Department of Economics, LSA
 
 <a  target="_blank" href="https://laston-manja.github.io/">
 
-<div class="image-container"><img src='/deanyang/files/profiles/lestonmanja.JPG'></div>
+<div class="image-container"><img src='https://laston-manja.github.io/assets/img/profile_pic.jpg'></div>
 
 <strong>Laston Manja </strong><br>
 </a>
