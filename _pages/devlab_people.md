@@ -109,7 +109,7 @@ Department of Mathematics, LSA
 
 <a   target="_blank" >
 
-<div class="image-container"><img src='/deanyang/files/profiles/aarani.JPG'></div>
+<div class="image-container"><img src='/deanyang/files/profiles/aarani.jpg'></div>
 
 <strong> Aarani Balendran</strong><br>
 </a>
