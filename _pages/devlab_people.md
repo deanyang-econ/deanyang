@@ -107,6 +107,43 @@ Department of Mathematics, LSA
 
 <div class="item">
 
+<a   target="_blank" >
+
+<div class="image-container"><img src='/deanyang/files/profiles/aarani.JPG'></div>
+
+<strong> Aarani Balendran</strong><br>
+</a>
+
+Undergraduate Student<br>
+
+Department of Economics, LSA
+
+</div>
+
+<!-- /////////////////////////Item -->
+<!-- /////////////////////////Item -->
+
+
+<div class="item">
+
+<a  target="_blank" href="https://prod.lsa.umich.edu/econ/people/phd-students/saheel.html">
+
+<div class="image-container"><img src='https://prod.lsa.umich.edu/content/michigan-lsa/econ/en/people/phd-students/saheel/jcr:content/profileImage.transform/profile_portrait/image.jpg'></div>
+
+<strong>Saheel Chodavadia</strong><br>
+</a>
+
+Ph.D. Student<br>
+
+Department of Economics, LSA
+Ford School of Public Policy
+
+</div>
+<!-- /////////////////////////Item -->
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
 <a   target="_blank" href="https://briandaza.github.io/">
 
 <div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/02/briandaza-scaled-e1677185278604.jpg'></div>
@@ -154,6 +191,11 @@ Ford School of Public Policy
 
 </div>
 <!-- /////////////////////////Item -->
+
+
+
+
+<!-- /////////////////////////Item -->
 <div class="item">
 
 <a href="#">
@@ -170,6 +212,22 @@ Population Studies Center, Institute for Social Research
 </div>
 <!-- /////////////////////////Item -->
 
+<!-- /////////////////////////Item -->
+<div class="item">
+
+<a href="https://arizagusti.github.io/">
+
+<div class="image-container"><img src='https://arizagusti.github.io/images/pp_crop.png'></div>
+
+<strong>Ariza Gusti </strong><br>
+</a>
+
+PhD Student
+
+Department of Economics, LSA
+
+</div>
+<!-- /////////////////////////Item -->
 <div class="item">
 
 <a href="#">
@@ -184,6 +242,24 @@ Undergraduate Student<br>
 Department of Economics, LSA
 
 </div>
+
+<!-- /////////////////////////Item -->
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img src='/deanyang/files/profiles/inoue.jpg'></div>
+
+<strong>Mika Inoue</strong><br>
+</a>
+
+Ph.D. Student<br>
+
+Department of Economics, LSA
+
+</div>
+<!-- /////////////////////////Item -->
+<!-- /////////////////////////Item -->
 <div class="item">
 
 <a href="#">
@@ -261,16 +337,34 @@ Ph.D. Student<br>
 
 Department of Economics, LSA
 
-<!-- /////////////////////////Item -->
+
 
 </div>
+<!-- /////////////////////////Item -->
 <div class="item">
 
 <a  target="_blank" href="https://laston-manja.github.io/">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/LastonManjaDevEcon-scaled-e1683938798775.jpg'></div>
+<div class="image-container"><img src='/deanyang/files/profiles/lestonmanja.JPG'></div>
 
 <strong>Laston Manja </strong><br>
+</a>
+
+Ph.D. Student<br>
+
+Department of Economics, LSA
+
+</div>
+<!-- /////////////////////////Item -->
+
+<!-- /////////////////////////Item -->
+<div class="item">
+
+<a  target="_blank" href="https://hanjanirina.github.io/">
+
+<div class="image-container"><img src='https://hanjanirina.github.io/images/profile.png'></div>
+
+<strong>Nirina Randrianarisoa </strong><br>
 </a>
 
 Ph.D. Student<br>
