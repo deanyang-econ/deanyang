@@ -16,9 +16,7 @@ title: "Working papers"
 
 
 <!-- /////////////// -->
-* [Abundance from Abroad: Migrant Income and Long-Run Economic Development](/deanyang/files/workingpapers/khanna-murathanoglu-theoharides-yang-2022-abundance-from-abroad.pdf) (with Gaurav Khanna, Emir Murathanoglu, and Caroline Theoharides).
-
-
+* [Abundance from Abroad: Migrant Income and Long-Run Economic Development](/deanyang/files/workingpapers/khanna-murathanoglu-theoharides-yang-2024-abundance-from-abroad.pdf) (with Gaurav Khanna, Emir Murathanoglu, and Caroline Theoharides).
 
 
 <!-- /////////////// -->
