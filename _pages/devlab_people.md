@@ -395,7 +395,7 @@ Department of Economics, LSA
 
 <a  target="_blank" href="https://hanjanirina.github.io/">
 
-<div class="image-container"><img src='https://hanjanirina.github.io/images/profile.png'></div>
+<div class="image-container"><img src='/deanyang/files/profiles/hanjanirina.jpg'></div>
 
 <strong>Nirina Randrianarisoa </strong><br>
 </a>
