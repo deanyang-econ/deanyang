@@ -109,6 +109,24 @@ Department of Mathematics, LSA
 
 <a   target="_blank" >
 
+<div class="image-container"><img src='/deanyang/files/profiles/Christabel Akhigbe.jpeg'></div>
+
+<strong>Christabel Akhigbe</strong><br>
+</a>
+
+Ph.D. Student<br>
+
+Department of Economics, LSA
+
+</div>
+
+<!-- /////////////////////////Item -->
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a   target="_blank" >
+
 <div class="image-container"><img src='/deanyang/files/profiles/aarani.jpg'></div>
 
 <strong> Aarani Balendran</strong><br>
@@ -126,7 +144,7 @@ Department of Economics, LSA
 
 <div class="item">
 
-<a  target="_blank" href="https://prod.lsa.umich.edu/econ/people/phd-students/saheel.html">
+<a  target="_blank" href="https://saheelchodavadia.com/">
 
 <div class="image-container"><img src='https://prod.lsa.umich.edu/content/michigan-lsa/econ/en/people/phd-students/saheel/jcr:content/profileImage.transform/profile_portrait/image.jpg'></div>
 
@@ -262,6 +280,22 @@ Department of Economics, LSA
 <!-- /////////////////////////Item -->
 <div class="item">
 
+<a href="https://sites.google.com/view/dablinmpuuga">
+
+<div class="image-container"><img src='/deanyang/files/profiles/Dablin_headshot.png'></div>
+
+<strong> Dablin Mpuuga</strong><br>
+</a>
+
+Ph.D. Student<br>
+
+Department of Economics, LSA
+
+</div>
+<!-- /////////////////////////Item -->
+<!-- /////////////////////////Item -->
+<div class="item">
+
 <a href="#">
 
 <div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2024/02/ZaraDevEcon-scaled-e1708381090386.jpg'></div>
@@ -275,7 +309,6 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
-
 <div class="item">
 
 <a href="#">
@@ -345,7 +378,7 @@ Department of Economics, LSA
 
 <a  target="_blank" href="https://laston-manja.github.io/">
 
-<div class="image-container"><img src='https://laston-manja.github.io/assets/img/profile_pic.jpg'></div>
+<div class="image-container"><img src='/deanyang/files/profiles/lestonmanja.JPG'></div>
 
 <strong>Laston Manja </strong><br>
 </a>
@@ -362,7 +395,7 @@ Department of Economics, LSA
 
 <a  target="_blank" href="https://hanjanirina.github.io/">
 
-<div class="image-container"><img src='https://hanjanirina.github.io/images/profile.png'></div>
+<div class="image-container"><img src='/deanyang/files/profiles/hanjanirina.jpg'></div>
 
 <strong>Nirina Randrianarisoa </strong><br>
 </a>
