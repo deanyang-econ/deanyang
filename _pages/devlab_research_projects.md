@@ -36,7 +36,7 @@ title: "Research Projects"
 * [War Mobilization and Economic Development](https://deanyang-econ.github.io/deanyang/files/workingpapers/parvathaneni-yang-2024-war-mobilization-india.pdf). How did British demand for war materiel during World War II affect long-run industrialization in India? _Funder: Michigan Institute for Teaching and Research in Economics (MITRE), Department of Economics_. 
  
 
-* [Long-Run Impacts of Early Education Quality](C:\Users\deanyang\Documents\GitHub\deanyang\files\workingpapers\lloyd-yang-long-shadow-early-education.pdf). How did an exogenous decline in early education quality affect longer-run test scores and academic achievement? _Partners: Philippine Department of Education, Innovations for Poverty Action_. 
+* [Long-Run Impacts of Early Education Quality](https://deanyang-econ.github.io/deanyang/files/workingpapers/lloyd-yang-long-shadow-early-education.pdf). How did an exogenous decline in early education quality affect longer-run test scores and academic achievement? _Partners: Philippine Department of Education, Innovations for Poverty Action_. 
  
 
 * <ins>The Economics of Religious Group Membership</ins>. What economic factors affect peoples’ decisions to join religious groups? _Funder: MITRE_.
