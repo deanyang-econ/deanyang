@@ -260,6 +260,23 @@ Undergraduate Student<br>
 Department of Economics, LSA
 
 </div>
+<!-- /////////////////////////Item -->
+
+<!-- /////////////////////////Item -->
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img src='/deanyang/files/profiles/Sophia_headshot.jpg'></div>
+
+<strong>Sophia Guo</strong><br>
+</a>
+
+Undergraduate Student<br>
+
+Department of Economics, LSA
+
+</div>
 
 <!-- /////////////////////////Item -->
 <div class="item">
@@ -309,6 +326,22 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
+<!-- /////////////////////////Item -->
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img src='/deanyang/files/profiles/Anna_Jerolimov.png'></div>
+
+<strong> Anna Jerolimov</strong><br>
+</a>
+
+Undergraduate Student<br>
+
+Department of Economics, LSA
+
+</div>
+<!-- /////////////////////////Item -->
 <div class="item">
 
 <a href="#">
@@ -322,9 +355,9 @@ Ph.D. Student<br>
 
 Department of Economics, LSA
 
-<!-- /////////////////////////Item -->
 
 </div>
+<!-- /////////////////////////Item -->
 <div class="item">
 
 <a href="#">
@@ -340,6 +373,8 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
+
+
 
 <div class="item">
 
