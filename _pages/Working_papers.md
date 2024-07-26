@@ -7,7 +7,7 @@ title: "Working papers"
 
 <!-- ======================================================= -->
 
-* <ins>The Long Shadow of Early Education: Evidence from a Natural Experiment in the Philippines</ins> (with Thomas Lloyd).
+* [The Long Shadow of Early Education: Evidence from a Natural Experiment in the Philippines](/deanyang/files/workingpapers/lloyd-yang-2024-philippines-education-quality.pdf) (with Thomas Lloyd).
 
 
 * [War Mobilization and Economic Development: World War II and Structural Transformation in India](/deanyang/files/workingpapers/parvathaneni-yang-2024-war-mobilization-india.pdf) (with Aneesha Parvathaneni).
