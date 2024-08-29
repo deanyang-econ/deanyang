@@ -9,7 +9,7 @@ redirect_from:
 
 I am a development economist at the University of Michigan. My positions here are Professor in the [Department of Economics](https://lsa.umich.edu/econ), Professor at the [Ford School of Public Policy](https://fordschool.umich.edu/), and Research Professor at the [Population Studies Center](https://psc.isr.umich.edu/) (Institute for Social Research).
 
-During the 2024-25 academic year, I am a [Maria de Maetzu Visiting Professor](https://www.cemfi.es/people/visitors/index.asp) at [CEMFI](https://www.cemfi.es/)/
+During the 2024-25 academic year, I am spending my sabbatical at [CEMFI](https://www.cemfi.es/) as a [Maria de Maetzu Visiting Professor](https://www.cemfi.es/research/mdm/index.asp).
 
 Listen to Eduardo Montero and me on the [AEA Research Highlights Podcast](https://www.aeaweb.org/research/religious-festivals-development-mexico) on [“Religious Festivals and Economic Development”](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20211094), *American Economic Review*, October 2022. This [NBER Digest article](https://www.nber.org/digest-202108/religious-festivals-agriculture-and-economic-progress-mexico) provides a nontechnical summary.
 
