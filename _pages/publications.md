@@ -14,7 +14,7 @@ author_profile: true
 
 39 . [Picture This: Social Distance and the Mistreatment of Migrant Workers ](/deanyang/files/workingpapers/bblsty-2022-MistreatmentMigrantWorkers.pdf), _Journal of Political Economy: Microeconomics_, forthcoming. (With Toman Barsbai, Vojta Bartoš, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson).
 
-38 . [Information and Immigrant Settlement](/deanyang/files/barsbai-licuanan-steinmayr-tiongson-yang-information-immigrant-settlement.pdf),  _Journal of Development Economics_, forthcoming. (With Toman Barsbai, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson.)
+38 . [Information and Immigrant Settlement](/deanyang/files/barsbai-licuanan-steinmayr-tiongson-yang-information-immigrant-settlement.pdf),  _Journal of Development Economics_, Vol. 170, September 2024. (With Toman Barsbai, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson.)
 
 37 . [Correcting Misperceptions About Support for Social Distancing to Combat COVID-19](/deanyang/files/allen-mahumane-riddell-rosenblat-yang-yu-2024-correcting-SD-norms.pdf), _Economic Development and Cultural Change_, Vol. 73, No. 1, October 2024. (With James Allen, Arlete Mahumane, James Riddell, Tanya Rosenblat, and Hang Yu.) [REPLICATION DATA](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TMARZT).
 
