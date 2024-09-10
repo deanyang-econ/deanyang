@@ -18,7 +18,7 @@ author_profile: true
 
 37 . [Correcting Misperceptions About Support for Social Distancing to Combat COVID-19](/deanyang/files/allen-mahumane-riddell-rosenblat-yang-yu-2024-correcting-SD-norms.pdf), _Economic Development and Cultural Change_, Vol. 73, No. 1, October 2024. (With James Allen, Arlete Mahumane, James Riddell, Tanya Rosenblat, and Hang Yu.) [REPLICATION DATA](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TMARZT).
 
-36 . [Loss Aversion or Lack of Trust: Why Does Loss Framing Work to Encourage Preventative Health Behaviors?](/deanyang/files/w29828.pdf), _Journal of Behavioral and Experimental Economics_, forthcoming. (With Emily Beam, Yusufcan Masatlioglu, and Tara Watson.)
+36 . [Loss Aversion or Lack of Trust: Why Does Loss Framing Work to Encourage Preventative Health Behaviors?](/deanyang/files/w29828.pdf), _Journal of Behavioral and Experimental Economics_, Vol. 104, June 2023. (With Emily Beam, Yusufcan Masatlioglu, and Tara Watson.)
 
 35 . [Measuring Remittances](/deanyang/files/dflsy-2022-measuring-remittances.pdf), _Journal of Development Economics_, Vol. 161, March 2023. (With Giuseppe de Arcangelis, Alexander Fertig, Yuna Liang, and Peter Srouji.) [REPLICATION DATA](https://www.openicpsr.org/openicpsr/project/183321/version/V1/view).
 
