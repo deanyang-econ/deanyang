@@ -17,7 +17,7 @@ title: "Working papers"
 * [Abundance from Abroad: Migrant Income and Long-Run Economic Development](/deanyang/files/workingpapers/khanna-murathanoglu-theoharides-yang-2024-abundance-from-abroad.pdf) (with Gaurav Khanna, Emir Murathanoglu, and Caroline Theoharides).
 
 <!-- /////////////// -->
-* [The Ramayan Effect: Media, Identity, and the Rise of Hindu Nationalism in India] (with Resuf Ahmed, Paul Brimble, Akhila Kovvuri, and Alessandro Saia).
+* The Ramayan Effect: Media, Identity, and the Rise of Hindu Nationalism in India (with Resuf Ahmed, Paul Brimble, Akhila Kovvuri, and Alessandro Saia).
 
 
 <!-- /////////////// -->
