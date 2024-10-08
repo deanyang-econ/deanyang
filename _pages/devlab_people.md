@@ -464,7 +464,7 @@ Department of Economics, LSA
 
 <div class="image-container"><img src='/deanyang/files/profiles/mathews_b.png'></div>
 
-<strong>Matthew Burger2</strong><br>
+<strong>Matthew Burger</strong><br>
 </a>
 
 Undergraduate Student <br>
