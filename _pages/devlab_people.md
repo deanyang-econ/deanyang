@@ -121,24 +121,7 @@ Department of Economics, LSA
 </div>
 
 <!-- /////////////////////////Item -->
-<!-- /////////////////////////Item -->
 
-<div class="item">
-
-<a   target="_blank" >
-
-<div class="image-container"><img src='/deanyang/files/profiles/aarani.jpg'></div>
-
-<strong> Aarani Balendran</strong><br>
-</a>
-
-Undergraduate Student<br>
-
-Department of Economics, LSA
-
-</div>
-
-<!-- /////////////////////////Item -->
 <!-- /////////////////////////Item -->
 
 
