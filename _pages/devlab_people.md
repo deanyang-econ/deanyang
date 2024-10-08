@@ -462,6 +462,23 @@ Department of Economics, LSA
 
 <a href="#">
 
+<div class="image-container"><img src='/deanyang/files/profiles/mathews_b.png'></div>
+
+<strong>Matthew Burger2</strong><br>
+</a>
+
+Undergraduate Student <br>
+
+Department of Economics, LSA
+
+</div>
+<!-- /////////////////////////Item -->
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="#">
+
 <div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/02/AneeshaDevEcon-e1677182168478.jpeg'></div>
 
 <strong>
