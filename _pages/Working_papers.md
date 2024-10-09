@@ -7,6 +7,8 @@ title: "Working papers"
 
 <!-- ======================================================= -->
 
+* [The Price of Faith: Economic Costs and Religious Group Membership in Sub-Saharan Africa](/deanyang/files/workingpapers/montero-yang-yentzen-2024-price-of-faith.pdf) (with Eduardo Montero and Triana Yentzen).
+
 * [The Long Shadow of Early Education: Evidence from a Natural Experiment in the Philippines](/deanyang/files/workingpapers/lloyd-yang-2024-long-shadow.pdf) (with Thomas Lloyd).
 
 
