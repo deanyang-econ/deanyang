@@ -17,7 +17,7 @@ Check out my research group, [DevLab](https://deanyang-econ.github.io/deanyang/d
 
 Learn more about [Development Economics @ Michigan](https://devecon.umich.edu).
 
-Some podcasts I've done lately:
+Some podcasts where I discuss my research:
 
 - Eduardo Montero and me on the [AEA Research Highlights Podcast](https://www.aeaweb.org/research/religious-festivals-development-mexico) on [“Religious Festivals and Economic Development”](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20211094), *American Economic Review*, October 2022. This [NBER Digest article](https://www.nber.org/digest-202108/religious-festivals-agriculture-and-economic-progress-mexico) provides a nontechnical summary.
 
