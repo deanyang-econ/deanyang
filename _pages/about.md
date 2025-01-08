@@ -15,6 +15,9 @@ Check out my research group, [DevLab](https://deanyang-econ.github.io/deanyang/d
 
 During the 2024-25 academic year, I am spending my sabbatical at [CEMFI](https://www.cemfi.es/) as a [Maria de Maetzu Visiting Professor](https://www.cemfi.es/research/mdm/index.asp).
 
+NEW PAPER!
+* [War Mobilization and Economic Development: World War II and Structural Transformation in India](https://www.nber.org/papers/w33246), _NBER Working Paper_, No. 33246, December 2024. (With Aneesha Parvathaneni.)
+
 Some podcasts where I discuss my research:
 
 - Eduardo Montero and me on the [AEA Research Highlights Podcast](https://www.aeaweb.org/research/religious-festivals-development-mexico) on [“Religious Festivals and Economic Development”](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20211094), *American Economic Review*, October 2022. This [NBER Digest article](https://www.nber.org/digest-202108/religious-festivals-agriculture-and-economic-progress-mexico) provides a nontechnical summary.
