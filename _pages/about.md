@@ -16,6 +16,8 @@ Check out my research group, [DevLab](https://deanyang-econ.github.io/deanyang/d
 During the 2024-25 academic year, I am spending my sabbatical at [CEMFI](https://www.cemfi.es/) as a [Maria de Maetzu Visiting Professor](https://www.cemfi.es/research/mdm/index.asp).
 
 NEW PAPERS!
+* [The Price of Faith: Economic Costs and Religious Group Membership in Sub-Saharan Africa](https://www.nber.org/papers/w33482), _NBER Working Paper_, No. 33482, Febuary 2025. (with Eduardo Montero and Triana Yentzen.)
+
 * [Ancient Epics in the Television Age: Media, Identity, and the Rise of Hindu Nationalism in India](https://www.nber.org/papers/w33417), _NBER Working Paper_, No. 33417, January 2025. (with Resuf Ahmed, Paul Brimble, Akhila Kovvuri, and Alessandro Saia.)
 
 * [War Mobilization and Economic Development: World War II and Structural Transformation in India](https://www.nber.org/papers/w33246), _NBER Working Paper_, No. 33246, December 2024. (With Aneesha Parvathaneni.)
