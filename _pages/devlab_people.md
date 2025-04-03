@@ -124,7 +124,6 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-
 <div class="item">
 
 <a  target="_blank" href="https://saheelchodavadia.com/">
@@ -192,9 +191,6 @@ Ford School of Public Policy
 
 </div>
 <!-- /////////////////////////Item -->
-
-
-
 
 <!-- /////////////////////////Item -->
 <div class="item">
@@ -338,7 +334,6 @@ Ph.D. Student<br>
 
 Department of Economics, LSA
 
-
 </div>
 <!-- /////////////////////////Item -->
 <div class="item">
@@ -357,8 +352,6 @@ Department of Economics, LSA
 </div>
 <!-- /////////////////////////Item -->
 
-
-
 <div class="item">
 
 <a href="#">
@@ -371,6 +364,21 @@ Department of Economics, LSA
 Ph.D. Student<br>
 
 Department of Economics, LSA
+
+</div>
+<!-- /////////////////////////Item -->
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img src='/deanyang/files/profiles/Liu, Wanxiangyi.jpg'></div>
+
+<strong>Wanxiangyi Liu</strong><br>
+</a>
+
+Undergraduate Student<br>
+
+Ross School of Business
 
 </div>
 <!-- /////////////////////////Item -->
@@ -388,10 +396,9 @@ Ph.D. Student<br>
 
 Department of Economics, LSA
 
-
-
 </div>
 <!-- /////////////////////////Item -->
+
 <div class="item">
 
 <a  target="_blank" href="https://laston-manja.github.io/">
@@ -488,7 +495,6 @@ Predoctoral Scholar<br>
 
 Department of Economics, LSA
 
-
 </div>
 <!-- /////////////////////////Item -->
 
@@ -571,9 +577,9 @@ Ph.D. Student<br>
 
 Department of Economics, LSA
 
+</div>
 <!-- /////////////////////////Item -->
 
-</div>
 <div class="item">
 
 <a href="#">
@@ -620,8 +626,6 @@ Undergraduate Student<br>
 Department of Economics, LSA
 
 </div>
-
-
 
 <!-- /////////container Div end///////// -->
 <div class="item">
