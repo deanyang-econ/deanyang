@@ -414,8 +414,25 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
+<div class="item">
 
+<a  target="_blank" href="#">
+
+<div class="image-container"><img src='/deanyang/files/profiles/Brady Nichols.jpg'></div>
+
+<strong>Brady Nichols </strong><br>
+</a>
+
+Undergraduate Student
+<br>
+
+Department of Economics<br>
+Department of Romance Languages and Literatures, LSA
+
+</div>
 <!-- /////////////////////////Item -->
+
+
 <div class="item">
 
 <a  target="_blank" href="https://hanjanirina.github.io/">
