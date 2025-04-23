@@ -15,6 +15,8 @@ Check out my research group, [DevLab](https://deanyang-econ.github.io/deanyang/d
 
 During the 2024-25 academic year, I am spending my sabbatical at [CEMFI](https://www.cemfi.es/) as a [Maria de Maetzu Visiting Professor](https://www.cemfi.es/research/mdm/index.asp).
 
+The [NBER Reporter](https://www.nber.org/reporter/2025number1/international-migration-remittances-and-economic-development) (April 2025) featured an overview of my research on international migration. 
+
 NEW PAPERS!
 * [The Long Shadow of Early Education: Evidence from a Natural Experiment in the Philippines](https://www.nber.org/papers/w33600), _NBER Working Paper_, No. 33600, March 2025. (with Thomas Lloyd.)
 
