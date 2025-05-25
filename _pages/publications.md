@@ -12,7 +12,7 @@ author_profile: true
 
 {% include base_path %}
 
-40 . [Brain Drain or Brain Gain? Effects of High-Skilled International Migration on Developing Countries](/deanyang/files/workingpapers/batista-han-haushofer-khanna-mckenzie-mobarak-theoharides-yang-2025science-braingain.pdf), _Science_, Vol. 388, Issue 6749, 22 May 2025. (With Catia Batista, Daniel Han, Johannes Haushofer, Gaurav Khanna, David McKenzie, Mushfiq Mobarak, and Caroline Theoharides.)
+40 . [Brain Drain or Brain Gain? Effects of High-Skilled International Migration on Developing Countries](/deanyang/files/batista-han-haushofer-khanna-mckenzie-mobarak-theoharides-yang-2025science-braingain.pdf), _Science_, Vol. 388, Issue 6749, 22 May 2025. (With Catia Batista, Daniel Han, Johannes Haushofer, Gaurav Khanna, David McKenzie, Mushfiq Mobarak, and Caroline Theoharides.)
 
 39 . [Picture This: Social Distance and the Mistreatment of Migrant Workers ](/deanyang/files/workingpapers/bblsty-2022-MistreatmentMigrantWorkers.pdf), _Journal of Political Economy: Microeconomics_, forthcoming. (With Toman Barsbai, Vojta Bartoš, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson.)
 
