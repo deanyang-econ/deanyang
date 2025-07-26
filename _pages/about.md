@@ -13,8 +13,6 @@ I am a Co-Editor of the [Journal of Development Economics](https://www.sciencedi
 
 Check out my research group, [DevLab](https://deanyang-econ.github.io/deanyang/devlab/).
 
-During the 2024-25 academic year, I am spending my sabbatical at [CEMFI](https://www.cemfi.es/) as a [Maria de Maetzu Visiting Professor](https://www.cemfi.es/research/mdm/index.asp).
-
 The [NBER Reporter](https://www.nber.org/reporter/2025number1/international-migration-remittances-and-economic-development) (April 2025) featured an overview of my research on international migration. 
 
 NEW PUBLICATION!
@@ -24,7 +22,7 @@ NEW PUBLICATION!
 NEW WORKING PAPERS!
 * [The Long Shadow of Early Education: Evidence from a Natural Experiment in the Philippines](https://www.nber.org/papers/w33600), _NBER Working Paper_, No. 33600, March 2025. (with Thomas Lloyd.)
 
-* [The Price of Faith: Economic Costs and Religious Group Membership in Sub-Saharan Africa](https://www.nber.org/papers/w33482), _NBER Working Paper_, No. 33482, Febuary 2025. (with Eduardo Montero and Triana Yentzen.)
+* [The Price of Faith: Economic Costs and Religious Group Membership in Sub-Saharan Africa](https://www.nber.org/papers/w33482), _NBER Working Paper_, No. 33482, February 2025. (with Eduardo Montero and Triana Yentzen.)
 
 * [Ancient Epics in the Television Age: Media, Identity, and the Rise of Hindu Nationalism in India](https://www.nber.org/papers/w33417), _NBER Working Paper_, No. 33417, January 2025. (with Resuf Ahmed, Paul Brimble, Akhila Kovvuri, and Alessandro Saia.)
 
