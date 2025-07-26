@@ -113,6 +113,23 @@ Department of Economics, LSA
 
 <div class="item">
 
+<a href="#">
+
+<div class="image-container"><img src='/deanyang/files/profiles/mathews_b.png'></div>
+
+<strong>Matthew Burger</strong><br>
+</a>
+
+Undergraduate Student <br>
+
+Department of Economics, LSA
+
+</div>
+
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
 <a  target="_blank" href="https://saheelchodavadia.com/">
 
 <div class="image-container"><img src='https://prod.lsa.umich.edu/content/michigan-lsa/econ/en/people/phd-students/saheel/jcr:content/profileImage.transform/profile_portrait/image.jpg'></div>
@@ -310,6 +327,7 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
+
 <!-- <div class="item">
 
 <a href="#">
@@ -373,7 +391,7 @@ Department of Economics, LSA
 </div>
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<!-- <div class="item">
 
 <a  target="_blank" href="https://laston-manja.github.io/">
 
@@ -386,7 +404,8 @@ Ph.D. Student<br>
 
 Department of Economics, LSA
 
-</div>
+</div> -->
+
 <!-- /////////////////////////Item -->
 <div class="item">
 
@@ -407,7 +426,7 @@ Department of Romance Languages and Literatures, LSA
 <!-- /////////////////////////Item -->
 
 
-<div class="item">
+<!-- <div class="item">
 
 <a  target="_blank" href="https://hanjanirina.github.io/">
 
@@ -420,10 +439,11 @@ Ph.D. Student<br>
 
 Department of Economics, LSA
 
-</div>
+</div> -->
+
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<!-- <div class="item">
 
 <a href="#">
 
@@ -436,24 +456,8 @@ Ph.D. Student<br>
 
 Department of Economics, LSA
 
-</div>
-<!-- /////////////////////////Item -->
+</div> -->
 
-<div class="item">
-
-<a href="#">
-
-<div class="image-container"><img src='/deanyang/files/profiles/mathews_b.png'></div>
-
-<strong>Matthew Burger</strong><br>
-</a>
-
-Undergraduate Student <br>
-
-Department of Economics, LSA
-
-</div>
-<!-- /////////////////////////Item -->
 <!-- /////////////////////////Item -->
 
 <div class="item">
@@ -471,22 +475,7 @@ Ph.D. Student<br>
 Department of Economics, LSA
 
 </div>
-<!-- /////////////////////////Item -->
 
-<div class="item">
-
-<a href="#">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/NyahPDevEcon-e1683911613701.jpg'></div>
-
-<strong>Nyah Phillips</strong><br>
-</a>
-
-Predoctoral Scholar<br>
-
-Department of Economics, LSA
-
-</div>
 <!-- /////////////////////////Item -->
 
 <div class="item">
@@ -519,42 +508,6 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-</div>
-<div class="item">
-
-<a  target="_blank" href="https://dvelasquezc.github.io/">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Daniel_Vasquez-2-e1632778136973.jpeg'></div>
-
-<strong>Daniel Velásquez-Cabrera</strong><br>
-</a>
-
-Ph.D. Student<br>
-
-Department of Economics, LSA
-
-</div>
-<!-- /////////////////////////Item -->
-
-<div class="item">
-
-<a href="#">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/11/LauraWangDevEcon-scaled-e1700209188122.jpg'></div>
-
-<strong>
-Laura Wang</strong><br>
-</a>
-
-Undergraduate Student<br>
-
-Department of Economics, LSA
-Department of Mathematics, LSA
-
-</div>
-
-<!-- /////////////////////////Item -->
-
 <div class="item">
 
 <a href="#">
@@ -569,22 +522,7 @@ Ph.D. Student<br>
 Department of Economics, LSA
 
 </div>
-<!-- /////////////////////////Item -->
 
-<div class="item">
-
-<a href="#">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/11/Ann-PhotoDevEcon-e1700208769929.jpg'></div>
-
-<strong>Ann Yang</strong><br>
-</a>
-
-Undergraduate Student<br>
-
-Department of Economics, LSA
-
-</div>
 
 <!-- /////////////////////////Item -->
 
@@ -604,7 +542,7 @@ Department of Economics, LSA
 </div>
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<!-- <div class="item">
 
 <a href="#">
 
@@ -616,7 +554,7 @@ Department of Economics, LSA
 Undergraduate Student<br>
 Department of Economics, LSA
 
-</div>
+</div> -->
 
 <!-- /////////container Div end///////// -->
 <div class="item">

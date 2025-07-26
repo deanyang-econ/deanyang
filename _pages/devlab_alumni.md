@@ -316,6 +316,28 @@ Department of Economics, <br>Nova University, Lisbon<br>
 
 
 </div>
+
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/NyahPDevEcon-e1683911613701.jpg'></div>
+
+<strong>Nyah Phillips</strong><br>
+</a>
+
+Ph.D. Student<br>
+
+Department of Economics, <br>University of California, Berkeley<br>
+
+<strong>Predoc Years: </strong>2023-25
+
+</div>
+
+
+
 <!-- /////////////////////////Item -->
 
 <div class="item">
@@ -362,17 +384,59 @@ Department of Economics, <br>Yale University<br>
 
 <div class="image-container">
 <img src='https://devecon.umich.edu/wp-content/uploads/2023/06/JaredStoloveDevEcon-scaled-e1686080761725.jpg'></div>
-
 <strong>Jared Stolove</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, <br>Yale University<br>
-
 <strong>BA Graduation Year: </strong>2020
 
 </div>
+
+<!-- /////////////////////////Item -->
+
+</div>
+<div class="item">
+
+<a  target="_blank" href="https://dvelasquezc.github.io/">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Daniel_Vasquez-2-e1632778136973.jpeg'></div>
+
+<strong>Daniel Velásquez-Cabrera</strong><br>
+</a>
+
+Assistant Professor<br>
+
+Department of Economics, <br>Claremont-McKenna University<br>
+
+</div>
+<!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/11/LauraWangDevEcon-scaled-e1700209188122.jpg'></div>
+
+<strong>
+Laura Wang</strong><br>
+</a>
+Ph.D. Student<br>
+Kellogg School of Business, <br>Northwestern University<br>
+</div>
+
+<!-- /////////////////////////Item -->
+
+<div class="item">
+<a href="#">
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/11/Ann-PhotoDevEcon-e1700208769929.jpg'></div>
+<strong>Ann Yang</strong><br>
+</a>
+Predoctoral Scholar<br>
+Federal Reserve Bank of Chicago<br>
+<strong>BA Graduation Year: </strong>2025
+
+</div>
+
 <!-- /////////////////////////Item start -->
 <div class="item">
 
