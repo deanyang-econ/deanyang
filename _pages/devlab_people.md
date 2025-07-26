@@ -72,23 +72,10 @@ title: "People"
 <!-- /////////////////////////Item -->
 
 <div class="container">
-<div class="item">
 
-<a href="#">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/11/EeshaDevEcon-scaled-e1700603047263.jpg'></div>
-
-<strong> Eesha Acharya</strong><br>
-</a>
-
-Undergraduate Student<br>
-
-Department of Economics, LSA
-
-</div>
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<!-- <div class="item">
 
 <a href="#">
 
@@ -102,10 +89,10 @@ Undergraduate Student<br>
 Department of Economics, LSA
 Department of Mathematics, LSA
 
-</div>
+</div> -->
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<!-- <div class="item">
 
 <a   target="_blank" >
 
@@ -118,7 +105,7 @@ Ph.D. Student<br>
 
 Department of Economics, LSA
 
-</div>
+</div> -->
 
 <!-- /////////////////////////Item -->
 
@@ -142,7 +129,7 @@ Ford School of Public Policy
 <!-- /////////////////////////Item -->
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<!-- <div class="item">
 
 <a   target="_blank" href="https://briandaza.github.io/">
 
@@ -155,7 +142,7 @@ Ph.D. Student<br>
 
 Department of Economics, LSA
 
-</div>
+</div> -->
 
 <!-- /////////////////////////Item -->
 
@@ -210,7 +197,7 @@ Population Studies Center, Institute for Social Research
 <!-- /////////////////////////Item -->
 
 <!-- /////////////////////////Item -->
-<div class="item">
+<!-- <div class="item">
 
 <a href="https://arizagusti.github.io/">
 
@@ -223,9 +210,9 @@ PhD Student
 
 Department of Economics, LSA
 
-</div>
+</div> -->
 <!-- /////////////////////////Item -->
-<div class="item">
+<!-- <div class="item">
 
 <a href="#">
 
@@ -238,7 +225,7 @@ Undergraduate Student<br>
 
 Department of Economics, LSA
 
-</div>
+</div> -->
 <!-- /////////////////////////Item -->
 
 <!-- /////////////////////////Item -->
@@ -274,7 +261,8 @@ Department of Economics, LSA
 </div>
 <!-- /////////////////////////Item -->
 <!-- /////////////////////////Item -->
-<div class="item">
+
+<!-- <div class="item">
 
 <a href="https://sites.google.com/view/dablinmpuuga">
 
@@ -287,23 +275,9 @@ Ph.D. Student<br>
 
 Department of Economics, LSA
 
-</div>
+</div> -->
+
 <!-- /////////////////////////Item -->
-<!-- /////////////////////////Item -->
-<div class="item">
-
-<a href="#">
-
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2024/02/ZaraDevEcon-scaled-e1708381090386.jpg'></div>
-
-<strong> Zara Jacob</strong><br>
-</a>
-
-Undergraduate Student<br>
-
-Department of Economics, LSA
-
-</div>
 <!-- /////////////////////////Item -->
 <!-- /////////////////////////Item -->
 <div class="item">
@@ -336,7 +310,7 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
-<div class="item">
+<!-- <div class="item">
 
 <a href="#">
 
@@ -349,7 +323,7 @@ Ph.D. Student<br>
 
 Department of Economics, LSA
 
-</div>
+</div> -->
 <!-- /////////////////////////Item -->
 
 <div class="item">

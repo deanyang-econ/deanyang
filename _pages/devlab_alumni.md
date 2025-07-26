@@ -168,6 +168,26 @@ Bank of England<br>
 </div>
 
 <!-- /////////////////////////Item -->
+
+<div class="item">
+
+<a href="#">
+
+<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2024/02/ZaraDevEcon-scaled-e1708381090386.jpg'></div>
+
+<strong> Zara Jacob</strong><br>
+</a>
+
+Predoctoral Scholar<br>
+
+Federal Reserve Bank of New York<br>
+
+<strong>BA Graduation Year: </strong>2025
+
+</div>
+
+
+<!-- /////////////////////////Item -->
 <div class="item">
 
 <a href="#">
