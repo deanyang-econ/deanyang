@@ -104,9 +104,7 @@ International Food Policy Research Institute (IFPRI)<br>
 
 <strong> Robert Beckemeyer </strong><br>
 </a>
-
 Predoctoral Scholar <br>
-
 Federal Reserve Bank of Kansas City<br>
 <strong>BA Graduation Year: </strong>2024
 
@@ -121,9 +119,7 @@ Federal Reserve Bank of Kansas City<br>
 
 <strong> Rohan Bhargava</strong><br>
 </a>
-
 Predoctoral Scholar<br>
-
 Federal Reserve Bank of New York<br>
 <strong>BA Graduation Year: </strong>2024
 
@@ -138,10 +134,7 @@ Federal Reserve Bank of New York<br>
 
 <strong>Moustafa El-Kashlan</strong><br>
 </a>
-
 Ph.D. Student<br>
-
-
 Department of Economics,
 <br>University of Chicago<br>
 <strong>BA Graduation Year: </strong>2019
@@ -158,11 +151,8 @@ Department of Economics,
 
 <strong> Maximilian Huppertz</strong><br>
 </a>
-
 Research Economist<br>
-
 Bank of England<br>
-
 <strong>Ph.D. Graduation Year: </strong>2024
 
 </div>
@@ -177,11 +167,8 @@ Bank of England<br>
 
 <strong> Zara Jacob</strong><br>
 </a>
-
 Predoctoral Scholar<br>
-
 Federal Reserve Bank of New York<br>
-
 <strong>BA Graduation Year: </strong>2025
 
 </div>
@@ -196,11 +183,8 @@ Federal Reserve Bank of New York<br>
 
 <strong>Raelynn (Ruoran) Li</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Marketing, <br>Wharton School of Business, University of Pennsylvania<br>
-
 <strong>BS Graduation Year: </strong>2024
 
 </div>
@@ -214,11 +198,8 @@ Department of Marketing, <br>Wharton School of Business, University of Pennsylva
 
 <strong>Jinghao Liu</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, <br>Yale University<br>
-
 <strong>BA Graduation Year: </strong>2024
 
 </div>
@@ -232,11 +213,8 @@ Department of Economics, <br>Yale University<br>
 
 <strong>Nicholas Martens</strong><br>
 </a>
-
 Predoctoral Scholar<br>
-
 Booth School of Business, University of Chicago<br>
-
 <strong>BA Graduation Year: </strong>2024
 
 </div>
@@ -252,10 +230,7 @@ Booth School of Business, University of Chicago<br>
 
 <strong>Ryan McWay</strong><br>
 </a>
-
-
 Ph.D. Student<br>
-
 Department of Applied Economics,<br>
 University of Minnesota<br>
 <strong>Predoc Years: </strong>2020-2022
@@ -271,11 +246,8 @@ University of Minnesota<br>
 
 <strong>Russell Morton</strong><br>
 </a>
-
 Assistant Professor<br>
-
 Simon School of Business, University of Rochester<br>
-
 <strong>Ph.D. Graduation Year: </strong>2024
 
 </div>
@@ -289,11 +261,8 @@ Simon School of Business, University of Rochester<br>
 
 <strong>Emir Murathanoglu</strong><br>
 </a>
-
 Assistant Professor<br>
-
 Department of Economics, Oberlin College<br>
-
 <strong>Ph.D. Graduation Year: </strong>2024
 
 </div>
@@ -307,11 +276,8 @@ Department of Economics, Oberlin College<br>
 
 <strong>Rita Neves</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, <br>Nova University, Lisbon<br>
-
 <strong>Predoc Years: </strong>2022-24
 
 
@@ -327,11 +293,8 @@ Department of Economics, <br>Nova University, Lisbon<br>
 
 <strong>Nyah Phillips</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, <br>University of California, Berkeley<br>
-
 <strong>Predoc Years: </strong>2023-25
 
 </div>
@@ -348,11 +311,8 @@ Department of Economics, <br>University of California, Berkeley<br>
 
 <strong>Hadin Sayed</strong><br>
 </a>
-
 Predoctoral Scholar<br>
-
 University of Notre Dame<br>
-
 <strong>BA Graduation Year: </strong>2024
 
 </div>
@@ -367,11 +327,8 @@ University of Notre Dame<br>
 
 <strong>Yu Shi</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, <br>Yale University<br>
-
 <strong>BA Graduation Year: </strong>2024
 
 </div>
@@ -403,11 +360,9 @@ Department of Economics, <br>Yale University<br>
 
 <strong>Daniel Velásquez-Cabrera</strong><br>
 </a>
-
 Assistant Professor<br>
-
 Department of Economics, <br>Claremont-McKenna University<br>
-
+<strong>Ph.D. Graduation Year: </strong>2025
 </div>
 <!-- /////////////////////////Item -->
 
