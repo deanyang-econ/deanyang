@@ -83,9 +83,7 @@ title: "People"
 
 <strong> John Ahlin</strong><br>
 </a>
-
 Undergraduate Student<br>
-
 Department of Economics, LSA
 Department of Mathematics, LSA
 
@@ -100,9 +98,7 @@ Department of Mathematics, LSA
 
 <strong>Christabel Akhigbe</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, LSA
 
 </div> -->
@@ -119,9 +115,7 @@ Department of Economics, LSA
 
 <strong>Matthew Burger</strong><br>
 </a>
-
 Undergraduate Student <br>
-
 Department of Economics, LSA
 
 </div>
@@ -136,9 +130,7 @@ Department of Economics, LSA
 
 <strong>Saheel Chodavadia</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, LSA
 Ford School of Public Policy
 
@@ -171,9 +163,7 @@ Department of Economics, LSA
 
 <strong> Joaquin Endara</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, LSA
 
 </div>
@@ -187,9 +177,7 @@ Department of Economics, LSA
 
 <strong> Alexander Fertig</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, LSA
 Ford School of Public Policy
 
@@ -205,9 +193,7 @@ Ford School of Public Policy
 
 <strong>Yara Gomes </strong><br>
 </a>
-
 Predoctoral Scholar
-
 Population Studies Center, Institute for Social Research
 
 </div>
@@ -222,9 +208,7 @@ Population Studies Center, Institute for Social Research
 
 <strong>Ariza Gusti </strong><br>
 </a>
-
 PhD Student
-
 Department of Economics, LSA
 
 </div> -->
@@ -237,9 +221,7 @@ Department of Economics, LSA
 
 <strong>Jiaxin Guo</strong><br>
 </a>
-
 Undergraduate Student<br>
-
 Department of Economics, LSA
 
 </div> -->
@@ -254,9 +236,7 @@ Department of Economics, LSA
 
 <strong>Sophia Guo</strong><br>
 </a>
-
 Undergraduate Student<br>
-
 Department of Economics, LSA
 
 </div>
@@ -270,9 +250,7 @@ Department of Economics, LSA
 
 <strong>Mika Inoue</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, LSA
 
 </div>
@@ -287,9 +265,7 @@ Department of Economics, LSA
 
 <strong> Dablin Mpuuga</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, LSA
 
 </div> -->
@@ -305,9 +281,7 @@ Department of Economics, LSA
 
 <strong> Anna Jerolimov</strong><br>
 </a>
-
 Undergraduate Student<br>
-
 Department of Economics, LSA
 
 </div>
@@ -320,9 +294,7 @@ Department of Economics, LSA
 
 <strong>Heesung Kim</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, LSA
 
 </div>
@@ -336,9 +308,7 @@ Department of Economics, LSA
 
 <strong> Seongyoon Kim</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, LSA
 
 </div> -->
@@ -352,9 +322,7 @@ Department of Economics, LSA
 
 <strong>Aladdin Ko</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, LSA
 
 </div>
@@ -367,9 +335,7 @@ Department of Economics, LSA
 
 <strong>Wanxiangyi Liu</strong><br>
 </a>
-
 Undergraduate Student<br>
-
 Ross School of Business
 
 </div>
@@ -383,9 +349,7 @@ Ross School of Business
 
 <strong>Thomas Lloyd</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, LSA
 
 </div>
@@ -399,9 +363,7 @@ Department of Economics, LSA
 
 <strong>Laston Manja </strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, LSA
 
 </div> -->
@@ -415,10 +377,7 @@ Department of Economics, LSA
 
 <strong>Brady Nichols </strong><br>
 </a>
-
-Undergraduate Student
-<br>
-
+Undergraduate Student<br>
 Department of Economics<br>
 Department of Romance Languages and Literatures, LSA
 
@@ -434,9 +393,7 @@ Department of Romance Languages and Literatures, LSA
 
 <strong>Nirina Randrianarisoa </strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, LSA
 
 </div> -->
@@ -451,9 +408,7 @@ Department of Economics, LSA
 
 <strong>Magdalena Martin Kommer</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, LSA
 
 </div> -->
@@ -469,9 +424,7 @@ Department of Economics, LSA
 <strong>
 Aneesha Parvathaneni</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, LSA
 
 </div>
@@ -486,7 +439,6 @@ Department of Economics, LSA
 
 <strong>Arushi Sharma,</strong><br>
 </a>
-
 MAE Student,<br>
 Department of Economics, LSA
 
@@ -501,9 +453,7 @@ Department of Economics, LSA
 
 <strong>Nathan Sunday</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
@@ -516,9 +466,7 @@ Department of Economics, LSA
 
 <strong>Yuqing Wang</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, LSA
 
 </div>
@@ -534,9 +482,7 @@ Department of Economics, LSA
 
 <strong>Triana Yentzen</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, LSA
 
 </div>
