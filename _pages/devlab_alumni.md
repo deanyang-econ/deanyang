@@ -215,9 +215,9 @@ Department of Marketing, <br>Wharton School of Business, University of Pennsylva
 <strong>Jinghao Liu</strong><br>
 </a>
 
-Masters Student<br>
+Ph.D. Student<br>
 
-Department of Economics, <br>University of Toronto<br>
+Department of Economics, <br>Yale University<br>
 
 <strong>BA Graduation Year: </strong>2024
 
