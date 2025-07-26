@@ -422,6 +422,7 @@ Laura Wang</strong><br>
 </a>
 Ph.D. Student<br>
 Kellogg School of Business, <br>Northwestern University<br>
+<strong>BA Graduation Year: </strong>2025
 </div>
 
 <!-- /////////////////////////Item -->
@@ -443,18 +444,13 @@ Federal Reserve Bank of Chicago<br>
 <a href="#">
 
 <div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/YvetteZDevLab-e1683171618872.jpg'></div>
-
 <strong>Yvette Zhang</strong><br>
 </a>
-
 Ph.D. Student<br>
-
 Department of Economics, <br>Yale University<br>
-
 <strong>BA Graduation Year: </strong>2024
 </div>
 <!-- /////////////////////////Item end -->
-
 
 
 
@@ -465,7 +461,6 @@ Department of Economics, <br>Yale University<br>
 
 <!-- /////////////////////////container End-->
 <!-- /////////////////////////container End-->
-</div>
 <!-- /////////////////////////container End-->
 <!-- /////////////////////////container End-->
 
