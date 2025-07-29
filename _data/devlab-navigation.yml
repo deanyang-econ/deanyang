@@ -1,17 +1,17 @@
 # main links links
 devlab-nav:
   - title: "Home"
-    url: /deanyang/devlab/
+    url: /devlab/
 
   - title: "Research Projects"
-    url: /deanyang/devlab_research_projects/
+    url: /devlab_research_projects/
 
   - title: "People"
-    url: /deanyang/devlab_people/    
+    url: /devlab_people/    
     
   - title: "Alumni"
-    url: /deanyang/devlab_alumni/
+    url: /devlab_alumni/
 
   - title: "Schedule"
-    url: /deanyang/devlab_schedule/    
+    url: /devlab_schedule/    
     
