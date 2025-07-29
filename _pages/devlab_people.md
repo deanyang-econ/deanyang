@@ -55,7 +55,7 @@ Department of Economics, LSA
 
 <a href="#">
 
-<div class="devlab-image-container"><img src='/deanyang/files/profiles/mathews_b.png' ></div>
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/mathews_b.png' style="object-position: center 30%;"></div>
 
 <strong>Matthew Burger</strong><br>
 </a>
@@ -317,7 +317,7 @@ Department of Economics, LSA
 
 <a  target="_blank" href="#">
 
-<div class="devlab-image-container"><img src='/deanyang/files/profiles/Brady Nichols.jpg' ></div>
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/Brady Nichols.jpg' style="object-position: center 30%;"></div>
 
 <strong>Brady Nichols </strong><br>
 </a>
@@ -452,47 +452,4 @@ Department of Economics, LSA
 
 </div>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    // Search functionality
-    const searchInput = document.getElementById('devlabSearchInput');
-    const peopleContainer = document.getElementById('devlabPeopleContainer');
-    
-    if (searchInput && peopleContainer) {
-        const items = peopleContainer.querySelectorAll('.devlab-item');
-        const noResults = document.getElementById('devlabNoResults');
-
-        searchInput.addEventListener('input', function() {
-            const searchTerm = this.value.toLowerCase().trim();
-            let visibleCount = 0;
-
-            items.forEach(item => {
-                const searchData = item.getAttribute('data-search').toLowerCase();
-                if (searchTerm === '' || searchData.includes(searchTerm)) {
-                    item.style.display = 'block';
-                    visibleCount++;
-                } else {
-                    item.style.display = 'none';
-                }
-            });
-
-            // Show/hide no results message
-            if (visibleCount === 0 && searchTerm !== '') {
-                noResults.style.display = 'block';
-            } else {
-                noResults.style.display = 'none';
-            }
-        });
-
-        // Clear search when input is cleared
-        searchInput.addEventListener('change', function() {
-            if (this.value === '') {
-                items.forEach(item => {
-                    item.style.display = 'block';
-                });
-                noResults.style.display = 'none';
-            }
-        });
-    }
-});
-</script> 
+{% include devlab-scripts.html %}

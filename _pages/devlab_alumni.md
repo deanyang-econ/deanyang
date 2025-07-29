@@ -3,165 +3,14 @@ permalink: /devlab_alumni/
 title: "Alumni"
 ---
 
-<style>
-  /* DevLab Navigation Styles */
-  .devlab-nav {
-    position: relative;
-    background: #f8f9fa;
-    border-bottom: 1px solid #e9ecef;
-  }
-
-  .devlab-links {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    align-items: center;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    gap: 0;
-  }
-
-  .devlab-menu-item {
-    margin: 0;
-    padding: 0;
-  }
-
-  .devlab-menu-item a {
-    display: block;
-    padding: 1rem 1.5rem;
-    color: #333;
-    text-decoration: none;
-    font-weight: 500;
-    transition: all 0.2s ease;
-    border-bottom: 3px solid transparent;
-  }
-
-  .devlab-menu-item a:hover {
-    color: #383838;
-    background-color: #e9ecef;
-    border-bottom-color: #383838;
-  }
-
-  .devlab-menu-item a:active {
-    background-color: #dee2e6;
-  }
-
-  /* Responsive navigation design */
-  @media (max-width: 768px) {
-    .devlab-links {
-      flex-direction: column;
-      align-items: stretch;
-    }
-
-    .devlab-menu-item {
-      border-bottom: 1px solid #e9ecef;
-    }
-
-    .devlab-menu-item:last-child {
-      border-bottom: none;
-    }
-
-    .devlab-menu-item a {
-      padding: 0.75rem 1rem;
-      text-align: left;
-    }
-
-    .devlab-menu-item a:hover {
-      background-color: #f8f9fa;
-      border-bottom-color: transparent;
-    }
-  }
-
-  @media (max-width: 480px) {
-    .devlab-menu-item a {
-      padding: 0.5rem 0.75rem;
-      font-size: 0.9rem;
-    }
-  }
-
-  /* DevLab Grid Layout Styles */
-  .devlab-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-  
-  .devlab-item {
-    width: calc(33.33% - 10px);
-    margin: 5px;
-    padding: 5px;
-    box-sizing: border-box;
-  }
-
-  .devlab-image-container {
-    height: 300px;
-    overflow: hidden;
-  }
-
-  .devlab-image-container img {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-    display: block;
-  }
-
-  /* Media queries for responsive layout */
-  @media (max-width: 992px) {
-    .devlab-item {
-      width: calc(50% - 10px);
-    }
-  }
-
-  @media (max-width: 768px) {
-    .devlab-item {
-      width: calc(100% - 10px);
-    }
-  }
-
-  /* DevLab Search Functionality Styles */
-  .devlab-search-container {
-    margin: 20px 0;
-    text-align: left;
-  }
-
-  .devlab-search-input {
-    width: 300px;
-    padding: 10px;
-    border: 2px solid #ddd;
-    border-radius: 5px;
-    font-size: 16px;
-    margin-bottom: 10px;
-  }
-
-  .devlab-search-input:focus {
-    outline: none;
-    border-color: #007bff;
-  }
-
-  .devlab-no-results {
-    text-align: center;
-    padding: 20px;
-    font-style: italic;
-    color: #666;
-    display: none;
-  }
-
-  .devlab-hidden {
-    display: none !important;
-  }
-</style> 
+{% include devlab-styles.html %}
 
 <!-- =============================Dev Lab header Below========================== -->
 
 {% include devlab-masthead.html %}
 
 <!-- Search functionality -->
-<!-- DevLab Search functionality -->
-<div class="devlab-search-container">
-  <input type="text" id="devlabSearchInput" class="devlab-search-input" placeholder="Search by name, institution, or role...">
-  <div id="devlabNoResults" class="devlab-no-results">No results found. Try a different search term.</div>
-</div>
+{% include devlab-search.html %} 
 
 <!-- =============================Dev Lab Content Below========================== -->
 <!-- /////////////////////////container start-->
@@ -169,6 +18,7 @@ title: "Alumni"
 <div class="devlab-container" id="devlabPeopleContainer">
 <!-- /////////////////////////container start-->
 <!-- /////////////////////////container start-->
+
 
 <!-- /////////////////////////Item start -->
 <div class="devlab-item" data-search="james allen associate research fellow international food policy research institute ifpri phd graduation year 2023">
@@ -182,10 +32,10 @@ title: "Alumni"
 
 Associate Research Fellow<br>
 
+
 International Food Policy Research Institute (IFPRI)<br>
 
 <strong>Ph.D. Graduation Year: </strong>2023
-
 </div>
 <!-- /////////////////////////Item end -->
 
@@ -268,6 +118,7 @@ Federal Reserve Bank of New York<br>
 
 </div>
 
+
 <!-- /////////////////////////Item -->
 <div class="devlab-item" data-search="raelynn ruoran li phd student department of marketing wharton school of business university of pennsylvania bs graduation year 2024">
 
@@ -312,6 +163,7 @@ Booth School of Business, University of Chicago<br>
 <strong>BA Graduation Year: </strong>2024
 
 </div>
+
 
 <!-- /////////////////////////Item start -->
 <div class="devlab-item" data-search="ryan mcway phd student department of applied economics university of minnesota predoc years 2020-2022">
@@ -373,6 +225,7 @@ Ph.D. Student<br>
 Department of Economics, <br>Nova University, Lisbon<br>
 <strong>Predoc Years: </strong>2022-24
 
+
 </div>
 
 <!-- /////////////////////////Item -->
@@ -390,6 +243,8 @@ Department of Economics, <br>University of California, Berkeley<br>
 <strong>Predoc Years: </strong>2023-25
 
 </div>
+
+
 
 <!-- /////////////////////////Item -->
 
@@ -452,7 +307,6 @@ Department of Economics, <br>Yale University<br>
 Assistant Professor<br>
 Department of Economics, <br>Claremont-McKenna University<br>
 <strong>Ph.D. Graduation Year: </strong>2025
-
 </div>
 <!-- /////////////////////////Item -->
 
@@ -497,6 +351,8 @@ Department of Economics, <br>Yale University<br>
 </div>
 <!-- /////////////////////////Item end -->
 
+
+
 <!-- ///////////////////////// leave  this Item-->
 <div class="devlab-item">
 </div>
@@ -507,38 +363,6 @@ Department of Economics, <br>Yale University<br>
 <!-- /////////////////////////container End-->
 <!-- /////////////////////////container End-->
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const searchInput = document.getElementById('devlabSearchInput');
-    const peopleContainer = document.getElementById('devlabPeopleContainer');
-    
-    if (searchInput && peopleContainer) {
-        const items = peopleContainer.querySelectorAll('.devlab-item');
-        const noResults = document.getElementById('devlabNoResults');
+{% include devlab-scripts.html %}
 
-        searchInput.addEventListener('input', function() {
-            const searchTerm = this.value.toLowerCase().trim();
-            let visibleCount = 0;
 
-            items.forEach(item => {
-                const searchData = (item.getAttribute('data-search') || '').toLowerCase();
-                if (searchTerm === '' || searchData.includes(searchTerm)) {
-                    item.style.display = 'block';
-                    visibleCount++;
-                } else {
-                    item.style.display = 'none';
-                }
-            });
-
-            noResults.style.display = (visibleCount === 0 && searchTerm !== '') ? 'block' : 'none';
-        });
-
-        searchInput.addEventListener('change', function() {
-            if (this.value === '') {
-                items.forEach(item => item.style.display = 'block');
-                noResults.style.display = 'none';
-            }
-        });
-    }
-});
-</script>
