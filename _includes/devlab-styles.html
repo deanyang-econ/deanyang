@@ -33,9 +33,9 @@
   }
 
   .devlab-menu-item a:hover {
-    color: #383838;
+    color: #007bff;
     background-color: #e9ecef;
-    border-bottom-color: #383838;
+    border-bottom-color: #007bff;
   }
 
   .devlab-menu-item a:active {
@@ -118,6 +118,8 @@
   .devlab-search-container {
     margin: 20px 0;
     text-align: left;
+    display: block !important;
+    visibility: visible !important;
   }
 
   .devlab-search-input {
@@ -127,6 +129,9 @@
     border-radius: 5px;
     font-size: 16px;
     margin-bottom: 10px;
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
   }
 
   .devlab-search-input:focus {
@@ -144,5 +149,21 @@
 
   .devlab-hidden {
     display: none !important;
+  }
+
+  /* Ensure search elements are always visible */
+  #devlabSearchInput {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+
+  #devlabNoResults {
+    display: none;
+  }
+
+  /* Force display for debugging */
+  .devlab-item {
+    display: block !important;
   }
 </style> 

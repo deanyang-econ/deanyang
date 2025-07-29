@@ -1,44 +1,141 @@
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-    // Search functionality
-    const searchInput = document.getElementById('devlabSearchInput');
-    const peopleContainer = document.getElementById('devlabPeopleContainer');
+(function() {
+    'use strict';
     
-    if (searchInput && peopleContainer) {
-        const items = peopleContainer.querySelectorAll('.devlab-item');
-        const noResults = document.getElementById('devlabNoResults');
+    // Function to initialize search functionality
+    function initializeDevLabSearch() {
+        try {
+            console.log('Initializing DevLab search...');
+            
+            // Search functionality
+            const searchInput = document.getElementById('devlabSearchInput');
+            const peopleContainer = document.getElementById('devlabPeopleContainer');
+            
+            console.log('Search input found:', searchInput);
+            console.log('People container found:', peopleContainer);
+            
+            if (searchInput && peopleContainer) {
+                const items = peopleContainer.querySelectorAll('.devlab-item');
+                const noResults = document.getElementById('devlabNoResults');
+                
+                console.log('Number of items found:', items.length);
+                console.log('No results element found:', noResults);
 
-        searchInput.addEventListener('input', function() {
-            const searchTerm = this.value.toLowerCase().trim();
-            let visibleCount = 0;
+                // Remove any existing event listeners by cloning the input
+                const newSearchInput = searchInput.cloneNode(true);
+                searchInput.parentNode.replaceChild(newSearchInput, searchInput);
+                
+                // Add input event listener
+                newSearchInput.addEventListener('input', function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    const searchTerm = this.value.toLowerCase().trim();
+                    let visibleCount = 0;
+                    
+                    console.log('Searching for:', searchTerm);
 
-            items.forEach(item => {
-                const searchData = item.getAttribute('data-search').toLowerCase();
-                if (searchTerm === '' || searchData.includes(searchTerm)) {
-                    item.style.display = 'block';
-                    visibleCount++;
-                } else {
-                    item.style.display = 'none';
-                }
-            });
+                    items.forEach(function(item) {
+                        const searchData = item.getAttribute('data-search');
+                        if (searchData) {
+                            const searchDataLower = searchData.toLowerCase();
+                            if (searchTerm === '' || searchDataLower.includes(searchTerm)) {
+                                item.style.display = 'block';
+                                visibleCount++;
+                            } else {
+                                item.style.display = 'none';
+                            }
+                        }
+                    });
 
-            // Show/hide no results message
-            if (visibleCount === 0 && searchTerm !== '') {
-                noResults.style.display = 'block';
-            } else {
-                noResults.style.display = 'none';
-            }
-        });
+                    console.log('Visible items:', visibleCount);
 
-        // Clear search when input is cleared
-        searchInput.addEventListener('change', function() {
-            if (this.value === '') {
-                items.forEach(item => {
-                    item.style.display = 'block';
+                    // Show/hide no results message
+                    if (visibleCount === 0 && searchTerm !== '') {
+                        if (noResults) noResults.style.display = 'block';
+                    } else {
+                        if (noResults) noResults.style.display = 'none';
+                    }
                 });
-                noResults.style.display = 'none';
+
+                // Add keyup event listener as backup
+                newSearchInput.addEventListener('keyup', function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    const searchTerm = this.value.toLowerCase().trim();
+                    let visibleCount = 0;
+                    
+                    console.log('Keyup search for:', searchTerm);
+
+                    items.forEach(function(item) {
+                        const searchData = item.getAttribute('data-search');
+                        if (searchData) {
+                            const searchDataLower = searchData.toLowerCase();
+                            if (searchTerm === '' || searchDataLower.includes(searchTerm)) {
+                                item.style.display = 'block';
+                                visibleCount++;
+                            } else {
+                                item.style.display = 'none';
+                            }
+                        }
+                    });
+
+                    console.log('Visible items:', visibleCount);
+
+                    // Show/hide no results message
+                    if (visibleCount === 0 && searchTerm !== '') {
+                        if (noResults) noResults.style.display = 'block';
+                    } else {
+                        if (noResults) noResults.style.display = 'none';
+                    }
+                });
+
+                // Clear search when input is cleared
+                newSearchInput.addEventListener('change', function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    if (this.value === '') {
+                        items.forEach(function(item) {
+                            item.style.display = 'block';
+                        });
+                        if (noResults) noResults.style.display = 'none';
+                    }
+                });
+                
+                console.log('Search event listeners attached successfully');
+                
+                // Test the search functionality
+                setTimeout(function() {
+                    console.log('Testing search functionality...');
+                    newSearchInput.value = 'test';
+                    newSearchInput.dispatchEvent(new Event('input'));
+                    newSearchInput.value = '';
+                    newSearchInput.dispatchEvent(new Event('input'));
+                    console.log('Search test completed');
+                }, 1000);
+                
+            } else {
+                console.error('Search elements not found:', {
+                    searchInput: !!searchInput,
+                    peopleContainer: !!peopleContainer
+                });
             }
-        });
+        } catch (error) {
+            console.error('Error initializing DevLab search:', error);
+        }
     }
-});
+
+    // Try to initialize immediately if DOM is ready
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initializeDevLabSearch);
+    } else {
+        // DOM is already ready
+        initializeDevLabSearch();
+    }
+
+    // Also try after delays to ensure all elements are loaded
+    setTimeout(initializeDevLabSearch, 100);
+    setTimeout(initializeDevLabSearch, 500);
+    setTimeout(initializeDevLabSearch, 1000);
+    setTimeout(initializeDevLabSearch, 2000);
+})();
 </script> 
