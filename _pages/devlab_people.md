@@ -3,83 +3,27 @@ permalink: /devlab_people/
 title: "People"
 ---
 
-<style>
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-  
-  .item {
-    width: calc(33.33% - 10px); /* Adjust width for 3 items per row with margin */
-    margin: 5px;
-    padding: 5px;
-    box-sizing: border-box;
-  }
+{% include devlab-styles.html %}
 
-  .image-container {
-    height: 300px; /* Maintain the same height for all screen sizes */
-    overflow: hidden;
-  }
-
-  .image-container img {
-    height: 100%;
-    width: 100%; /* Ensure image fills its container */
-    object-fit: cover; /* Maintain aspect ratio and fill container */
-    display: block;
-  }
-
-  /* Media queries for responsive layout */
-  @media (max-width: 992px) {
-    .item {
-      width: calc(50% - 10px); /* Adjust width for 2 items per row with margin */
-    }
-  }
-
-  @media (max-width: 768px) {
-    .item {
-      width: calc(100% - 10px); /* Full width for single item per row */
-    }
-  }
-</style>
 <!-- =============================Dev Lab header Below========================== -->
 
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="" class="greedy-nav">
-        <!-- <button><div class="navicon"></div></button> -->
-        <ul class="visible-links">
-                
-{% for link in site.data.devlab-navigation.devlab-nav %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-              {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
-  </div>
-</div>
+{% include devlab-masthead.html %}
 
 <!-- =============================Dev Lab Content Below========================== -->
 <!-- /////////////////////////row 1 -->
 <!-- /////////////////////////Item -->
 
-<div class="container">
+{% include devlab-search.html %}
+
+<div class="devlab-container" id="devlabPeopleContainer">
 
 <!-- /////////////////////////Item -->
 
-<!-- <div class="item">
+<!-- <div class="devlab-item">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2024/03/JohnAhlinDevEcon-e1710788431686.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2024/03/JohnAhlinDevEcon-e1710788431686.jpg'></div>
 
 <strong> John Ahlin</strong><br>
 </a>
@@ -90,11 +34,11 @@ Department of Mathematics, LSA
 </div> -->
 <!-- /////////////////////////Item -->
 
-<!-- <div class="item">
+<!-- <div class="devlab-item">
 
 <a   target="_blank" >
 
-<div class="image-container"><img src='/deanyang/files/profiles/Christabel Akhigbe.jpeg'></div>
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/Christabel Akhigbe.jpeg'></div>
 
 <strong>Christabel Akhigbe</strong><br>
 </a>
@@ -107,11 +51,11 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="matthew burger undergraduate student department of economics lsa">
 
 <a href="#">
 
-<div class="image-container"><img src='/deanyang/files/profiles/mathews_b.png'></div>
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/mathews_b.png' ></div>
 
 <strong>Matthew Burger</strong><br>
 </a>
@@ -122,11 +66,11 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="saheel chodavadia phd student department of economics lsa ford school of public policy">
 
 <a  target="_blank" href="https://saheelchodavadia.com/">
 
-<div class="image-container"><img src='https://prod.lsa.umich.edu/content/michigan-lsa/econ/en/people/phd-students/saheel/jcr:content/profileImage.transform/profile_portrait/image.jpg'></div>
+<div class="devlab-image-container"><img src='https://prod.lsa.umich.edu/content/michigan-lsa/econ/en/people/phd-students/saheel/jcr:content/profileImage.transform/profile_portrait/image.jpg'></div>
 
 <strong>Saheel Chodavadia</strong><br>
 </a>
@@ -138,11 +82,11 @@ Ford School of Public Policy
 <!-- /////////////////////////Item -->
 <!-- /////////////////////////Item -->
 
-<!-- <div class="item">
+<!-- <div class="devlab-item">
 
 <a   target="_blank" href="https://briandaza.github.io/">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/02/briandaza-scaled-e1677185278604.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/02/briandaza-scaled-e1677185278604.jpg'></div>
 
 <strong> Brian Daza</strong><br>
 </a>
@@ -155,11 +99,11 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="joaquin endara phd student department of economics lsa">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/JoaquinEndara-2-scaled-e1674531855820.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/JoaquinEndara-2-scaled-e1674531855820.jpg'></div>
 
 <strong> Joaquin Endara</strong><br>
 </a>
@@ -169,11 +113,11 @@ Department of Economics, LSA
 </div>
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="alexander fertig phd student department of economics lsa ford school of public policy">
 
 <a  target="_blank" href="https://alexanderfertig.com/">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Alexander-Fertig_Headshot_old-e1631110128981.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Alexander-Fertig_Headshot_old-e1631110128981.jpg'></div>
 
 <strong> Alexander Fertig</strong><br>
 </a>
@@ -185,11 +129,11 @@ Ford School of Public Policy
 <!-- /////////////////////////Item -->
 
 <!-- /////////////////////////Item -->
-<div class="item">
+<div class="devlab-item" data-search="yara gomes predoctoral scholar population studies center institute for social research">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/11/YaraGomesDevEcon-e1700210110130.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/11/YaraGomesDevEcon-e1700210110130.jpg'></div>
 
 <strong>Yara Gomes </strong><br>
 </a>
@@ -200,11 +144,11 @@ Population Studies Center, Institute for Social Research
 <!-- /////////////////////////Item -->
 
 <!-- /////////////////////////Item -->
-<!-- <div class="item">
+<!-- <div class="devlab-item">
 
 <a href="https://arizagusti.github.io/">
 
-<div class="image-container"><img src='https://arizagusti.github.io/images/pp_crop.png'></div>
+<div class="devlab-image-container"><img src='https://arizagusti.github.io/images/pp_crop.png'></div>
 
 <strong>Ariza Gusti </strong><br>
 </a>
@@ -213,11 +157,11 @@ Department of Economics, LSA
 
 </div> -->
 <!-- /////////////////////////Item -->
-<!-- <div class="item">
+<!-- <div class="devlab-item">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/11/Jiaxin-GuoDevEcon-e1700208477572.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/11/Jiaxin-GuoDevEcon-e1700208477572.jpg'></div>
 
 <strong>Jiaxin Guo</strong><br>
 </a>
@@ -228,11 +172,11 @@ Department of Economics, LSA
 <!-- /////////////////////////Item -->
 
 <!-- /////////////////////////Item -->
-<div class="item">
+<div class="devlab-item" data-search="sophia guo undergraduate student department of economics lsa">
 
 <a href="#">
 
-<div class="image-container"><img src='/deanyang/files/profiles/SophiaGuo_headshot.png'></div>
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/SophiaGuo_headshot.png'></div>
 
 <strong>Sophia Guo</strong><br>
 </a>
@@ -242,11 +186,11 @@ Department of Economics, LSA
 </div>
 
 <!-- /////////////////////////Item -->
-<div class="item">
+<div class="devlab-item" data-search="mika inoue phd student department of economics lsa">
 
 <a href="#">
 
-<div class="image-container"><img src='/deanyang/files/profiles/inoue.jpg'></div>
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/inoue.jpg'></div>
 
 <strong>Mika Inoue</strong><br>
 </a>
@@ -257,11 +201,11 @@ Department of Economics, LSA
 <!-- /////////////////////////Item -->
 <!-- /////////////////////////Item -->
 
-<!-- <div class="item">
+<!-- <div class="devlab-item">
 
 <a href="https://sites.google.com/view/dablinmpuuga">
 
-<div class="image-container"><img src='/deanyang/files/profiles/Dablin_headshot.png'></div>
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/Dablin_headshot.png'></div>
 
 <strong> Dablin Mpuuga</strong><br>
 </a>
@@ -273,11 +217,11 @@ Department of Economics, LSA
 <!-- /////////////////////////Item -->
 <!-- /////////////////////////Item -->
 <!-- /////////////////////////Item -->
-<div class="item">
+<div class="devlab-item" data-search="anna jerolimov undergraduate student department of economics lsa">
 
 <a href="#">
 
-<div class="image-container"><img src='/deanyang/files/profiles/Anna_Jerolimov.png'></div>
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/Anna_Jerolimov.png'></div>
 
 <strong> Anna Jerolimov</strong><br>
 </a>
@@ -286,11 +230,11 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
-<div class="item">
+<div class="devlab-item" data-search="heesung kim phd student department of economics lsa">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/07/HeesungKim-e1658124620972.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/07/HeesungKim-e1658124620972.jpg'></div>
 
 <strong>Heesung Kim</strong><br>
 </a>
@@ -300,11 +244,11 @@ Department of Economics, LSA
 </div>
 <!-- /////////////////////////Item -->
 
-<!-- <div class="item">
+<!-- <div class="devlab-item">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/02/SeongyoonKimDevEcon-e1677184852160.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/02/SeongyoonKimDevEcon-e1677184852160.jpg'></div>
 
 <strong> Seongyoon Kim</strong><br>
 </a>
@@ -314,11 +258,11 @@ Department of Economics, LSA
 </div> -->
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="aladdin ko phd student department of economics lsa">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/Screen-Shot-2023-05-12-at-7.03.45-PM-e1683936698830.png'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/Screen-Shot-2023-05-12-at-7.03.45-PM-e1683936698830.png'></div>
 
 <strong>Aladdin Ko</strong><br>
 </a>
@@ -327,11 +271,11 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
-<div class="item">
+<div class="devlab-item" data-search="wanxiangyi liu undergraduate student ross school of business">
 
 <a href="#">
 
-<div class="image-container"><img src='/deanyang/files/profiles/Liu, Wanxiangyi.jpg'></div>
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/Liu, Wanxiangyi.jpg'></div>
 
 <strong>Wanxiangyi Liu</strong><br>
 </a>
@@ -341,11 +285,11 @@ Ross School of Business
 </div>
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="thomas lloyd phd student department of economics lsa">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/ThomasLloydDevEcon-scaled-e1674835787136.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/ThomasLloydDevEcon-scaled-e1674835787136.jpg'></div>
 
 <strong>Thomas Lloyd</strong><br>
 </a>
@@ -355,11 +299,11 @@ Department of Economics, LSA
 </div>
 <!-- /////////////////////////Item -->
 
-<!-- <div class="item">
+<!-- <div class="devlab-item">
 
 <a  target="_blank" href="https://laston-manja.github.io/">
 
-<div class="image-container"><img src='/deanyang/files/profiles/lestonmanja.JPG'></div>
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/lestonmanja.JPG'></div>
 
 <strong>Laston Manja </strong><br>
 </a>
@@ -369,11 +313,11 @@ Department of Economics, LSA
 </div> -->
 
 <!-- /////////////////////////Item -->
-<div class="item">
+<div class="devlab-item" data-search="brady nichols undergraduate student department of economics department of romance languages and literatures lsa">
 
 <a  target="_blank" href="#">
 
-<div class="image-container"><img src='/deanyang/files/profiles/Brady Nichols.jpg'></div>
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/Brady Nichols.jpg' ></div>
 
 <strong>Brady Nichols </strong><br>
 </a>
@@ -385,11 +329,11 @@ Department of Romance Languages and Literatures, LSA
 <!-- /////////////////////////Item -->
 
 
-<!-- <div class="item">
+<!-- <div class="devlab-item">
 
 <a  target="_blank" href="https://hanjanirina.github.io/">
 
-<div class="image-container"><img src='/deanyang/files/profiles/hanjanirina.jpg'></div>
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/hanjanirina.jpg'></div>
 
 <strong>Nirina Randrianarisoa </strong><br>
 </a>
@@ -400,11 +344,11 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-<!-- <div class="item">
+<!-- <div class="devlab-item">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/MARTIN.Magdalena_2022-headshot-2-e1675062347957.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/MARTIN.Magdalena_2022-headshot-2-e1675062347957.jpg'></div>
 
 <strong>Magdalena Martin Kommer</strong><br>
 </a>
@@ -415,11 +359,11 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="aneesha parvathaneni phd student department of economics lsa">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/02/AneeshaDevEcon-e1677182168478.jpeg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/02/AneeshaDevEcon-e1677182168478.jpeg'></div>
 
 <strong>
 Aneesha Parvathaneni</strong><br>
@@ -431,11 +375,11 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="arushi sharma mae student department of economics lsa">
 
 <a href="#">
 
-<div class="image-container"><img  src='/deanyang/files/profiles/Arushi Sharma_photo.JPG'></div>
+<div class="devlab-image-container"><img  src='/deanyang/files/profiles/Arushi Sharma_photo.JPG'></div>
 
 <strong>Arushi Sharma,</strong><br>
 </a>
@@ -445,24 +389,26 @@ Department of Economics, LSA
 </div>
 
 <!-- /////////////////////////Item -->
-<div class="item">
+<div class="devlab-item" data-search="nathan sunday phd student department of economics lsa">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/NathanSundayDevLabPic2-scaled-e1683172498191.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/NathanSundayDevLabPic2-scaled-e1683172498191.jpg'></div>
 
 <strong>Nathan Sunday</strong><br>
 </a>
 Ph.D. Student<br>
 Department of Economics, LSA
 
+</div>
+
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="yuqing wang phd student department of economics lsa">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/07/YuqingWang-e1658113812764.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/07/YuqingWang-e1658113812764.jpg'></div>
 
 <strong>Yuqing Wang</strong><br>
 </a>
@@ -474,11 +420,11 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="triana yentzen phd student department of economics lsa">
 
 <a href="http://tyentzen.com/">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/09/TrianaYentzen-scaled-e1663537416574.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/09/TrianaYentzen-scaled-e1663537416574.jpg'></div>
 
 <strong>Triana Yentzen</strong><br>
 </a>
@@ -488,11 +434,11 @@ Department of Economics, LSA
 </div>
 <!-- /////////////////////////Item -->
 
-<!-- <div class="item">
+<!-- <div class="devlab-item">
 
 <a href="#">
 
-<div class="image-container"><img  src='/deanyang/files/profiles/Edgar Zhu.JPG'></div>
+<div class="devlab-image-container"><img  src='/deanyang/files/profiles/Edgar Zhu.JPG'></div>
 
 <strong>Edgar Zhu,</strong><br>
 </a>
@@ -503,6 +449,7 @@ Department of Economics, LSA
 </div> -->
 
 <!-- /////////container Div end///////// -->
-<div class="item">
-<div>
+
 </div>
+
+{% include devlab-scripts.html %}

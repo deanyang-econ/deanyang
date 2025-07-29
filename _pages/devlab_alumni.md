@@ -3,84 +3,29 @@ permalink: /devlab_alumni/
 title: "Alumni"
 ---
 
-<style>
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-  
-  .item {
-    width: calc(33.33% - 10px); /* Adjust width for 3 items per row with margin */
-    margin: 5px;
-    padding: 5px;
-    box-sizing: border-box;
-  }
+{% include devlab-styles.html %}
 
-  .image-container {
-    height: 300px; /* Maintain the same height for all screen sizes */
-    overflow: hidden;
-  }
-
-  .image-container img {
-    height: 100%;
-    width: 100%; /* Ensure image fills its container */
-    object-fit: cover; /* Maintain aspect ratio and fill container */
-    display: block;
-  }
-
-  /* Media queries for responsive layout */
-  @media (max-width: 992px) {
-    .item {
-      width: calc(50% - 10px); /* Adjust width for 2 items per row with margin */
-    }
-  }
-
-  @media (max-width: 768px) {
-    .item {
-      width: calc(100% - 10px); /* Full width for single item per row */
-    }
-  }
-</style>
 <!-- =============================Dev Lab header Below========================== -->
 
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="" class="greedy-nav">
-        <!-- <button><div class="navicon"></div></button> -->
-        <ul class="visible-links">
-                
-{% for link in site.data.devlab-navigation.devlab-nav %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-              {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
-  </div>
-</div>
+{% include devlab-masthead.html %}
 
+<!-- Search functionality -->
+{% include devlab-search.html %}
 
 <!-- =============================Dev Lab Content Below========================== -->
 <!-- /////////////////////////container start-->
 <!-- /////////////////////////container start-->
-<div class="container">
+<div class="devlab-container" id="devlabPeopleContainer">
 <!-- /////////////////////////container start-->
 <!-- /////////////////////////container start-->
 
 
 <!-- /////////////////////////Item start -->
-<div class="item">
+<div class="devlab-item" data-search="james allen associate research fellow international food policy research institute ifpri phd graduation year 2023">
 
 <a target="_blank" href="https://www.jamesalleniv.com/">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Allen-James-2-scaled-e1631034518583.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Allen-James-2-scaled-e1631034518583.jpg'></div>
 
 <strong>James Allen</strong><br>
 </a>
@@ -96,11 +41,11 @@ International Food Policy Research Institute (IFPRI)<br>
 
 <!-- /////////////////////////Item start -->
 
-<div class="item">
+<div class="devlab-item" data-search="robert beckemeyer predoctoral scholar federal reserve bank of kansas city ba graduation year 2024">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/RobertBeckemeyerDevEcon-e1683910845272.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/RobertBeckemeyerDevEcon-e1683910845272.jpg'></div>
 
 <strong> Robert Beckemeyer </strong><br>
 </a>
@@ -111,11 +56,11 @@ Federal Reserve Bank of Kansas City<br>
 </div>
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="rohan bhargava predoctoral scholar federal reserve bank of new york ba graduation year 2024">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/07/RohanDevEconPic-scaled-e1659123003737.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/07/RohanDevEconPic-scaled-e1659123003737.jpg'></div>
 
 <strong> Rohan Bhargava</strong><br>
 </a>
@@ -126,11 +71,11 @@ Federal Reserve Bank of New York<br>
 </div>
 <!-- /////////////////////////Item start -->
 
-<div class="item">
+<div class="devlab-item" data-search="moustafa el-kashlan phd student department of economics university of chicago ba graduation year 2019">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/09/MoustafaPicDevEcon-2-e1696042175474.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/09/MoustafaPicDevEcon-2-e1696042175474.jpg'></div>
 
 <strong>Moustafa El-Kashlan</strong><br>
 </a>
@@ -143,11 +88,11 @@ Department of Economics,
 
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="maximilian huppertz research economist bank of england phd graduation year 2024">
 
 <a href="https://maxhuppertz.github.io/">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Huppertz.png'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Huppertz.png'></div>
 
 <strong> Maximilian Huppertz</strong><br>
 </a>
@@ -159,11 +104,11 @@ Bank of England<br>
 
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="zara jacob predoctoral scholar federal reserve bank of new york ba graduation year 2025">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2024/02/ZaraDevEcon-scaled-e1708381090386.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2024/02/ZaraDevEcon-scaled-e1708381090386.jpg'></div>
 
 <strong> Zara Jacob</strong><br>
 </a>
@@ -175,11 +120,11 @@ Federal Reserve Bank of New York<br>
 
 
 <!-- /////////////////////////Item -->
-<div class="item">
+<div class="devlab-item" data-search="raelynn ruoran li phd student department of marketing wharton school of business university of pennsylvania bs graduation year 2024">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/RuroranLiDevLab-e1683172076641.jpeg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/RuroranLiDevLab-e1683172076641.jpeg'></div>
 
 <strong>Raelynn (Ruoran) Li</strong><br>
 </a>
@@ -190,11 +135,11 @@ Department of Marketing, <br>Wharton School of Business, University of Pennsylva
 </div>
 <!-- /////////////////////////Item end -->
 <!-- /////////////////////////Item start -->
-<div class="item">
+<div class="devlab-item" data-search="jinghao liu phd student department of economics yale university ba graduation year 2024">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/JinghaoLiuDevEcon-e1683911309229.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/JinghaoLiuDevEcon-e1683911309229.jpg'></div>
 
 <strong>Jinghao Liu</strong><br>
 </a>
@@ -205,11 +150,11 @@ Department of Economics, <br>Yale University<br>
 </div>
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="nicholas martens predoctoral scholar booth school of business university of chicago ba graduation year 2024">
 
 <a href="https://www.linkedin.com/in/nicholas-l-martens">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/NickMartensDevEcon-e1674836569380.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/NickMartensDevEcon-e1674836569380.jpg'></div>
 
 <strong>Nicholas Martens</strong><br>
 </a>
@@ -221,11 +166,11 @@ Booth School of Business, University of Chicago<br>
 
 
 <!-- /////////////////////////Item start -->
-<div class="item">
+<div class="devlab-item" data-search="ryan mcway phd student department of applied economics university of minnesota predoc years 2020-2022">
 
 <a href="#">
 
-<div class="image-container">
+<div class="devlab-image-container">
 <img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Ryan-McWay-2-e1632013751645.jpg'></div>
 
 <strong>Ryan McWay</strong><br>
@@ -238,11 +183,11 @@ University of Minnesota<br>
 </div>
 
 <!-- /////////////////////////Item -->
-<div class="item">
+<div class="devlab-item" data-search="russell morton assistant professor simon school of business university of rochester phd graduation year 2024">
 
 <a href="https://sites.lsa.umich.edu/rpmorton/">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Russell-Morton-e1631037256887.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Russell-Morton-e1631037256887.jpg'></div>
 
 <strong>Russell Morton</strong><br>
 </a>
@@ -253,11 +198,11 @@ Simon School of Business, University of Rochester<br>
 </div>
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="emir murathanoglu assistant professor department of economics oberlin college phd graduation year 2024">
 
 <a href="https://lsa.umich.edu/econ/people/phd-student<br>s/emir-murathanoglu.html">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/02/Emir-Murathanoglu-e1644421354164.jpeg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/02/Emir-Murathanoglu-e1644421354164.jpeg'></div>
 
 <strong>Emir Murathanoglu</strong><br>
 </a>
@@ -268,11 +213,11 @@ Department of Economics, Oberlin College<br>
 </div>
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="rita neves phd student department of economics nova university lisbon predoc years 2022-24">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/07/RitaNeves-e1658300099108.jpeg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/07/RitaNeves-e1658300099108.jpeg'></div>
 
 <strong>Rita Neves</strong><br>
 </a>
@@ -285,11 +230,11 @@ Department of Economics, <br>Nova University, Lisbon<br>
 
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="nyah phillips phd student department of economics university of california berkeley predoc years 2023-25">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/NyahPDevEcon-e1683911613701.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/NyahPDevEcon-e1683911613701.jpg'></div>
 
 <strong>Nyah Phillips</strong><br>
 </a>
@@ -303,11 +248,11 @@ Department of Economics, <br>University of California, Berkeley<br>
 
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="hadin sayed predoctoral scholar university of notre dame ba graduation year 2024">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/HadinSayedDevEcon-e1674931048814.png'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/HadinSayedDevEcon-e1674931048814.png'></div>
 
 <strong>Hadin Sayed</strong><br>
 </a>
@@ -318,11 +263,11 @@ University of Notre Dame<br>
 </div>
 <!-- /////////////////////////Item end -->
 
-<div class="item">
+<div class="devlab-item" data-search="yu shi phd student department of economics yale university ba graduation year 2024">
 
 <a href="#">
 
-<div class="image-container">
+<div class="devlab-image-container">
 <img src='https://devecon.umich.edu/wp-content/uploads/2023/01/YuShiDevEcon-scaled-e1674932042501.jpg'></div>
 
 <strong>Yu Shi</strong><br>
@@ -335,11 +280,11 @@ Department of Economics, <br>Yale University<br>
 <!-- /////////////////////////Item end -->
 
 <!-- /////////////////////////Item start -->
-<div class="item">
+<div class="devlab-item" data-search="jared stolove phd student department of economics yale university ba graduation year 2020">
 
 <a target="_blank" href="https://www.linkedin.com/in/jared-stolove-4477b427/" >
 
-<div class="image-container">
+<div class="devlab-image-container">
 <img src='https://devecon.umich.edu/wp-content/uploads/2023/06/JaredStoloveDevEcon-scaled-e1686080761725.jpg'></div>
 <strong>Jared Stolove</strong><br>
 </a>
@@ -351,12 +296,11 @@ Department of Economics, <br>Yale University<br>
 
 <!-- /////////////////////////Item -->
 
-</div>
-<div class="item">
+<div class="devlab-item" data-search="daniel velásquez-cabrera assistant professor department of economics claremont-mckenna university phd graduation year 2025">
 
 <a  target="_blank" href="https://dvelasquezc.github.io/">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Daniel_Vasquez-2-e1632778136973.jpeg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Daniel_Vasquez-2-e1632778136973.jpeg'></div>
 
 <strong>Daniel Velásquez-Cabrera</strong><br>
 </a>
@@ -366,11 +310,11 @@ Department of Economics, <br>Claremont-McKenna University<br>
 </div>
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="laura wang phd student kellogg school of business northwestern university ba graduation year 2025">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/11/LauraWangDevEcon-scaled-e1700209188122.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/11/LauraWangDevEcon-scaled-e1700209188122.jpg'></div>
 
 <strong>
 Laura Wang</strong><br>
@@ -382,9 +326,9 @@ Kellogg School of Business, <br>Northwestern University<br>
 
 <!-- /////////////////////////Item -->
 
-<div class="item">
+<div class="devlab-item" data-search="ann yang predoctoral scholar federal reserve bank of chicago ba graduation year 2025">
 <a href="#">
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/11/Ann-PhotoDevEcon-e1700208769929.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/11/Ann-PhotoDevEcon-e1700208769929.jpg'></div>
 <strong>Ann Yang</strong><br>
 </a>
 Predoctoral Scholar<br>
@@ -394,11 +338,11 @@ Federal Reserve Bank of Chicago<br>
 </div>
 
 <!-- /////////////////////////Item start -->
-<div class="item">
+<div class="devlab-item" data-search="yvette zhang phd student department of economics yale university ba graduation year 2024">
 
 <a href="#">
 
-<div class="image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/YvetteZDevLab-e1683171618872.jpg'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/YvetteZDevLab-e1683171618872.jpg'></div>
 <strong>Yvette Zhang</strong><br>
 </a>
 Ph.D. Student<br>
@@ -410,7 +354,7 @@ Department of Economics, <br>Yale University<br>
 
 
 <!-- ///////////////////////// leave  this Item-->
-<div class="item">
+<div class="devlab-item">
 </div>
 <!-- /////////////////////////leave  this Item- -->
 
@@ -418,5 +362,7 @@ Department of Economics, <br>Yale University<br>
 <!-- /////////////////////////container End-->
 <!-- /////////////////////////container End-->
 <!-- /////////////////////////container End-->
+
+{% include devlab-scripts.html %}
 
 
