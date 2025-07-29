@@ -10,7 +10,11 @@ title: "Alumni"
 {% include devlab-masthead.html %}
 
 <!-- Search functionality -->
-{% include devlab-search.html %} 
+<!-- DevLab Search functionality -->
+<div class="devlab-search-container">
+  <input type="text" id="devlabSearchInput" class="devlab-search-input" placeholder="Search by name, institution, or role...">
+  <div id="devlabNoResults" class="devlab-no-results">No results found. Try a different search term.</div>
+</div>
 
 <!-- =============================Dev Lab Content Below========================== -->
 <!-- /////////////////////////container start-->
@@ -18,7 +22,6 @@ title: "Alumni"
 <div class="devlab-container" id="devlabPeopleContainer">
 <!-- /////////////////////////container start-->
 <!-- /////////////////////////container start-->
-
 
 <!-- /////////////////////////Item start -->
 <div class="devlab-item" data-search="james allen associate research fellow international food policy research institute ifpri phd graduation year 2023">
@@ -32,10 +35,10 @@ title: "Alumni"
 
 Associate Research Fellow<br>
 
-
 International Food Policy Research Institute (IFPRI)<br>
 
 <strong>Ph.D. Graduation Year: </strong>2023
+
 </div>
 <!-- /////////////////////////Item end -->
 
@@ -118,7 +121,6 @@ Federal Reserve Bank of New York<br>
 
 </div>
 
-
 <!-- /////////////////////////Item -->
 <div class="devlab-item" data-search="raelynn ruoran li phd student department of marketing wharton school of business university of pennsylvania bs graduation year 2024">
 
@@ -163,7 +165,6 @@ Booth School of Business, University of Chicago<br>
 <strong>BA Graduation Year: </strong>2024
 
 </div>
-
 
 <!-- /////////////////////////Item start -->
 <div class="devlab-item" data-search="ryan mcway phd student department of applied economics university of minnesota predoc years 2020-2022">
@@ -225,7 +226,6 @@ Ph.D. Student<br>
 Department of Economics, <br>Nova University, Lisbon<br>
 <strong>Predoc Years: </strong>2022-24
 
-
 </div>
 
 <!-- /////////////////////////Item -->
@@ -243,8 +243,6 @@ Department of Economics, <br>University of California, Berkeley<br>
 <strong>Predoc Years: </strong>2023-25
 
 </div>
-
-
 
 <!-- /////////////////////////Item -->
 
@@ -307,6 +305,7 @@ Department of Economics, <br>Yale University<br>
 Assistant Professor<br>
 Department of Economics, <br>Claremont-McKenna University<br>
 <strong>Ph.D. Graduation Year: </strong>2025
+
 </div>
 <!-- /////////////////////////Item -->
 
@@ -350,8 +349,6 @@ Department of Economics, <br>Yale University<br>
 <strong>BA Graduation Year: </strong>2024
 </div>
 <!-- /////////////////////////Item end -->
-
-
 
 <!-- ///////////////////////// leave  this Item-->
 <div class="devlab-item">
@@ -406,6 +403,4 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 });
-</script> 
-
-
+</script>
