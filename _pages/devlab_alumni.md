@@ -3,7 +3,154 @@ permalink: /devlab_alumni/
 title: "Alumni"
 ---
 
-{% include devlab-styles.html %}
+<style>
+  /* DevLab Navigation Styles */
+  .devlab-nav {
+    position: relative;
+    background: #f8f9fa;
+    border-bottom: 1px solid #e9ecef;
+  }
+
+  .devlab-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    gap: 0;
+  }
+
+  .devlab-menu-item {
+    margin: 0;
+    padding: 0;
+  }
+
+  .devlab-menu-item a {
+    display: block;
+    padding: 1rem 1.5rem;
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    border-bottom: 3px solid transparent;
+  }
+
+  .devlab-menu-item a:hover {
+    color: #383838;
+    background-color: #e9ecef;
+    border-bottom-color: #383838;
+  }
+
+  .devlab-menu-item a:active {
+    background-color: #dee2e6;
+  }
+
+  /* Responsive navigation design */
+  @media (max-width: 768px) {
+    .devlab-links {
+      flex-direction: column;
+      align-items: stretch;
+    }
+
+    .devlab-menu-item {
+      border-bottom: 1px solid #e9ecef;
+    }
+
+    .devlab-menu-item:last-child {
+      border-bottom: none;
+    }
+
+    .devlab-menu-item a {
+      padding: 0.75rem 1rem;
+      text-align: left;
+    }
+
+    .devlab-menu-item a:hover {
+      background-color: #f8f9fa;
+      border-bottom-color: transparent;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .devlab-menu-item a {
+      padding: 0.5rem 0.75rem;
+      font-size: 0.9rem;
+    }
+  }
+
+  /* DevLab Grid Layout Styles */
+  .devlab-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .devlab-item {
+    width: calc(33.33% - 10px);
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+
+  .devlab-image-container {
+    height: 300px;
+    overflow: hidden;
+  }
+
+  .devlab-image-container img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* Media queries for responsive layout */
+  @media (max-width: 992px) {
+    .devlab-item {
+      width: calc(50% - 10px);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .devlab-item {
+      width: calc(100% - 10px);
+    }
+  }
+
+  /* DevLab Search Functionality Styles */
+  .devlab-search-container {
+    margin: 20px 0;
+    text-align: left;
+  }
+
+  .devlab-search-input {
+    width: 300px;
+    padding: 10px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+
+  .devlab-search-input:focus {
+    outline: none;
+    border-color: #007bff;
+  }
+
+  .devlab-no-results {
+    text-align: center;
+    padding: 20px;
+    font-style: italic;
+    color: #666;
+    display: none;
+  }
+
+  .devlab-hidden {
+    display: none !important;
+  }
+</style> 
 
 <!-- =============================Dev Lab header Below========================== -->
 
