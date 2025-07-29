@@ -10,7 +10,7 @@ title: "Alumni"
 {% include devlab-masthead.html %}
 
 <!-- Search functionality -->
-{% include devlab-search.html %}
+{% include devlab-search.html %} 
 
 <!-- =============================Dev Lab Content Below========================== -->
 <!-- /////////////////////////container start-->
@@ -363,6 +363,49 @@ Department of Economics, <br>Yale University<br>
 <!-- /////////////////////////container End-->
 <!-- /////////////////////////container End-->
 
-{% include devlab-scripts.html %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Search functionality
+    const searchInput = document.getElementById('devlabSearchInput');
+    const peopleContainer = document.getElementById('devlabPeopleContainer');
+    
+    if (searchInput && peopleContainer) {
+        const items = peopleContainer.querySelectorAll('.devlab-item');
+        const noResults = document.getElementById('devlabNoResults');
+
+        searchInput.addEventListener('input', function() {
+            const searchTerm = this.value.toLowerCase().trim();
+            let visibleCount = 0;
+
+            items.forEach(item => {
+                const searchData = item.getAttribute('data-search').toLowerCase();
+                if (searchTerm === '' || searchData.includes(searchTerm)) {
+                    item.style.display = 'block';
+                    visibleCount++;
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+
+            // Show/hide no results message
+            if (visibleCount === 0 && searchTerm !== '') {
+                noResults.style.display = 'block';
+            } else {
+                noResults.style.display = 'none';
+            }
+        });
+
+        // Clear search when input is cleared
+        searchInput.addEventListener('change', function() {
+            if (this.value === '') {
+                items.forEach(item => {
+                    item.style.display = 'block';
+                });
+                noResults.style.display = 'none';
+            }
+        });
+    }
+});
+</script> 
 
 
