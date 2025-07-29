@@ -509,7 +509,6 @@ Department of Economics, <br>Yale University<br>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    // Search functionality
     const searchInput = document.getElementById('devlabSearchInput');
     const peopleContainer = document.getElementById('devlabPeopleContainer');
     
@@ -522,7 +521,7 @@ document.addEventListener('DOMContentLoaded', function() {
             let visibleCount = 0;
 
             items.forEach(item => {
-                const searchData = item.getAttribute('data-search').toLowerCase();
+                const searchData = (item.getAttribute('data-search') || '').toLowerCase();
                 if (searchTerm === '' || searchData.includes(searchTerm)) {
                     item.style.display = 'block';
                     visibleCount++;
@@ -531,20 +530,12 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             });
 
-            // Show/hide no results message
-            if (visibleCount === 0 && searchTerm !== '') {
-                noResults.style.display = 'block';
-            } else {
-                noResults.style.display = 'none';
-            }
+            noResults.style.display = (visibleCount === 0 && searchTerm !== '') ? 'block' : 'none';
         });
 
-        // Clear search when input is cleared
         searchInput.addEventListener('change', function() {
             if (this.value === '') {
-                items.forEach(item => {
-                    item.style.display = 'block';
-                });
+                items.forEach(item => item.style.display = 'block');
                 noResults.style.display = 'none';
             }
         });
