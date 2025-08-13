@@ -404,6 +404,7 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
+
 <div class="devlab-item" data-search="yuqing wang phd student department of economics lsa">
 
 <a href="#">
@@ -419,6 +420,22 @@ Department of Economics, LSA
 
 
 <!-- /////////////////////////Item -->
+<div class="devlab-item" data-search="olivia woodring predoctoral scholar population studies center institute for social research">
+
+<a href="#">
+
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/Olivia Woodring.jpg'></div>
+
+<strong>Olivia Woodring</strong><br>
+</a>
+Predoctoral Scholar<br>
+Population Studies Center,<br>
+Institute for Social Research
+
+</div>
+
+<!-- /////////////////////////Item -->
+
 
 <div class="devlab-item" data-search="triana yentzen phd student department of economics lsa">
 
