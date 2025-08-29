@@ -7,7 +7,7 @@ title: "Working papers"
 
 <!-- ======================================================= -->
 
-* [Abundance from Abroad: Migrant Income and Long-Run Economic Development](/deanyang/files/workingpapers/khanna-murathanoglu-theoharides-yang-2024-abundance-from-abroad.pdf) (with Gaurav Khanna, Emir Murathanoglu, and Caroline Theoharides). Revision requested, _American Economic Review_. 
+* [Abundance from Abroad: Migrant Income and Long-Run Economic Development](/deanyang/files/workingpapers/khanna-murathanoglu-theoharides-yang-2024-abundance-from-abroad.pdf) (with Gaurav Khanna, Emir Murathanoglu, and Caroline Theoharides). Revision resubmitted, _American Economic Review_. 
 
 * [The Price of Faith: Economic Costs and Religious Group Membership in Sub-Saharan Africa](/deanyang/files/workingpapers/montero-yang-yentzen-2025-price-of-faith.pdf) (with Eduardo Montero and Triana Yentzen).
 
