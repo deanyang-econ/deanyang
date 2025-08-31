@@ -12,6 +12,15 @@ author_profile: true
 
 {% include base_path %}
 
+## FORTHCOMING OR CONDITIONALLY ACCEPTED
+
+* [Abundance from Abroad: Migrant Income and Long-Run Economic Development](/deanyang/files/khanna-murathanoglu-theoharides-yang-2025-abundance-from-abroad.pdf), _American Economic Review_, conditionally accepted. (With Gaurav Khanna, Emir Murathanoglu, and Caroline Theoharides.)
+
+* [International Migration and Economic Development](/deanyang/files/yang-2025-international-migration-economic-development.pdf), _Annual Review of Economics_, forthcoming.
+
+
+## IN PRINT
+
 40 . [Brain Drain or Brain Gain? Effects of High-Skilled International Migration on Developing Countries](/deanyang/files/batista-han-haushofer-khanna-mckenzie-mobarak-theoharides-yang-2025science-braingain.pdf), _Science_, Vol. 388, Issue 6749, 22 May 2025. (With Catia Batista, Daniel Han, Johannes Haushofer, Gaurav Khanna, David McKenzie, Mushfiq Mobarak, and Caroline Theoharides.)
 
 39 . [Picture This: Social Distance and the Mistreatment of Migrant Workers ](/deanyang/files/workingpapers/bblsty-2022-MistreatmentMigrantWorkers.pdf), _Journal of Political Economy Microeconomics_, forthcoming. (With Toman Barsbai, Vojta Bartoš, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson.)

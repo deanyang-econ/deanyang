@@ -7,8 +7,6 @@ title: "Working papers"
 
 <!-- ======================================================= -->
 
-* [Abundance from Abroad: Migrant Income and Long-Run Economic Development](/deanyang/files/khanna-murathanoglu-theoharides-yang-2025-abundance-from-abroad.pdf) (with Gaurav Khanna, Emir Murathanoglu, and Caroline Theoharides). Conditionally accepted, _American Economic Review_. 
-
 * [The Price of Faith: Economic Costs and Religious Group Membership in Sub-Saharan Africa](/deanyang/files/workingpapers/montero-yang-yentzen-2025-price-of-faith.pdf) (with Eduardo Montero and Triana Yentzen).
 
 * [Ancient Epics in the Television Age: Media, Identity, and the Rise of Hindu Nationalism in India](/deanyang/files/workingpapers/ahmed-brimble-kovvuri-saia-yang-2025-ancient-epics.pdf)  (with Resuf Ahmed, Paul Brimble, Akhila Kovvuri, and Alessandro Saia).
