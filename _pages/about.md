@@ -11,7 +11,7 @@ I am a development economist at the University of Michigan. My positions here ar
 
 I am a Co-Editor of the [Journal of Development Economics](https://www.sciencedirect.com/journal/journal-of-development-economics), and in particular handle our [Pre-Results Review](https://jdepreresults.org/) submission track.
 
-Check out my research group, [DevLab](https://deanyang-econ.github.io/deanyang/devlab/).
+Learn more about my research group, [DevLab](https://deanyang-econ.github.io/deanyang/devlab/), and [Development Economics @ Michigan](https://devecon.umich.edu).
 
 The [NBER Reporter](https://www.nber.org/reporter/2025number1/international-migration-remittances-and-economic-development) (April 2025) featured an overview of my research on international migration. 
 
@@ -38,5 +38,3 @@ Some podcasts where I discuss my research:
 - Eduardo Montero and me on the [AEA Research Highlights Podcast](https://www.aeaweb.org/research/religious-festivals-development-mexico) on [“Religious Festivals and Economic Development”](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20211094), *American Economic Review*, October 2022. This [NBER Digest article](https://www.nber.org/digest-202108/religious-festivals-agriculture-and-economic-progress-mexico) provides a nontechnical summary.
 
 - [AEA Research Highlights Podcast](https://www.aeaweb.org/research/dean-yang-africa-green-revolution) on [“Subsidies and the African Green Revolution”](https://www.aeaweb.org/articles?id=10.1257/app.20190396&&from=f) (with Michael Carter and Rachid Laajaj), *American Economic Journal: Applied Economics*, April 2021. This [VoxDev article](https://voxdev.org/topic/agriculture/temporary-agricultural-input-subsidies-have-lasting-impacts-mozambique-experiment) provides a nontechnical summary.
-
-Learn more about [Development Economics @ Michigan](https://devecon.umich.edu).
