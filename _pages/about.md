@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a development economist at the University of Michigan. My positions here are Professor in the [Department of Economics](https://lsa.umich.edu/econ), Professor at the [Ford School of Public Policy](https://fordschool.umich.edu/), and Research Professor at the [Population Studies Center](https://psc.isr.umich.edu/) (Institute for Social Research).
+I am a development economist at the University of Michigan. I am a Professor in the [Department of Economics](https://lsa.umich.edu/econ), Professor at the [Ford School of Public Policy](https://fordschool.umich.edu/), and Research Professor at the [Population Studies Center](https://psc.isr.umich.edu/) (Institute for Social Research).
 
 I am a Co-Editor of the [Journal of Development Economics](https://www.sciencedirect.com/journal/journal-of-development-economics), and in particular handle our [Pre-Results Review](https://jdepreresults.org/) submission track.
 
