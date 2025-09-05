@@ -15,7 +15,7 @@ Check out my research group, [DevLab](https://deanyang-econ.github.io/deanyang/d
 
 The [NBER Reporter](https://www.nber.org/reporter/2025number1/international-migration-remittances-and-economic-development) (April 2025) featured an overview of my research on international migration. 
 
-NEW PAPERS FORTHCOMING, CONDITIONALLY ACCEPTED, OR IN PRINT
+NEW PAPERS CONDITIONALLY ACCEPTED, FORTHCOMING, OR IN PRINT
 
 * [Abundance from Abroad: Migrant Income and Long-Run Economic Development](/deanyang/files/khanna-murathanoglu-theoharides-yang-2025-abundance-from-abroad.pdf), _American Economic Review_, conditionally accepted. (With Gaurav Khanna, Emir Murathanoglu, and Caroline Theoharides.)
 
