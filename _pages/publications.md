@@ -14,7 +14,7 @@ author_profile: true
 
 ## FORTHCOMING OR CONDITIONALLY ACCEPTED
 
-* [Abundance from Abroad: Migrant Income and Long-Run Economic Development](/deanyang/files/khanna-murathanoglu-theoharides-yang-2025-abundance-from-abroad.pdf), _American Economic Review_, conditionally accepted. (With Gaurav Khanna, Emir Murathanoglu, and Caroline Theoharides.)
+* [Abundance from Abroad: Migrant Income and Long-Run Economic Development](/deanyang/files/khanna-murathanoglu-theoharides-yang-2025-abundance-from-abroad.pdf), _American Economic Review_, forthcoming. (With Gaurav Khanna, Emir Murathanoglu, and Caroline Theoharides.)
 
 * [Picture This: Social Distance and the Mistreatment of Migrant Workers ](/deanyang/files/workingpapers/bblsty-2022-MistreatmentMigrantWorkers.pdf), _Journal of Political Economy Microeconomics_, forthcoming. (With Toman Barsbai, Vojta Bartoš, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson.)
 
