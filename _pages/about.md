@@ -30,7 +30,7 @@ NEW WORKING PAPERS
 
 * [The Price of Faith: Economic Costs and Religious Group Membership in Sub-Saharan Africa](https://www.nber.org/papers/w33482), _NBER Working Paper_, No. 33482, February 2025. (with Eduardo Montero and Triana Yentzen)
 
-* [Ancient Epics in the Television Age: Media, Identity, and the Rise of Hindu Nationalism in India](https://www.nber.org/papers/w33417), _NBER Working Paper_, No. 33417, January 2025. (with Resuf Ahmed, Paul Brimble, Akhila Kovvuri, and Alessandro Saia)
+* [Ancient Epics in the Television Age: Religious Identity and the Rise of Hindu Nationalism in India](https://www.nber.org/papers/w33417), _NBER Working Paper_, No. 33417, January 2025. (with Resuf Ahmed, Paul Brimble, Akhila Kovvuri, and Alessandro Saia)
 
 * [War Mobilization and Economic Development: World War II and Structural Transformation in India](https://www.nber.org/papers/w33246), _NBER Working Paper_, No. 33246, December 2024. (with Aneesha Parvathaneni) 
      Coverage: [Ideas for India article](https://ideasforindia.in/topics/productivity-innovation/wartime-mobilisation-and-economic-development-in-india.html)
