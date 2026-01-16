@@ -21,6 +21,8 @@ author_profile: true
 
 ## IN PRINT
 
+40 . [International Migration](https://voxdev.org/voxdevlit/international-migration), _VoxDevLit_, 21(1), January 14, 2026. (With Catia Batista, Gaurav Khanna, David McKenzie, Mushfiq Mobarak, and Caroline Theoharides.)
+
 39 . [Brain Drain or Brain Gain? Effects of High-Skilled International Migration on Developing Countries](/deanyang/files/batista-han-haushofer-khanna-mckenzie-mobarak-theoharides-yang-2025science-braingain.pdf), _Science_, Vol. 388, Issue 6749, 22 May 2025. (With Catia Batista, Daniel Han, Johannes Haushofer, Gaurav Khanna, David McKenzie, Mushfiq Mobarak, and Caroline Theoharides.)
 
 38 . [Information and Immigrant Settlement](/deanyang/files/barsbai-licuanan-steinmayr-tiongson-yang-information-immigrant-settlement.pdf),  _Journal of Development Economics_, Vol. 170, September 2024. (With Toman Barsbai, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson.)
