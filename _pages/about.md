@@ -37,10 +37,10 @@ NEW WORKING PAPERS
 
 RECENT VIDEOS AND PODCASTS
 
-- My [launch presentation for the VoxDevLit on "International Migration"](https://youtu.be/bvZo2HRA7nk), January 14, 2026.
+- [Launch presentation for the VoxDevLit on "International Migration"](https://youtu.be/bvZo2HRA7nk), January 14, 2026.
 
 - Eduardo Montero and me on the [AEA Research Highlights Podcast](https://www.aeaweb.org/research/religious-festivals-development-mexico) on [“Religious Festivals and Economic Development”](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20211094), *American Economic Review*, October 2022. This [NBER Digest article](https://www.nber.org/digest-202108/religious-festivals-agriculture-and-economic-progress-mexico) provides a nontechnical summary.
 
-- My [lecture on "International Migration"](https://www.youtube.com/watch?v=3DPnTNU6chM), *BREAD-IGC Virtual Ph.D. Course on Migration*, April 14, 2022.
+- [Lecture on "International Migration"](https://www.youtube.com/watch?v=3DPnTNU6chM), *BREAD-IGC Virtual Ph.D. Course on Migration*, April 14, 2022.
 
 - [AEA Research Highlights Podcast](https://www.aeaweb.org/research/dean-yang-africa-green-revolution) on [“Subsidies and the African Green Revolution”](https://www.aeaweb.org/articles?id=10.1257/app.20190396&&from=f) (with Michael Carter and Rachid Laajaj), *American Economic Journal: Applied Economics*, April 2021. This [VoxDev article](https://voxdev.org/topic/agriculture/temporary-agricultural-input-subsidies-have-lasting-impacts-mozambique-experiment) provides a nontechnical summary.
