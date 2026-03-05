@@ -166,6 +166,7 @@ exclude:
   - config
   - gulpfile.js
   - log
+  - legacy
   - node_modules
   - package.json
   - tmp
