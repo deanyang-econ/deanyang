@@ -25,3 +25,5 @@ title: "Research Projects"
 * **[Returns to Information in Hiring](https://www.socialscienceregistry.org/trials/11630)**. This project evaluates different approaches to screening job applicants for health promoter positions in Mozambique, measuring how hiring methods affect worker effectiveness in delivering HIV/AIDS-related public health services. *DevLab members: Yara Gomes (pre-doctoral scholar), Ryan McWay (pre-doctoral scholar), Rita Neves (pre-doctoral scholar); Nyah Phillips (RA), Olivia Woodring (RA).*
 
 * **The Effects of the Green Revolution on Long-Run Development: Evidence from India**. In India, improvements in agricultural productivity due to the Green Revolution increase deforestation, but industrialization helps preserve forests. *DevLab members: Joaquin Endara (co-author), Sameer Nair-Desai (co-author); Evan Evans (RA), Raelynn Li (RA), Laura Wang (RA).*
+
+* **The Long-Run Impact of Encomiendas in New Spain**. Areas of Mexico historically exposed to encomiendas exhibit higher nighttime light intensity and larger populations today. *DevLab members: Joaquin Endara (co-author), Juanita Jaramillo (co-author); Sophia Guo (RA).*
