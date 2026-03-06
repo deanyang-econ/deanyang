@@ -17,7 +17,7 @@ The [NBER Reporter](https://www.nber.org/reporter/2025number1/international-migr
 
 PAPERS NEWLY CONDITIONALLY ACCEPTED, FORTHCOMING, OR IN PRINT
 
-* [Abundance from Abroad: Migrant Income and Long-Run Economic Development](/deanyang/files/khanna-murathanoglu-theoharides-yang-2025-abundance-from-abroad.pdf), _American Economic Review_, forthcoming. (with Gaurav Khanna, Emir Murathanoglu, and Caroline Theoharides)
+* [Abundance from Abroad: Migrant Income and Long-Run Economic Development](/deanyang/files/khanna-murathanoglu-theoharides-yang-2025-abundance-from-abroad.pdf), _American Economic Review_, forthcoming. (with Gaurav Khanna, Emir Murathanoglu, and Caroline Theoharides)  
      Coverage: [VoxDev article](https://www.voxdev.org/topic/migration-urbanisation/how-does-international-migration-affect-economic-development-back-home)
 
 * [Picture This: Social Distance and the Mistreatment of Migrant Workers](/deanyang/files/workingpapers/bblsty-2022-MistreatmentMigrantWorkers.pdf), _Journal of Political Economy Microeconomics_, forthcoming. (with Toman Barsbai, Vojta Bartoš, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson)
@@ -31,7 +31,7 @@ NEW WORKING PAPERS
 
 * [The Price of Faith: Economic Costs and Religious Group Membership in Sub-Saharan Africa](https://www.nber.org/papers/w33482), _NBER Working Paper_, No. 33482, February 2025. (with Eduardo Montero and Triana Yentzen)
 
-* [Ancient Epics in the Television Age: Religious Identity and the Rise of Hindu Nationalism in India](https://www.nber.org/papers/w33417), _NBER Working Paper_, No. 33417, January 2025. (with Resuf Ahmed, Paul Brimble, Akhila Kovvuri, and Alessandro Saia)
+* [Ancient Epics in the Television Age: Religious Identity and the Rise of Hindu Nationalism in India](https://www.nber.org/papers/w33417), _NBER Working Paper_, No. 33417, January 2025. (with Resuf Ahmed, Paul Brimble, Akhila Kovvuri, and Alessandro Saia)  
      Coverage: [VoxDev article](https://www.voxdev.org/topic/institutions-political-economy/sunday-morning-broadcast-changed-indian-democracy)
 
 * [War Mobilization and Economic Development: World War II and Structural Transformation in India](https://www.nber.org/papers/w33246), _NBER Working Paper_, No. 33246, December 2024. (with Aneesha Parvathaneni) 
