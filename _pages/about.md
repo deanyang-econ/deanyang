@@ -18,6 +18,7 @@ The [NBER Reporter](https://www.nber.org/reporter/2025number1/international-migr
 PAPERS NEWLY CONDITIONALLY ACCEPTED, FORTHCOMING, OR IN PRINT
 
 * [Abundance from Abroad: Migrant Income and Long-Run Economic Development](/deanyang/files/khanna-murathanoglu-theoharides-yang-2025-abundance-from-abroad.pdf), _American Economic Review_, forthcoming. (with Gaurav Khanna, Emir Murathanoglu, and Caroline Theoharides)
+     Coverage: [VoxDev article](https://www.voxdev.org/topic/migration-urbanisation/how-does-international-migration-affect-economic-development-back-home)
 
 * [Picture This: Social Distance and the Mistreatment of Migrant Workers](/deanyang/files/workingpapers/bblsty-2022-MistreatmentMigrantWorkers.pdf), _Journal of Political Economy Microeconomics_, forthcoming. (with Toman Barsbai, Vojta Bartoš, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson)
 
