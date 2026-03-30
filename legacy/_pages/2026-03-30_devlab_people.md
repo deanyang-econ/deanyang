@@ -217,6 +217,18 @@ Department of Economics, LSA
 <!-- /////////////////////////Item -->
 <!-- /////////////////////////Item -->
 <!-- /////////////////////////Item -->
+<div class="devlab-item" data-search="anna jerolimov undergraduate student department of economics lsa">
+
+<a href="#">
+
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/Anna_Jerolimov.png'></div>
+
+<strong> Anna Jerolimov</strong><br>
+</a>
+Undergraduate Student<br>
+Department of Economics, LSA
+
+</div>
 <!-- /////////////////////////Item -->
 <div class="devlab-item" data-search="heesung kim phd student department of economics lsa">
 
