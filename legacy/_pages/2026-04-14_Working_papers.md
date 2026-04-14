@@ -7,7 +7,7 @@ title: "Working papers"
 
 <!-- ======================================================= -->
 
-* [The Price of Faith: Economic Costs and Religious Group Membership in Sub-Saharan Africa](/deanyang/files/workingpapers/montero-yang-yentzen-2026-price-of-faith.pdf) (with Eduardo Montero and Triana Yentzen). Revise and resubmit, *Quarterly Journal of Economics*.
+* [The Price of Faith: Economic Costs and Religious Group Membership in Sub-Saharan Africa](/deanyang/files/workingpapers/montero-yang-yentzen-2026-price-of-faith.pdf) (with Eduardo Montero and Triana Yentzen).
 
 * [Ancient Epics in the Television Age: Religious Identity and the Rise of Hindu Nationalism in India](/deanyang/files/workingpapers/yang-saia-kovvuri-ahmed-brimble-2026-ancient-epics.pdf)  (with Resuf Ahmed, Paul Brimble, Akhila Kovvuri, and Alessandro Saia).
 
