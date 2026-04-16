@@ -263,7 +263,7 @@ Department of Economics, LSA
 
 <a  target="_blank" href="https://laston-manja.github.io/">
 
-<div class="devlab-image-container"><img src='/deanyang/files/profiles/lestonmanja.JPG'></div>
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/LastonManjaDevEcon-scaled-e1683938798775.jpg'></div>
 
 <strong>Laston Manja </strong><br>
 </a>
