@@ -51,6 +51,21 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
+<div class="devlab-item" data-search="matthew burger undergraduate student department of economics lsa">
+
+<a href="#">
+
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/mathews_b.png' style="object-position: center 30%;"></div>
+
+<strong>Matthew Burger</strong><br>
+</a>
+Undergraduate Student <br>
+Department of Economics, LSA
+
+</div>
+
+<!-- /////////////////////////Item -->
+
 <div class="devlab-item" data-search="saheel chodavadia phd student department of economics lsa ford school of public policy">
 
 <a  target="_blank" href="https://saheelchodavadia.com/">
@@ -244,6 +259,19 @@ Department of Economics, LSA
 
 </div>
 <!-- /////////////////////////Item -->
+<div class="devlab-item" data-search="wanxiangyi liu undergraduate student ross school of business">
+
+<a href="#">
+
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/Liu, Wanxiangyi.jpg'></div>
+
+<strong>Wanxiangyi Liu</strong><br>
+</a>
+Undergraduate Student<br>
+Ross School of Business
+
+</div>
+<!-- /////////////////////////Item -->
 
 <div class="devlab-item" data-search="thomas lloyd phd student department of economics lsa">
 
@@ -259,7 +287,7 @@ Department of Economics, LSA
 </div>
 <!-- /////////////////////////Item -->
 
-<div class="devlab-item" data-search="laston manja phd student department of economics lsa">
+<!-- <div class="devlab-item">
 
 <a  target="_blank" href="https://laston-manja.github.io/">
 
@@ -270,7 +298,7 @@ Department of Economics, LSA
 Ph.D. Student<br>
 Department of Economics, LSA
 
-</div>
+</div> -->
 
 <!-- /////////////////////////Item -->
 <div class="devlab-item" data-search="brady nichols undergraduate student department of economics department of romance languages and literatures lsa">
