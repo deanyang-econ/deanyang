@@ -57,3 +57,8 @@ Create a session log at `log/YYYY-MM-DD-HHMM.md` with the following structure:
 ```
 
 Remind the user to log the session if they appear to be wrapping up.
+
+## Known Gotchas
+
+### DevLab people page — last-row gap
+The grid in `_includes/devlab-styles.html` (`.devlab-container`) uses flexbox with 3 columns. Keep `justify-content: flex-start` so that an underfilled last row (e.g., 17 members → 2 items in the last row) left-aligns instead of spreading to opposite edges. `space-between` produces a large empty gap in the middle of the last row whenever the member count is not a multiple of 3. Before changing this value, count members in `_pages/devlab_people.md` (active items only — commented-out entries don't render) and verify the last row will look right. Same caution applies if migrating to CSS grid: do not use `justify-content: space-between` on the grid container.
