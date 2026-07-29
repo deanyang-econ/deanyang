@@ -24,9 +24,9 @@ author_profile: true
 
 <ol reversed>
 
-<li><a href="/deanyang/files/barsbaietal_picturethis_FINAL.pdf">Picture This: Social Distance and the Mistreatment of Migrant Workers</a>, <em>Journal of Political Economy Microeconomics</em>, Vol. 4, No. 2, May 2026. (With Toman Barsbai, Vojta Bartoš, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson.)</li>
-
 <li><a href="/deanyang/files/yang-2026-international-migration-economic-development.pdf">International Migration and Economic Development</a>, <em>Annual Review of Economics</em>, Vol. 18, 2026, pp. 317–341.</li>
+
+<li><a href="/deanyang/files/barsbaietal_picturethis_FINAL.pdf">Picture This: Social Distance and the Mistreatment of Migrant Workers</a>, <em>Journal of Political Economy Microeconomics</em>, Vol. 4, No. 2, May 2026. (With Toman Barsbai, Vojta Bartoš, Victoria Licuanan, Andreas Steinmayr, and Erwin Tiongson.)</li>
 
 <li><a href="/deanyang/files/khanna-et-al-2026-abundance-from-abroad-migrant-income-and-long-run-economic-development.pdf">Abundance from Abroad: Migrant Income and Long-Run Economic Development</a>, <em>American Economic Review</em>, Vol. 116, No. 4, April 2026, pp. 1540–77. (With Gaurav Khanna, Emir Murathanoglu, and Caroline Theoharides.)</li>
 
