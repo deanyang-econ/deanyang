@@ -41,7 +41,7 @@ International Food Policy Research Institute (IFPRI)<br>
 
 <!-- /////////////////////////Item start -->
 
-<div class="devlab-item" data-search="robert beckemeyer phd student department of economics university of southern california ba graduation year 2024">
+<div class="devlab-item" data-search="robert beckemeyer predoctoral scholar federal reserve bank of kansas city ba graduation year 2024">
 
 <a href="#">
 
@@ -49,14 +49,14 @@ International Food Policy Research Institute (IFPRI)<br>
 
 <strong> Robert Beckemeyer </strong><br>
 </a>
-Ph.D. Student<br>
-Department of Economics, <br>University of Southern California<br>
+Predoctoral Scholar <br>
+Federal Reserve Bank of Kansas City<br>
 <strong>BA Graduation Year: </strong>2024
 
 </div>
 <!-- /////////////////////////Item -->
 
-<!-- <div class="devlab-item" data-search="rohan bhargava predoctoral scholar federal reserve bank of new york ba graduation year 2024">
+<div class="devlab-item" data-search="rohan bhargava predoctoral scholar federal reserve bank of new york ba graduation year 2024">
 
 <a href="#">
 
@@ -68,7 +68,7 @@ Predoctoral Scholar<br>
 Federal Reserve Bank of New York<br>
 <strong>BA Graduation Year: </strong>2024
 
-</div> -->
+</div>
 <!-- /////////////////////////Item start -->
 
 <div class="devlab-item" data-search="moustafa el-kashlan phd student department of economics university of chicago ba graduation year 2019">
@@ -83,38 +83,6 @@ Ph.D. Student<br>
 Department of Economics,
 <br>University of Chicago<br>
 <strong>BA Graduation Year: </strong>2019
-
-</div>
-
-<!-- /////////////////////////Item -->
-
-<div class="devlab-item" data-search="alexander fertig assistant professor department of economics university of new mexico phd graduation year 2026">
-
-<a target="_blank" href="https://alexanderfertig.com/">
-
-<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Alexander-Fertig_Headshot_old-e1631110128981.jpg'></div>
-
-<strong>Alexander Fertig</strong><br>
-</a>
-Assistant Professor<br>
-Department of Economics, <br>University of New Mexico<br>
-<strong>Ph.D. Graduation Year: </strong>2026
-
-</div>
-
-<!-- /////////////////////////Item -->
-
-<div class="devlab-item" data-search="yara gomes phd student department of economics university of illinois champaign-urbana predoc years 2024-2026">
-
-<a href="#">
-
-<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/11/YaraGomesDevEcon-e1700210110130.jpg'></div>
-
-<strong>Yara Gomes</strong><br>
-</a>
-Ph.D. Student<br>
-Department of Economics, <br>University of Illinois, Champaign-Urbana<br>
-<strong>Predoc Years: </strong>2024-2026
 
 </div>
 
@@ -182,23 +150,7 @@ Department of Economics, <br>Yale University<br>
 </div>
 <!-- /////////////////////////Item -->
 
-<div class="devlab-item" data-search="thomas lloyd assistant professor emlyon business school phd graduation year 2026">
-
-<a href="#">
-
-<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/ThomasLloydDevEcon-scaled-e1674835787136.jpg'></div>
-
-<strong>Thomas Lloyd</strong><br>
-</a>
-Assistant Professor<br>
-Emlyon Business School<br>
-<strong>Ph.D. Graduation Year: </strong>2026
-
-</div>
-
-<!-- /////////////////////////Item -->
-
-<div class="devlab-item" data-search="nicholas martens phd student department of economics university of california los angeles ba graduation year 2024">
+<div class="devlab-item" data-search="nicholas martens predoctoral scholar booth school of business university of chicago ba graduation year 2024">
 
 <a href="https://www.linkedin.com/in/nicholas-l-martens">
 
@@ -206,8 +158,8 @@ Emlyon Business School<br>
 
 <strong>Nicholas Martens</strong><br>
 </a>
-Ph.D. Student<br>
-Department of Economics, <br>University of California Los Angeles<br>
+Predoctoral Scholar<br>
+Booth School of Business, University of Chicago<br>
 <strong>BA Graduation Year: </strong>2024
 
 </div>
@@ -248,7 +200,7 @@ Simon School of Business, University of Rochester<br>
 
 <div class="devlab-item" data-search="emir murathanoglu assistant professor department of economics oberlin college phd graduation year 2024">
 
-<a target="_blank" href="https://www.emirmur.com/">
+<a href="https://lsa.umich.edu/econ/people/phd-student<br>s/emir-murathanoglu.html">
 
 <div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2022/02/Emir-Murathanoglu-e1644421354164.jpeg'></div>
 
@@ -273,22 +225,6 @@ Ph.D. Student<br>
 Department of Economics, <br>Nova University, Lisbon<br>
 <strong>Predoc Years: </strong>2022-24
 
-
-</div>
-
-<!-- /////////////////////////Item -->
-
-<div class="devlab-item" data-search="brady nichols predoctoral scholar university of chicago booth school of business ba graduation year 2026">
-
-<a href="#">
-
-<div class="devlab-image-container"><img src='/deanyang/files/profiles/Brady Nichols.jpg' style="object-position: center 30%;"></div>
-
-<strong>Brady Nichols</strong><br>
-</a>
-Predoctoral Scholar<br>
-University of Chicago <br>Booth School of Business<br>
-<strong>BA Graduation Year: </strong>2026
 
 </div>
 
@@ -326,21 +262,6 @@ University of Notre Dame<br>
 
 </div>
 <!-- /////////////////////////Item end -->
-
-<div class="devlab-item" data-search="arushi sharma phd student department of finance university of texas austin predoc years 2024-2026">
-
-<a href="#">
-
-<div class="devlab-image-container"><img src='/deanyang/files/profiles/Arushi Sharma_photo.JPG'></div>
-
-<strong>Arushi Sharma</strong><br>
-</a>
-Ph.D. Student<br>
-Department of Finance, <br>University of Texas, Austin<br>
-<strong>Predoc Years: </strong>2024-2026
-
-</div>
-<!-- /////////////////////////Item -->
 
 <div class="devlab-item" data-search="yu shi phd student department of economics yale university ba graduation year 2024">
 

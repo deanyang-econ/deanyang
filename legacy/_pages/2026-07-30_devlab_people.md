@@ -98,6 +98,36 @@ Department of Economics, LSA
 </div>
 <!-- /////////////////////////Item -->
 
+<div class="devlab-item" data-search="alexander fertig phd student department of economics lsa ford school of public policy">
+
+<a  target="_blank" href="https://alexanderfertig.com/">
+
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2021/09/Alexander-Fertig_Headshot_old-e1631110128981.jpg'></div>
+
+<strong> Alexander Fertig</strong><br>
+</a>
+Ph.D. Student<br>
+Department of Economics, LSA
+Ford School of Public Policy
+
+</div>
+<!-- /////////////////////////Item -->
+
+<!-- /////////////////////////Item -->
+<div class="devlab-item" data-search="yara gomes predoctoral scholar population studies center institute for social research">
+
+<a href="#">
+
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/11/YaraGomesDevEcon-e1700210110130.jpg'></div>
+
+<strong>Yara Gomes </strong><br>
+</a>
+Predoctoral Scholar
+Population Studies Center, Institute for Social Research
+
+</div>
+<!-- /////////////////////////Item -->
+
 <!-- /////////////////////////Item -->
 <!-- <div class="devlab-item">
 
@@ -215,6 +245,20 @@ Department of Economics, LSA
 </div>
 <!-- /////////////////////////Item -->
 
+<div class="devlab-item" data-search="thomas lloyd phd student department of economics lsa">
+
+<a href="#">
+
+<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/01/ThomasLloydDevEcon-scaled-e1674835787136.jpg'></div>
+
+<strong>Thomas Lloyd</strong><br>
+</a>
+Ph.D. Student<br>
+Department of Economics, LSA
+
+</div>
+<!-- /////////////////////////Item -->
+
 <div class="devlab-item" data-search="laston manja phd student department of economics lsa">
 
 <a  target="_blank" href="https://laston-manja.github.io/">
@@ -228,6 +272,20 @@ Department of Economics, LSA
 
 </div>
 
+<!-- /////////////////////////Item -->
+<div class="devlab-item" data-search="brady nichols undergraduate student department of economics department of romance languages and literatures lsa">
+
+<a  target="_blank" href="#">
+
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/Brady Nichols.jpg' style="object-position: center 30%;"></div>
+
+<strong>Brady Nichols </strong><br>
+</a>
+Undergraduate Student<br>
+Department of Economics<br>
+Department of Romance Languages and Literatures, LSA
+
+</div>
 <!-- /////////////////////////Item -->
 
 
@@ -277,6 +335,20 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
+<div class="devlab-item" data-search="arushi sharma mae student department of economics lsa">
+
+<a href="#">
+
+<div class="devlab-image-container"><img  src='/deanyang/files/profiles/Arushi Sharma_photo.JPG'></div>
+
+<strong>Arushi Sharma,</strong><br>
+</a>
+MAE Student,<br>
+Department of Economics, LSA
+
+</div>
+
+<!-- /////////////////////////Item -->
 <div class="devlab-item" data-search="nathan sunday phd student department of economics lsa">
 
 <a href="#">
