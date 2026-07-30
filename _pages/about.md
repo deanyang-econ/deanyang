@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a development economist at the University of Michigan. I am a Professor in the [Department of Economics](https://lsa.umich.edu/econ), Professor at the [Ford School of Public Policy](https://fordschool.umich.edu/), and Research Professor at the [Population Studies Center](https://psc.isr.umich.edu/) (Institute for Social Research). I am also the Founding President of the [International Development Economics Association (IDEA)](https://idea.devecon.org/).
+I am a development economist at the University of Michigan. I am a Professor in the [Department of Economics](https://lsa.umich.edu/econ), Professor at the [Ford School of Public Policy](https://fordschool.umich.edu/), and Research Professor at the [Population Studies Center](https://psc.isr.umich.edu/) (Institute for Social Research). 
+
+I am honored to serve as the Founding President of the [International Development Economics Association (IDEA)](https://idea.devecon.org/), the first global professional association for development economics. 
 
 Learn more about my research group, [DevLab](https://deanyang-econ.github.io/deanyang/devlab/), and [Development Economics @ Michigan](https://devecon.umich.edu).
 
