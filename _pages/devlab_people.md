@@ -175,7 +175,7 @@ Department of Economics, LSA
 
 <a href="#">
 
-<div class="devlab-image-container"><img src='/deanyang/files/profiles/SophiaGuo_headshot.png'></div>
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/SophiaGuo_headshot.jpg'></div>
 
 <strong>Sophia Guo</strong><br>
 </a>
