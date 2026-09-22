@@ -352,6 +352,22 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
+<div class="devlab-item" data-search="carmen simon undergraduate student department of economics department of mathematics lsa">
+
+<a href="#">
+
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/Carmen_Simon_Headshot.jpg'></div>
+
+<strong>Carmen Simon</strong><br>
+</a>
+Undergraduate Student<br>
+Department of Economics,<br>
+Department of Mathematics, LSA
+
+</div>
+
+<!-- /////////////////////////Item -->
+
 <div class="devlab-item" data-search="nathan sunday phd student department of economics lsa">
 
 <a  target="_blank" href="https://nathan-sunday.github.io/">
