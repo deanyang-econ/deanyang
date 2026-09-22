@@ -109,6 +109,37 @@ Ph.D. Student<br>
 Department of Economics, LSA
 
 </div>
+
+<!-- /////////////////////////Item -->
+
+<div class="devlab-item" data-search="evan jose evans undergraduate student department of economics lsa">
+
+<a href="#">
+
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/Evan Jose Evans Headshot.jpg'></div>
+
+<strong>Evan José Evans</strong><br>
+</a>
+Undergraduate Student<br>
+Department of Economics, LSA
+
+</div>
+
+<!-- /////////////////////////Item -->
+
+<div class="devlab-item" data-search="john fullerton undergraduate student department of economics department of mathematics lsa">
+
+<a  target="_blank" href="https://www.linkedin.com/in/johncfullerton/">
+
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/Fullerton, John Headshot.JPG'></div>
+
+<strong>John Fullerton</strong><br>
+</a>
+Undergraduate Student<br>
+Department of Economics,<br>
+Department of Mathematics, LSA
+
+</div>
 <!-- /////////////////////////Item -->
 
 <!-- /////////////////////////Item -->
@@ -164,6 +195,22 @@ Department of Economics, LSA
 </a>
 Ph.D. Student<br>
 Department of Economics, LSA
+
+</div>
+
+<!-- /////////////////////////Item -->
+
+<div class="devlab-item" data-search="juanita jaramillo phd student department of economics lsa ford school of public policy">
+
+<a  target="_blank" href="https://sites.google.com/umich.edu/juanita-jaramillo">
+
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/Juanita Jaramillo Headshot.JPG'></div>
+
+<strong>Juanita Jaramillo</strong><br>
+</a>
+Ph.D. Student<br>
+Department of Economics, LSA<br>
+Ford School of Public Policy
 
 </div>
 <!-- /////////////////////////Item -->
@@ -243,6 +290,21 @@ Department of Economics, LSA
 
 <!-- /////////////////////////Item -->
 
+<div class="devlab-item" data-search="sameer nair-desai phd student department of economics lsa">
+
+<a  target="_blank" href="https://snairdesai.github.io/">
+
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/SameerNair-DesaiHeadshot.jpeg'></div>
+
+<strong>Sameer Nair-Desai</strong><br>
+</a>
+Ph.D. Student<br>
+Department of Economics, LSA
+
+</div>
+
+<!-- /////////////////////////Item -->
+
 
 <!-- <div class="devlab-item">
 
@@ -292,13 +354,28 @@ Department of Economics, LSA
 
 <div class="devlab-item" data-search="nathan sunday phd student department of economics lsa">
 
-<a href="#">
+<a  target="_blank" href="https://nathan-sunday.github.io/">
 
-<div class="devlab-image-container"><img src='https://devecon.umich.edu/wp-content/uploads/2023/05/NathanSundayDevLabPic2-scaled-e1683172498191.jpg'></div>
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/Nathan_Sunday_Photo.png'></div>
 
 <strong>Nathan Sunday</strong><br>
 </a>
 Ph.D. Student<br>
+Department of Economics, LSA
+
+</div>
+
+<!-- /////////////////////////Item -->
+
+<div class="devlab-item" data-search="maria valerio undergraduate student department of economics lsa">
+
+<a  target="_blank" href="https://www.linkedin.com/in/maria-valerio-a91566279/">
+
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/Headshot_Maria_Valerio.jpg'></div>
+
+<strong>Maria Valerio</strong><br>
+</a>
+Undergraduate Student<br>
 Department of Economics, LSA
 
 </div>
