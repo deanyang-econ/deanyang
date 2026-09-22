@@ -131,7 +131,7 @@ Department of Economics, LSA
 
 <a  target="_blank" href="https://www.linkedin.com/in/johncfullerton/">
 
-<div class="devlab-image-container"><img src='/deanyang/files/profiles/Fullerton, John Headshot.JPG'></div>
+<div class="devlab-image-container"><img src='/deanyang/files/profiles/Fullerton, John Headshot-crop.JPG'></div>
 
 <strong>John Fullerton</strong><br>
 </a>
