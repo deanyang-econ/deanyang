@@ -73,7 +73,7 @@ Department of Economics, LSA
 <strong>Saheel Chodavadia</strong><br>
 </a>
 Ph.D. Student<br>
-Department of Economics, LSA
+Department of Economics, LSA<br>
 Ford School of Public Policy
 
 </div>
