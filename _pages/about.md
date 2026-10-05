@@ -29,6 +29,8 @@ PAPERS NEWLY CONDITIONALLY ACCEPTED, FORTHCOMING, OR IN PRINT
 * [Brain Drain or Brain Gain? Effects of High-Skilled International Migration on Developing Countries](/deanyang/files/batista-han-haushofer-khanna-mckenzie-mobarak-theoharides-yang-2025science-braingain.pdf), _Science_, Vol. 388, Issue 6749, 22 May 2025. (with Catia Batista, Daniel Han, Johannes Haushofer, Gaurav Khanna, David McKenzie, Mushfiq Mobarak, and Caroline Theoharides)
 
 WORKING PAPERS
+* [Crowding Out Temptation: Experimental Evidence on Savings and Health Behaviors in Kenya](https://www.nber.org/papers/w35833), _NBER Working Paper_, No. 35833, October 2026. (with Harsha Thirumurthy, Elizabeth F. Bair, Teniola I. Egbe, Benard Ayieko, Julius Wesonga, Sue Napierala, Connie Celum, Mary E. Putt, Carol S. Camlin, and Mark Ayallo)
+
 * [The Long Shadow of Early Education: Evidence from a Natural Experiment in the Philippines](https://www.nber.org/papers/w33600), _NBER Working Paper_, No. 33600, March 2025. (with Thomas Lloyd)
 
 * [The Price of Faith: Economic Costs and Religious Adaptation in Sub-Saharan Africa](/deanyang/files/workingpapers/montero-yang-yentzen-2026-09-price-of-faith.pdf), _NBER Working Paper_, No. 33482, February 2025; revised September 2026. (with Eduardo Montero and Triana Yentzen)
