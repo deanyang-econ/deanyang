@@ -12,6 +12,10 @@ author_profile: true
 
 {% include base_path %}
 
+## CONDITIONALLY ACCEPTED
+
+* [The Price of Faith: Economic Costs and Religious Adaptation in Sub-Saharan Africa](/deanyang/files/workingpapers/montero-yang-yentzen-2026-09-price-of-faith.pdf) (with Eduardo Montero and Triana Yentzen). Conditionally accepted, *Quarterly Journal of Economics*.
+
 <!-- FORTHCOMING OR CONDITIONALLY ACCEPTED section commented out — no papers currently in this category
 
 ## FORTHCOMING OR CONDITIONALLY ACCEPTED
