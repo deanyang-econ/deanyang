@@ -43,6 +43,8 @@ WORKING PAPERS
 
 RECENT VIDEOS AND PODCASTS
 
+- [Economics PhD Admissions Panel: Programs in the United States](https://idea.devecon.org/event-css-phd-admissions-us.html) (with Jessica Goldberg and Mushfiq Mobarak), *IDEA Career Skills Series*, October 19, 2026.
+
 - [Launch presentation for the VoxDevLit on "International Migration"](https://youtu.be/bvZo2HRA7nk), January 14, 2026.
 
 - Eduardo Montero and me on the [AEA Research Highlights Podcast](https://www.aeaweb.org/research/religious-festivals-development-mexico) on [“Religious Festivals and Economic Development”](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20211094), *American Economic Review*, October 2022. This [NBER Digest article](https://www.nber.org/digest-202108/religious-festivals-agriculture-and-economic-progress-mexico) provides a nontechnical summary.
