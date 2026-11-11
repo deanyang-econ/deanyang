@@ -17,6 +17,8 @@ The [NBER Reporter](https://www.nber.org/reporter/2025number1/international-migr
 
 PAPERS NEWLY CONDITIONALLY ACCEPTED, FORTHCOMING, OR IN PRINT
 
+* [The Price of Faith: Economic Costs and Religious Adaptation in Sub-Saharan Africa](/deanyang/files/workingpapers/montero-yang-yentzen-2026-09-price-of-faith.pdf), conditionally accepted, _Quarterly Journal of Economics_. (with Eduardo Montero and Triana Yentzen)
+
 * [International Migration and Economic Development](/deanyang/files/yang-2026-international-migration-economic-development.pdf), _Annual Review of Economics_, Vol. 18, 2026.
 
 * [Abundance from Abroad: Migrant Income and Long-Run Economic Development](/deanyang/files/khanna-et-al-2026-abundance-from-abroad-migrant-income-and-long-run-economic-development.pdf), _American Economic Review_, Vol. 116, No. 4, April 2026. (with Gaurav Khanna, Emir Murathanoglu, and Caroline Theoharides)  
@@ -32,8 +34,6 @@ WORKING PAPERS
 * [Crowding Out Temptation: Experimental Evidence on Savings and Health Behaviors in Kenya](https://www.nber.org/papers/w35833), _NBER Working Paper_, No. 35833, October 2026. (with Harsha Thirumurthy, Elizabeth F. Bair, Teniola I. Egbe, Benard Ayieko, Julius Wesonga, Sue Napierala, Connie Celum, Mary E. Putt, Carol S. Camlin, and Mark Ayallo)
 
 * [The Long Shadow of Early Education: Evidence from a Natural Experiment in the Philippines](https://www.nber.org/papers/w33600), _NBER Working Paper_, No. 33600, March 2025. (with Thomas Lloyd)
-
-* [The Price of Faith: Economic Costs and Religious Adaptation in Sub-Saharan Africa](/deanyang/files/workingpapers/montero-yang-yentzen-2026-09-price-of-faith.pdf), _NBER Working Paper_, No. 33482, February 2025; revised September 2026. (with Eduardo Montero and Triana Yentzen)
 
 * [Ancient Epics in the Television Age: Religious Identity and the Rise of Hindu Nationalism in India](https://www.nber.org/papers/w33417), _NBER Working Paper_, No. 33417, January 2025. (with Resuf Ahmed, Paul Brimble, Akhila Kovvuri, and Alessandro Saia)  
      Coverage: [VoxDev article](https://www.voxdev.org/topic/institutions-political-economy/sunday-morning-broadcast-changed-indian-democracy)
