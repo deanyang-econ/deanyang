@@ -33,7 +33,7 @@ PAPERS NEWLY CONDITIONALLY ACCEPTED, FORTHCOMING, OR IN PRINT
 WORKING PAPERS
 * [Crowding Out Temptation: Experimental Evidence on Savings and Health Behaviors in Kenya](https://www.nber.org/papers/w35833), _NBER Working Paper_, No. 35833, October 2026. (with Harsha Thirumurthy, Elizabeth F. Bair, Teniola I. Egbe, Benard Ayieko, Julius Wesonga, Sue Napierala, Connie Celum, Mary E. Putt, Carol S. Camlin, and Mark Ayallo)
 
-* [When Incentives Aren't Enough: Evidence on Inattention and Imperfect Memory from HIV Medication Adherence](https://www.nber.org/papers/w34917), _NBER Working Paper_, No. 34917, March 2026. (with Hang Yu, Jared Stolove, James Riddell IV, and Arlete Mahumane)
+* [When Incentives Aren't Enough: Evidence on Inattention and Imperfect Memory from HIV Medication Adherence](/deanyang/files/workingpapers/yu-stolove-yang-riddell-mahumane-2026-11-when-incentives-arent-enough.pdf), _NBER Working Paper_, No. 34917, March 2026; revised November 2026. (with Hang Yu, Jared Stolove, James Riddell IV, and Arlete Mahumane)
 
 * [The Long Shadow of Early Education: Evidence from a Natural Experiment in the Philippines](https://www.nber.org/papers/w33600), _NBER Working Paper_, No. 33600, March 2025. (with Thomas Lloyd)
 

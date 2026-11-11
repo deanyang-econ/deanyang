@@ -9,7 +9,7 @@ title: "Working papers"
 
 * [Crowding Out Temptation: Experimental Evidence on Savings and Health Behaviors in Kenya](/deanyang/files/workingpapers/thirumurthy-et-al-2026-crowding-out-temptation.pdf) (with Harsha Thirumurthy, Elizabeth F. Bair, Teniola I. Egbe, Benard Ayieko, Julius Wesonga, Sue Napierala, Connie Celum, Mary E. Putt, Carol S. Camlin, and Mark Ayallo).
 
-* [When Incentives Aren't Enough: Evidence on Inattention and Imperfect Memory from HIV Medication Adherence](/deanyang/files/workingpapers/yu-stolove-yang-riddell-mahumane-2026-when-incentives-arent-enough.pdf) (with Hang Yu, Jared Stolove, James Riddell IV, and Arlete Mahumane).
+* [When Incentives Aren't Enough: Evidence on Inattention and Imperfect Memory from HIV Medication Adherence](/deanyang/files/workingpapers/yu-stolove-yang-riddell-mahumane-2026-11-when-incentives-arent-enough.pdf) (with Hang Yu, Jared Stolove, James Riddell IV, and Arlete Mahumane).
 
 * [Ancient Epics in the Television Age: Religious Identity and the Rise of Hindu Nationalism in India](/deanyang/files/workingpapers/yang-saia-kovvuri-ahmed-brimble-2026-ancient-epics.pdf)  (with Resuf Ahmed, Paul Brimble, Akhila Kovvuri, and Alessandro Saia).
 
